@@ -7,6 +7,30 @@ use R.
 Lincoln Mullen | <http://lincolnmullen.com> |
 <lincoln@lincolnmullen.com>
 
+### Use
+
+You will have to install [devtools](https://github.com/hadley/devtools) 
+to install this package from GitHub.
+
+To install: 
+
+```
+devtools::install_github("lmullen/historydata")
+```
+
+To list all the datasets in the package with their documentation:
+
+```
+library(historydata)
+help(package = historydata)
+```
+
+To load a dataset:
+
+```
+data(catholic_dioceses)
+```
+
 ### Contributing
 
 If you have a dataset that you think would be good for this package,
