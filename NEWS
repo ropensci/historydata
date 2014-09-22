@@ -4,3 +4,6 @@ historydata 0.1
 * Added sarna: Population estimates for American Jews
 
 * Added us_state_populations: Populations of US states and territories
+
+* Added catholic_dioceses: Locations and dates founded for Roman Catholic 
+  dioceses in the United States, Mexico, and Canada

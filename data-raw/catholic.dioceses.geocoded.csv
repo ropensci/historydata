@@ -1,0 +1,356 @@
+"","diocese","date.erected","date.metropolitan","rite","geo.lon","geo.lat"
+"1","Baltimore, Maryland","April 6, 1789","April 8, 1808","Latin",-76.6121893,39.2903848
+"2","New Orleans, Louisiana","April 25, 1793","July 19, 1850","Latin",-90.0715323,29.9510658
+"3","Boston, Massachusetts","April 8, 1808","February 12, 1875","Latin",-71.0597732,42.3584308
+"4","Louisville, Kentucky","April 8, 1808","December 10, 1937","Latin",-85.7584557,38.2526647
+"5","New York, New York","April 8, 1808","July 19, 1850","Latin",-74.0059731,40.7143528
+"6","Philadelphia, Pennsylvania","April 8, 1808","February 12, 1875","Latin",-75.163789,39.952335
+"7","Richmond, Virginia","June 19, 1820",,"Latin",-77.4360481,37.5407246
+"8","Charleston, South Carolina","July 11, 1820",,"Latin",-79.9309216,32.7765656
+"9","Cincinnati, Ohio","June 19, 1821","July 19, 1850","Latin",-84.5120196,39.1031182
+"10","St. Louis, Missouri","July 18, 1826","July 20, 1847","Latin",-90.1994042,38.6270025
+"11","Mobile, Alabama","May 15, 1829","July 29, 1980","Latin",-88.0430541,30.6943566
+"12","Birmingham, Alabama","June 28, 1969",,"Latin",-86.80249,33.5206608
+"13","Detroit, Michigan","March 8, 1833","May 22, 1937","Latin",-83.0457538,42.331427
+"14","Indianapolis, Indiana","April 12, 1834","October 21, 1944","Latin",-86.158068,39.768403
+"15","Dubuque, Iowa","July 28, 1837","June 15, 1893","Latin",-90.6645718,42.5005583
+"16","Nashville, Tennessee","July 28, 1837",,"Latin",-86.7833333,36.1666667
+"17","Jackson, Mississippi","July 28, 1837",,"Latin",-90.1848103,32.2987573
+"18","Los Angeles, California","April 27, 1840","July 11, 1936","Latin",-118.2436849,34.0522342
+"19","Pittsburgh","August 11, 1843",,"Latin",-79.9958864,40.4406248
+"20","Hartford, Connecticut","September 18, 1843","August 6, 1953","Latin",-72.6850932,41.7637111
+"21","Chicago, Illinois","November 28, 1843","September 10, 1880","Latin",-87.6297982,41.8781136
+"22","Little Rock, Arkansas","November 28, 1843",,"Latin",-92.2895948,34.7464809
+"23","Milwaukee, Wisconsin","November 28, 1843","February 12, 1875","Latin",-87.9064736,43.0389025
+"24","Portland, Oregon","July 24, 1846","July 19, 1850","Latin",-122.6762071,45.5234515
+"25","Albany, New York","April 23, 1847",,"Latin",-73.7562317,42.6525793
+"26","Buffalo, New York","April 23, 1847",,"Latin",-78.8783689,42.8864468
+"27","Cleveland, Ohio","April 23, 1847",,"Latin",-81.6954088,41.4994954
+"28","Galveston-Houston, Texas","April 23, 1847","December 29, 2004","Latin",-95.3693896,29.7601927
+"29","Seattle, Washington","May 31, 1850","June 23, 1951","Latin",-122.3320708,47.6062095
+"30","Savannah, Georgia","July 3, 1850",,"Latin",-81.0998342,32.0835407
+"31","St. Paul-Minneapolis, Minnesota","July 19, 1850","May 4, 1888","Latin",-93.2009998,44.9374831
+"32","Wheeling-Charleston, West Virginia","July 19, 1850",,"Latin",-81.6330547,38.3451243
+"33","Erie, Pennsylvania","July 15, 1853",,"Latin",-80.085059,42.1292241
+"34","Alexandria, Louisiana","July 15, 1853",,"Latin",-92.4451371,31.3112936
+"35","Brooklyn, New York","July 29, 1853",,"Latin",-73.95,40.65
+"36","Burlington, Vermont","July 29, 1853",,"Latin",-73.212072,44.4758825
+"37","Covington, Kentucky","July 29, 1853",,"Latin",-84.5085536,39.0836712
+"38","Newark, New Jersey","July 29, 1853","December 10, 1917","Latin",-74.1723667,40.735657
+"39","Portland, Maine","July 29, 1853",,"Latin",-70.2553259,43.661471
+"40","San Francisco, California","July 29, 1853","July 29, 1853","Latin",-122.4194155,37.7749295
+"41","Santa Fe, New Mexico","July 29, 1853","February 12, 1875","Latin",-105.937799,35.6869752
+"42","Springfield, Illinois","July 29, 1853",,"Latin",-89.6501481,39.7817213
+"43","Marquette, Michigan","January 9, 1857",,"Latin",-87.3955954,46.5475825
+"44","Fort Wayne-South Bend, Indiana","September 22, 1857",,"Latin",-85.2201841,41.0541092
+"45","Sacramento, California","February 3, 1868",,"Latin",-121.4943996,38.5815719
+"46","La Crosse, Wisconsin","February 8, 1868",,"Latin",-91.2395807,43.8013556
+"47","Columbus, Ohio","March 3, 1868",,"Latin",-82.9987942,39.9611755
+"48","Green Bay, Wisconsin","March 3, 1868",,"Latin",-88.019826,44.519159
+"49","Harrisburg, Pennsylvania","March 3, 1868",,"Latin",-76.8844179,40.2737002
+"50","Rochester, New York","March 3, 1868",,"Latin",-77.6109219,43.16103
+"51","Wilmington, Delaware","March 9, 1868",,"Latin",-75.5466667,39.7458333
+"52","Scranton, Pennsylvania","November 5, 1868",,"Latin",-75.6624122,41.408969
+"53","St. Augustine, Florida","March 11, 1870",,"Latin",-81.3132083,29.8942639
+"54","Springfield, Massachusetts","June 14, 1870",,"Latin",-72.589811,42.1014831
+"55","Providence, Rhode Island","January 31, 1872",,"Latin",-71.4128343,41.8239891
+"56","Ogdensburg, New York","February 15, 1872",,"Latin",-75.4863364,44.6942291
+"57","San Antonio, Texas","September 3, 1874","August 3, 1926","Latin",-98.4936282,29.4241219
+"58","Peoria, Illinois","February 12, 1875",,"Latin",-89.5889864,40.6936488
+"59","Kansas City, Kansas","May 22, 1877","August 9, 1952","Latin",-94.6274636,39.114053
+"60","Kansas City-St. Joseph, Missouri","September 10, 1880",,"Latin",-94.836541,39.757944
+"61","Davenport, Iowa","May 8, 1881",,"Latin",-90.5776367,41.5236437
+"62","Trenton, New Jersey","July 15, 1881",,"Latin",-74.7429384,40.2170534
+"63","Grand Rapids, Michigan","May 19, 1882",,"Latin",-85.6680863,42.9633599
+"64","Helena, Montana","March 7, 1884",,"Latin",-112.0270306,46.5958056
+"65","Manchester, New Hampshire","April 15, 1884",,"Latin",-71.4547891,42.9956397
+"66","Omaha, Nebraska","October 2, 1885","August 7, 1945","Latin",-95.9979883,41.2523634
+"67","Syracuse, New York","November 20, 1886",,"Latin",-76.1474244,43.0481221
+"68","Belleville, Illinois","January 7, 1887",,"Latin",-89.9839935,38.5200504
+"69","Lincoln, Nebraska","August 2, 1887",,"Latin",-96.681679,40.806862
+"70","Salina, Kansas","August 2, 1887",,"Latin",-97.6114237,38.8402805
+"71","Wichita, Kansas","August 2, 1887",,"Latin",-97.3361111,37.6888889
+"72","Denver, Colorado","August 8, 1887","November 15, 1941","Latin",-104.9847179,39.737567
+"73","St. Cloud, Minnesota","September 22, 1889",,"Latin",-94.1632404,45.5579451
+"74","Duluth, Minnesota","October 3, 1889",,"Latin",-92.1004852,46.7866719
+"75","Fargo, North Dakota","November 12, 1889",,"Latin",-96.7898034,46.8771863
+"76","Sioux Falls, South Dakota","November 12, 1889",,"Latin",-96.700327,43.5499749
+"77","Winona, Minnesota","November 26, 1889",,"Latin",-91.6404389,44.0478889
+"78","Dallas, Texas","July 15, 1890",,"Latin",-96.8004511,32.7801399
+"79","Fort Worth, Texas","August 9, 1969",,"Latin",-97.3208496,32.725409
+"80","Salt Lake City, Utah","January 27, 1891",,"Latin",-111.8910474,40.7607793
+"81","Boise City, Idaho","August 25, 1893",,"Latin",-116.2146068,43.6187102
+"82","Tucson, Arizona","May 8, 1897",,"Latin",-110.926479,32.2217429
+"83","Altoona-Johnstown, Pennsylvania","May 30, 1901",,"Latin",-78.5162633,40.3556869
+"84","Sioux City, Iowa","January 15, 1902",,"Latin",-96.4003069,42.4999942
+"85","Rapid City, South Dakota","August 4, 1902",,"Latin",-103.2310149,44.0805434
+"86","Baker, Oregon","June 19, 1903",,"Latin",-117.8343848,44.7748748
+"87","Fall River, Massachusetts","March 12, 1904",,"Latin",-71.1550451,41.7014912
+"88","Great Falls-Billings, Montana","May 18, 1904",,"Latin",-109.7658552,46.6291494
+"89","Superior, Wisconsin","May 3, 1905",,"Latin",-92.1040796,46.7207737
+"90","Oklahoma City, Oklahoma","August 23, 1905","December 13, 1972","Latin",-97.5164276,35.4675602
+"91","Tulsa, Oklahoma","December 13, 1972",,"Latin",-95.992775,36.1539816
+"92","Rockford, Illinois","September 27, 1908",,"Latin",-89.0939952,42.2711311
+"93","Bismarck, North Dakota","December 31, 1909",,"Latin",-100.7837392,46.8083268
+"94","Crookston, Minnesota","December 31, 1909",,"Latin",-96.6093911,47.7745617
+"95","Toledo, Ohio","April 15, 1910",,"Latin",-83.555212,41.6639383
+"96","Des Moines, Iowa","August 12, 1911",,"Latin",-93.6091064,41.6005448
+"97","Grand Island, Nebraska","March 8, 1912",,"Latin",-98.3420118,40.9263957
+"98","Corpus Christi, Texas","March 23, 1912",,"Latin",-97.396381,27.8005828
+"99","Spokane, Washington","December 17, 1913",,"Latin",-117.4260466,47.6587802
+"100","El Paso, Texas","March 3, 1914",,"Latin",-106.4869314,31.7587198
+"101","Lafayette, Louisiana","January 11, 1918",,"Latin",-92.0198427,30.2240897
+"102","Monterey, California","April 27, 1840",,"Latin",-121.8946761,36.6002378
+"103","Fresno, California","October 6, 1967",,"Latin",-119.7725868,36.7468422
+"104","Raleigh, North Carolina","December 12, 1924",,"Latin",-78.6381787,35.7795897
+"105","Amarillo, Texas","August 3, 1926",,"Latin",-101.8312969,35.2219971
+"106","Reno, Nevada","March 27, 1931",,"Latin",-119.8138027,39.5296329
+"107","San Diego, California","July 1, 1936",,"Latin",-117.1572551,32.7153292
+"108","Lansing, Michigan","May 22, 1937",,"Latin",-84.5555347,42.732535
+"109","Camden, New Jersey","December 9, 1937",,"Latin",-75.1196199,39.9259463
+"110","Owensboro, Kentucky","December 9, 1937",,"Latin",-87.1111676,37.7719074
+"111","Paterson, New Jersey","December 9, 1937",,"Latin",-74.171811,40.9167654
+"112","Saginaw, Michigan","February 26, 1938",,"Latin",-83.9508068,43.4194699
+"113","Washington, District of Columbia","July 22, 1939","July 22, 1939","Latin",-77.0364641,38.9072309
+"114","Gallup, New Mexico","December 16, 1939",,"Latin",-108.7425843,35.5280783
+"115","Honolulu, Hawaii","September 10, 1941",,"Latin",-157.8583333,21.3069444
+"116","Pueblo, Colorado","November 15, 1941",,"Latin",-104.6091409,38.2544472
+"117","Youngstown, Ohio","May 15, 1943",,"Latin",-80.6495194,41.0997803
+"118","Evansville, Indiana","October 21, 1944",,"Latin",-87.5710898,37.9715592
+"119","Lafayette, Indiana","October 21, 1944",,"Latin",-86.8752869,40.4167022
+"120","Steubenville, Ohio","October 21, 1944",,"Latin",-80.6339638,40.3697905
+"121","Madison, Wisconsin","March 12, 1946",,"Latin",-89.4012302,43.0730517
+"122","Austin, Texas","November 15, 1947",,"Latin",-97.7430608,30.267153
+"123","Joliet, Illinois","December 11, 1948",,"Latin",-88.0817251,41.525031
+"124","Worcester, Massachusetts","January 14, 1950",,"Latin",-71.8022934,42.2625932
+"125","Greensburg, Pennsylvania","March 10, 1951",,"Latin",-79.5389289,40.3014581
+"126","Dodge City, Kansas","March 19, 1951",,"Latin",-100.0170787,37.7527982
+"127","Juneau, Alaska","June 23, 1951",,"Latin",-134.4197222,58.3019444
+"128","Yakima, Washington","June 23, 1951",,"Latin",-120.5058987,46.6020711
+"129","Bridgeport, Connecticut","August 6, 1953",,"Latin",-73.1951767,41.1865478
+"130","Norwich, Connecticut","August 6, 1953",,"Latin",-72.0759105,41.5242649
+"131","Atlanta, Georgia","July 2, 1956","February 21, 1962","Latin",-84.3879824,33.7489954
+"132","Jefferson City, Missouri","July 2, 1956",,"Latin",-92.1735164,38.5767017
+"133","Springfield-Cape Girardeau, Missouri","July 2, 1956",,"Latin",-89.5181476,37.3058839
+"134","Gary, Indiana","February 25, 1957",,"Latin",-87.3464271,41.5933696
+"135","Rockville Centre, New York","April 6, 1957",,"Latin",-73.6412406,40.6587138
+"136","New Ulm, Minnesota","January 3, 1958",,"Latin",-94.4593018,44.3144394
+"137","Miami, Florida","August 13, 1958","May 25, 1958","Latin",-80.2264393,25.7889689
+"138","Allentown, Pennsylvania","January 28, 1961",,"Latin",-75.4901833,40.6084305
+"139","Baton Rouge, Louisiana","July 20, 1961",,"Latin",-91.1403196,30.4582829
+"140","San Angelo, Texas","October 16, 1961",,"Latin",-100.4370375,31.4637723
+"141","Oakland, California","February 21, 1962",,"Latin",-122.2711137,37.8043637
+"142","Santa Rosa, California","February 21, 1962",,"Latin",-122.7144314,38.4404674
+"143","Stockton, California","February 21, 1962",,"Latin",-121.2907796,37.9577016
+"144","Fairbanks, Alaska","August 8, 1962",,"Latin",-147.7163889,64.8377778
+"145","Philadelphia, Pennsylvania","May 8, 1924","July 10, 1958","Byzantine",-75.163789,39.952335
+"146","Stamford, Connecticut","July 10, 1958",,"Byzantine",-73.5387341,41.0534302
+"147","Chicago, Illinois","August 14, 1961",,"Byzantine",-87.6297982,41.8781136
+"148","Pittsburgh, Pennsylvania","July 6, 1963","February 21, 1969","Byzantine",-79.9958864,40.4406248
+"149","Passaic, New Jersey","July 6, 1963",,"Byzantine",-74.1284764,40.8567662
+"150","San Juan, Puerto Rico","August 11, 1511","April 30, 1960","Latin",-66.1057217,18.4663338
+"151","Ponce, Puerto Rico","November 21, 1924",,"Latin",-66.6140616,18.0110768
+"152","Arecibo, Puerto Rico","July 30, 1960",,"Latin",-66.7157306,18.472445
+"153","Anchorage, Alaska","January 22, 1966","January 22, 1966","Latin",-149.9002778,61.2180556
+"154","Arlington, Virginia","May 28, 1974",,"Latin",-77.1067698,38.8799697
+"155","Beaumont, Texas","June 25, 1966",,"Latin",-94.1265562,30.080174
+"156","Biloxi, Mississippi","March 1, 1977",,"Latin",-88.8853078,30.3960318
+"157","Brownsville, Texas","July 10, 1965",,"Latin",-97.4974838,25.9017472
+"158","Charlotte, North Carolina","November 12, 1971",,"Latin",-80.8431267,35.2270869
+"159","Cheyenne, Wyoming","August 2, 1887",,"Latin",-104.8202462,41.1399814
+"160","Colorado Springs, Colorado","10 November 1983",,"Latin",-104.8213634,38.8338816
+"161","Gaylord, Michigan","December 19, 1970",,"Latin",-84.6747523,45.0275126
+"162","Phoenix, Arizona","December 3, 1981",,"Byzantine",-112.0740373,33.4483771
+"163","Houma-Thibodaux, Louisiana","March 2, 1977",,"Latin",-90.7187519,29.588893
+"164","Kalamazoo, Michigan","December 19, 1970",,"Latin",-85.5872286,42.2917069
+"165","Knoxville, Tennessee"," May 27, 1988",,"Latin",-83.9207392,35.9606384
+"166","Lake Charles, Louisiana","January 29, 1980",,"Latin",-93.2173758,30.2265949
+"167","Laredo, Texas","July 3, 2000",,"Latin",-99.5075421,27.506407
+"168","Las Cruces","August 17, 1982",,"Latin",-106.7636538,32.3199396
+"169","Las Vegas, Nevada"," March 21, 1995",,"Latin",-115.172816,36.114646
+"170","Lexington, Kentucky"," January 14, 1988",,"Latin",-84.5037164,38.0405837
+"171","Lubbock, Texas","March 25, 1983",,"Latin",-101.8551665,33.5778631
+"172","Memphis, Tennessee","June 20, 1970",,"Latin",-90.0489801,35.1495343
+"173","Metuchen, New Jersey","November 19, 1981",,"Latin",-74.3632049,40.5431598
+"174","Newton, Massachusetts","June 28, 1976",,"Byzantine",-71.2092214,42.3370413
+"175","Orange, California","March 24, 1976",,"Latin",-117.8531119,33.7877944
+"176","Newark, New Jersey","November 6, 1995",,"Antiochian",-74.1723667,40.735657
+"177","Los Angeles","February 19, 1994",,"Antiochian",-118.2436849,34.0522342
+"178","New York, New York"," September 12, 2005",,"Armenian",-74.0059731,40.7143528
+"179","Palm Beach, Florida","June 16, 1984",,"Latin",-80.0364297,26.7056206
+"180","Parma, Ohio","February 21, 1969",,"Byzantine",-81.7229086,41.4047742
+"181","Pensacola, Tallahassee","October 1, 1975",,"Latin",-84.2783175,30.4387533
+"182","Phoenix, Arizona","June 28, 1969",,"Latin",-112.0740373,33.4483771
+"183","Canton, Ohio","March 26, 1987",,"Byzantine",-81.378447,40.7989473
+"184","Parma, Ohio","December 5, 1983",,"Byzantine",-81.7229086,41.4047742
+"185","Brooklyn, New York","January 10, 1966",,"Antiochian",-73.95,40.65
+"186","St. Petersburg, Florida","March 2, 1968",,"Latin",-82.64,27.7730556
+"187","San Diego, California"," May 21, 2002",,"Chaldean",-117.1572551,32.7153292
+"188","Virgin Islands"," April 20, 1977",,"Latin",-64.896335,18.335765
+"189","Chicago, Illinois"," March 13, 2001",,"Chaldean",-87.6297982,41.8781136
+"190","Detroit, Michigan","August 3, 1985",,"Chaldean",-83.0457538,42.331427
+"191","San Bernardino, California","July 14, 1978",,"Latin",-117.2897652,34.1083449
+"192","San Jose, California","January 27, 1981",,"Latin",-121.8949555,37.3393857
+"193","Shreveport, Louisiana","June 16, 1986",,"Latin",-93.7501789,32.5251516
+"194","Tyler, Texas","December 12, 1986",,"Latin",-95.3010624,32.3512601
+"195","Venice, Florida","June 16, 1984",,"Latin",-82.4542632,27.0997775
+"196","Victoria, Texas","April 13, 1982",,"Latin",-97.0035982,28.8052674
+"197","Alexandria-Cornwall, Ontario","January 21, 1890",,"Latin",-74.7122911,45.0187496
+"198","Amos, Quebec","December 3, 1938",,"Latin",-78.1125205,48.5650196
+"199","Antigonish, Nova Scotia","August 23, 1886",,"Latin",-61.9928025,45.6226605
+"200","Baie-Comeau, Quebec","July 14, 1986",,"Latin",-68.1503944,49.2212971
+"201","Bathurst, New Brunswick","May 8, 1860",,"Latin",-65.6513358,47.6183507
+"202","Calgary, Alberta","November 30, 1912",,"Latin",-114.0581012,51.0453246
+"203","Charlottetown, Prince Edward Island","August 11, 1829",,"",-63.1310704,46.23824
+"204","Chicoutimi, Quebec","May 28, 1878",,"Latin",-71.061886,48.422159
+"205","Churchill-Baie d'Hudson, Manitoba","January 29, 1968",,"Latin",-98.8138763,53.7608608
+"206","Corner Brook and Labrador, Newfoundland","February 18, 1904",,"Latin",-57.9393866,48.9431774
+"207","Edmonton, Alberta","September 22, 1871","November 30, 1912","Latin",-113.4909267,53.544389
+"208","Edmonton, Alberta","January 19, 1948",,"Byzantine",-113.4909267,53.544389
+"209","Edmundston, New Brunswick","December 16, 1944",,"Latin",-68.3266741,47.3690127
+"210","Gaspe, Quebec","May 5, 1922",,"Latin",-64.4869016,48.8316351
+"211","Gatineau, Quebec","April 27, 1963","October 31, 1990","Latin",-75.7012723,45.4765446
+"212","Grand Falls, Newfoundland","February 29, 1856",,"Latin",-55.65049,48.929001
+"213","Grouard-McLennan, Alberta","July 13, 1967","July 13, 1967","Latin",-116.9068316,55.710877
+"214","Halifax-Yarmouth, Nova Scotia","February 15, 1842","May 4, 1852","Latin",-64.7223865,44.0471946
+"215","Hamilton, Ontario","February 29, 1856",,"Latin",-79.8660914,43.2500208
+"216","Hearst, Ontario","December 3, 1938",,"Latin",-83.6669552,49.6880184
+"217","Joliette, Quebec","January 27, 1904",,"Latin",-73.439239,46.0232219
+"218","Kamloops, British Columbia","December 22, 1945",,"Latin",-120.3272674,50.674522
+"219","Keewatin-Le Pas, Manitoba","July 13, 1967",,"Latin",-101.2405232,53.8182568
+"220","Kingston, Ontario","January 27, 1826","December 28, 1889","Latin",-76.4859544,44.2311717
+"221","London, Ontario","February 21, 1855",,"Latin",-81.243177,42.9869502
+"222","Mackenzie-Fort Smith, Northwest Territory","July 13, 1967",,"Latin",NA,NA
+"223","Mar Addai of Toronto","June 10, 2011",,"Chaldean",-79.3831843,43.653226
+"224","Moncton, New Brunswick","February 22, 1936","February 22, 1936","Latin",-64.7782313,46.0878165
+"225","Mont-Laurier, Quebec","April 21, 1913",,"Latin",-75.4973617,46.5526981
+"226","Montreal, Quebec","May 13, 1836","June 8, 1886","Latin",-73.5539925,45.5086699
+"227","Moosonee, Ontario","July 13, 1967",,"Latin",-80.640049,51.273089
+"228","Nelson, British Columbia","February 22, 1936",,"Latin",-117.2948343,49.4928119
+"229","New Westminster, British Columbia","June 27, 1974",,"Byzantine",-122.910956,49.2057179
+"230","Nicolet, Quebec","July 10, 1885",,"Latin",-72.6191742,46.2274055
+"231","Ottawa, Ontario","June 25, 1847","June 8, 1886","Latin",-75.6971931,45.4215296
+"232","Pembroke, Ontario","May 4, 1898",,"Latin",-77.1108826,45.8266513
+"233","Peterborough, Ontario","July 11, 1882",,"Latin",-78.319747,44.309058
+"234","Prince-Albert, Saskatchewan","December 2, 1907",,"Latin",-105.7530705,53.2033494
+"235","Prince George, British Columbia","July 13, 1967",,"Latin",-122.7496693,53.9170641
+"236","Quebec, Quebec","October 1, 1674","January 12, 1819","Latin",-71.242796,46.8032826
+"237","Regina, Saskatchewan","March 4, 1910","December 4, 1915","Latin",-104.6066667,50.4547222
+"238","Rimouski, Quebec","January 15, 1867","February 9, 1846","Latin",-68.5166667,48.4333333
+"239","Rouyn-Noranda, Quebec","November 29, 1973",,"Latin",-79.0187836,48.2342362
+"240","Saint-Boniface, Manitoba","June 4, 1847",,"Latin",-97.060083,49.862588
+"241","Saint Catharines, Ontario","November 22, 1958",,"Latin",-79.2468626,43.1593745
+"242","Sainte-Anne-de-la-Pocatiere, Quebec","June 23, 1951",,"Latin",-70.040478,47.3286217
+"243","Saint-Hyacinthe, Quebec","June 8, 1852",,"Latin",-72.9563391,45.6306875
+"244","Saint-Jean-Longueuil, Quebec","June 9, 1933",,"Latin",-73.5048769,45.5344841
+"245","Saint-Jerome, Quebec","June 23, 1951",,"Latin",-74.004948,45.775357
+"246","Saint John, New Brunswick","September 30, 1842",,"Latin",-66.0633081,45.2733153
+"247","Saint John's, Newfoundland","June 4, 1847","February 8, 1904","Latin",-52.7128315,47.5605413
+"248","Saint-Maron de Montreal","August 27, 1982",,"Antiochian",-73.666839,45.560017
+"249","Saint Paul in Alberta","July 17, 1948",,"Latin",-111.2953051,53.9911164
+"250","Saint-Sauveur de Montreal","September 1, 1984",,"Byzantine",-73.6718519,45.5348417
+"251","Toronto, Ontario","October 13, 1980",,"Byzantine",-79.3831843,43.653226
+"252","Gravelbourg, Saskatchewan","January 31, 1930",,"Latin",-106.5573172,49.8756758
+"253","Saskatoon, Saskatchewan","June 9, 1933",,"Latin",-106.647656,52.1343699
+"254","Saskatoon, Sasketchewan","November 3, 1956",,"Byzantine",-106.647656,52.1343699
+"255","Sault Sainte Marie, Ontario","September 16, 1904",,"Latin",-84.3453169,46.4952996
+"256","Sherbrooke, Quebec","August 28, 1874","March 2, 1951","Latin",-71.8824288,45.4009928
+"257","Thunder Bay, Ontario","April 29, 1952",,"Latin",-89.2476823,48.3808951
+"258","Timmins, Ontario","December 31, 1915",,"Latin",-81.3304953,48.4758208
+"259","Toronto, Ontario","December 17, 1841","March 18, 1870","Latin",-79.3831843,43.653226
+"260","Toronto, Ontario","November 3, 1956",,"Byzantine",-79.3831843,43.653226
+"261","Trois Rivieres, Quebec","June 8, 1852",,"Latin",-72.5432834,46.3432397
+"262","Valleyfield, Quebec","April 5, 1892",,"Latin",-74.1330862,45.2500909
+"263","Vancouver, British Columbia","September 2, 1890","September 19, 1908","Latin",-123.1139268,49.261226
+"264","Victoria, British Columbia","July 24, 1846","June 19, 1903","Latin",-123.3656444,48.4284207
+"265","Whitehorse, Yukon","July 13, 1967",,"Latin",-135.0568449,60.7211871
+"266","Winnipeg, Manitoba","December 4, 1915","December 4, 1915","Latin",-97.1374937,49.8997541
+"267","Winnipeg, Manitoba","November 3, 1956",,"Byzantine",-97.1374937,49.8997541
+"268","Acapulco, Guerrero","March 18, 1958","February 10, 1983","Latin",-99.881614,16.863794
+"269","Aguascalientes, Aguascalientes","August 27, 1899",,"Latin",-102.2910769,21.87846
+"270","Antequera, Oaxaca","June 21, 1535","June 23, 1891","Latin",-96.7158111,17.0691891
+"271","Apatzingan, Michoacan","April 30, 1962",,"Latin",-102.35,19.0833333
+"272","Atlacomulco, Mexico","November 3, 1984",,"Latin",-99.0384522,19.3976544
+"273","Autlan, Jalisco","January 28, 1961",,"Latin",-104.3667578,19.7707745
+"274","Campeche, Campeche","March 24, 1895",,"Latin",-90.5349087,19.8301251
+"275","Chihuahua, Chihuahua","June 23, 1891","November 22, 1958","Latin",-106.0737,28.630581
+"276","Chilpancingo-Chilapa, Guerrero","March 16, 1863",,"Latin",-99.3895893,17.5817939
+"277","Ciudad Altamirano, Guerrero","October 27, 1964",,"Latin",-100.6666667,18.3583333
+"278","Ciudad Guzman, Jalisco","March 25, 1972",,"Latin",-103.4685183,19.7050171
+"279","Ciudad Juarez, Chihuahua","April 10, 1957",,"Latin",-106.4830782,31.7388497
+"280","Ciudad Lázaro Cárdenas, Michoacán","October 11, 1985",,"Latin",-102.2130687,17.9693964
+"281","Ciudad Obregón, Sonora","June 20, 1959",,"Latin",-109.9388889,27.4938889
+"282","Ciudad Valles, San Luís Potosí","November 27, 1960",,"Latin",-99.0043597,21.988448
+"283","Ciudad Victoria, Tamaulipas","December 21, 1964",,"Latin",-99.1411154,23.7369164
+"284","Tampico, Tamaulipas","March 12, 1870",,"Latin",-97.8534153,22.2944797
+"285","Coatzacoalcos, Veracruz","March 14, 1984",,"Latin",-94.4601002,18.1247828
+"286","Colima, Colima","December 11, 1881",,"Latin",-103.733455,19.245226
+"287","Córdoba, Veracruz","April 15, 2000",,"Latin",-96.9237751,18.8838909
+"288","Cuauhtémoc-Madera, Chihuahua","November 17, 1995",,"Latin",-106.060762,28.611885
+"289","Cuautitlán, México","February 5, 1979",,"Latin",-99.1809685,19.6721809
+"290","Cuernavaca, Morelos","June 23, 1891",,"Latin",-99.2341667,18.9186111
+"291","Culiacán, Sinaloa","February 16, 1959",,"Latin",-107.385498,24.8048499
+"292","Durango, Durango","September 28, 1620","June 23, 1891","Latin",-104.6531759,24.0277202
+"293","Ecatepec, México","June 28, 1995",,"Latin",-99.0506744,19.601841
+"294","Ensenada, Baja California Norte","January 26, 2007",,"Latin",-116.606428,31.859577
+"295","Gómez Palacio, Durango","November 25, 2008",,"Latin",-103.491798,25.56815
+"296","Guadalajara, Jalisco","July 13, 1548","January 26, 1863","Latin",-103.343803,20.67359
+"297","Hermosillo, Sonora","May 7, 1779","July 13, 1963","Latin",-110.9625854,29.0736636
+"298","Huajuapan de León, Oaxaca","April 25, 1902",,"Latin",-97.7807647,17.8047448
+"299","Huautla, Oaxaca","October 8, 1972",,"Latin",-96.8436739,18.130831
+"300","Huejutla, Hidalgo","November 24, 1922",,"Latin",-98.4189061,21.1392412
+"301","Irapuato, Guanajuato","January 3, 2004",,"Latin",-101.3544964,20.6786652
+"302","Jalapa, Veracruz","March 19, 1863","June 29, 1951","Latin",-96.9101806,19.5437751
+"303","La Paz en la Baja California Sur","March 21, 1988",,"Latin",-110.3127531,24.1426408
+"304","León, Guanajuato","January 26, 1863","November 25, 2006","Latin",-101.6613046,21.1349634
+"305","Linares, Nuevo León","April 30, 1962",,"Latin",-99.5666667,24.8597222
+"306","Matamoros, Tamaulipas","February 16, 1958",,"Latin",-97.5027376,25.8690294
+"307","Matehuala, San Luís Potosí","May 28, 1997",,"Latin",-100.64279,23.6448029
+"308","Mazatlán, Sinaloa","November 22, 1958",,"Latin",-106.4111425,23.2494148
+"309","Mexicali, Baja California Norte","March 25, 1966",,"Latin",-115.4522623,32.6245389
+"310","México, Federal District","September 2, 1530","February 12, 1546","Latin",-99.1013498,19.2464696
+"311","Monterrey, Nuevo León","December 15, 1777","June 23, 1891","Latin",-100.309201,25.6732109
+"312","Morelia, Michoacán","August 11, 1536","January 26, 1863","Latin",-101.1949825,19.7059504
+"313","Netzahualcóyotl, México","February 5, 1979",,"Latin",-99.024786,19.403793
+"314","Eparchy of Nuestra Señora de los Mártires del Libano en México","November 6, 1995",,"Antiochian",-102.552784,23.634501
+"315","Eparchy of Nuestra Señora del Paraíso en México","February 27, 1988",,"Byzantine",-102.552784,23.634501
+"316","Nuevo Casas Grandes, Chihuahua","June 3, 2000",,"Latin",-107.9002268,30.4199278
+"317","Nuevo Laredo, Tamaulipas","November 6, 1989",,"Latin",-99.5562219,27.4669967
+"318","Orizaba, Veracruz","April 15, 2000",,"Latin",-97.1,18.85
+"319","Papantla, Puebla","November 24, 1922",,"Latin",-98.1291132,19.0380467
+"320","Parral, Chihuahua","May 11, 1992",,"Latin",-105.2363701,27.2357264
+"321","Piedras Negras, Coahuila","January 8, 2003",,"Latin",-100.5230556,28.7
+"322","Puebla de los Ángeles, Puebla","October 13, 1525","August 11, 1903","Latin",-98.2061934,19.0413068
+"323","Puerto Escondido, Oaxaca","November 8, 2003",,"Latin",-97.0694471,15.8655354
+"324","Querétaro, Querétaro","January 26, 1863",,"Latin",-100.3898881,20.5887932
+"325","Saltillo, Coahuila","June 23, 1891",,"Latin",-100.9954254,25.4267244
+"326","San Andrés Tuxtla, Veracruz","May 23, 1959",,"Latin",-95.2174947,18.4466172
+"327","San Cristóbal de Las Casas, Chiapas","March 19, 1539",,"Latin",-92.6376186,16.7370359
+"328","San Juan de los Lagos, Jalisco","March 25, 1972",,"Latin",-102.3320708,21.2491408
+"329","San Luis Potosí, San Luis Potosí","August 31, 1854","November 5, 1988","Latin",-100.9855409,22.1564699
+"330","Tabasco, Tabasco","May 25, 1880",,"Latin",-102.9133403,21.8647565
+"331","Tacámbaro, Michoacán","July 26, 1913",,"Latin",-101.4569444,19.2355556
+"332","Tapachula, Chiapas","June 19, 1957",,"Latin",-92.2609237,14.9112488
+"333","Tarahumara, Chihuahua","December 20, 1993",,"Latin",-106.1127038,28.7348522
+"334","Tehuacán, Puebla","January 13, 1962",,"Latin",-97.4,18.4666667
+"335","Tehuantepec, Oaxaca","June 23, 1891",,"Latin",-95.2388889,16.3244444
+"336","Tenancingo, México","November 26, 2009",,"Latin",-99.586822,18.959833
+"337","Teotihuacán, México","December 3, 2008",,"Latin",-98.8721186,19.685267
+"338","Tepic, Nayarit","June 23, 1891",,"Latin",-104.8945887,21.5041651
+"339","Texcoco, México","April 30, 1960",,"Latin",-99.1333333,19.4194444
+"340","Tijuana, Baja California Norte","July 13, 1963","November 25, 2006","Latin",-117.0382471,32.5149469
+"341","Tlalnepantla, México","January 13, 1964","June 17, 1989","Latin",-99.1907364,19.5345279
+"342","Tlapa, Guerrero","January 4, 1992",,"Latin",-98.5763889,17.5461111
+"343","Tlaxcala, Tlaxcala","May 23, 1959",,"Latin",-98.2375146,19.3181521
+"344","Toluca, México","June 4, 1950",,"Latin",-99.6452714,19.3009273
+"345","Torreón, Coahuila","June 19, 1957",,"Latin",-103.4067861,25.5428443
+"346","Tula, Hidalgo","February 27, 1961",,"Latin",-99.344429,20.052259
+"347","Tulancingo, Hidalgo","January 26, 1863","November 25, 2006","Latin",-98.367993,20.084376
+"348","Tuxpan, Veracruz","June 9, 1962",,"Latin",-97.4063351,20.9561149
+"349","Tuxtepec, Oaxaca","January 8, 1979",,"Latin",-96.1231999,18.0882429
+"350","Tuxtla Gutiérrez, Chiapas","October 27, 1964","November 25, 2006","Latin",-93.1270914,16.7604325
+"351","Valle de Chalco, México","July 8, 2003",,"Latin",-99.133208,19.4326077
+"352","Veracruz, Veracruz","June 9, 1962",,"Latin",-96.1342241,19.173773
+"353","Yucatán, Yucatán","November 19, 1561","November 11, 1906","Latin",-89.0943377,20.7098786
+"354","Zacatecas, Zacatecas","January 26, 1863",,"Latin",-102.5832539,22.7709249
+"355","Zamora, Michoacán","January 26, 1863",,"Latin",-102.2833333,20
