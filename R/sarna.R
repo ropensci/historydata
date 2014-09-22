@@ -17,7 +17,7 @@
 #'
 #'   }
 #'
-#' @section Citation: This data is taken from the appendix in Jonathan D. Sarna,
+#' @references This data is taken from the appendix in Jonathan D. Sarna,
 #'   \emph{American Judaism: A History} (New Haven: Yale University Press,
 #'   2004), 375-376.
 #' @examples

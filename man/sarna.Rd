@@ -32,14 +32,13 @@ This dataset contains estimates of the population of American Jews.
 
   }
 }
-
-\section{Citation}{
- This data is taken from the appendix in Jonathan D. Sarna,
-  \emph{American Judaism: A History} (New Haven: Yale University Press,
-  2004), 375-376.
-}
 \examples{
 head(sarna)
+}
+\references{
+This data is taken from the appendix in Jonathan D. Sarna,
+  \emph{American Judaism: A History} (New Haven: Yale University Press,
+  2004), 375-376.
 }
 \keyword{datasets}
 

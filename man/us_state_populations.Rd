@@ -31,15 +31,14 @@ Population figures for US states and territories from the decennial census.
 
   }
 }
-
-\section{Citation}{
- This dataset has been gathered by the
+\examples{
+head(us_state_populations)
+}
+\references{
+This dataset has been gathered by the
   \href{https://www.nhgis.org/}{NHGIS}. Minnesota Population Center,
   \emph{National Historical Geographic Information System: Version 2.0}
   (Minneapolis: University of Minnesota, 2011).
-}
-\examples{
-head(us_state_populations)
 }
 \keyword{datasets}
 
