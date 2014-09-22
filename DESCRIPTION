@@ -1,0 +1,8 @@
+Package: historydata
+Title: What the package does (one line)
+Version: 0.1
+Authors@R: Lincoln Mullen <lincoln@lincolnmullen.com> [aut, cre]
+Description: What the package does (one paragraph)
+Depends: R (>= 3.1.1)
+License: What license is it under?
+LazyData: true
