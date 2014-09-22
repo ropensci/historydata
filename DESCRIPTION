@@ -1,8 +1,14 @@
 Package: historydata
-Title: What the package does (one line)
+Title: historydata: sample datasets for historians
 Version: 0.1
-Authors@R: Lincoln Mullen <lincoln@lincolnmullen.com> [aut, cre]
-Description: What the package does (one paragraph)
-Depends: R (>= 3.1.1)
-License: What license is it under?
+Authors@R: c(person("Lincoln", "Mullen",
+    role = c("aut", "cre"),
+    email = "lincoln@lincolnmullen.com"))
+Description: This package provides sample datasets of interest to historians.
+Depends:
+    R (>= 3.1.1)
+License: MIT + file LICENSE
 LazyData: true
+Roxygen: list(wrap = FALSE)
+URL: https://github.com/lmullen/historydata
+BugReports: https://github.com/lmullen/historydata/issues
