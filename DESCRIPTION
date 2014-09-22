@@ -1,5 +1,5 @@
 Package: historydata
-Title: historydata: sample datasets for historians
+Title: historydata: datasets for historians
 Version: 0.1
 Authors@R: c(person("Lincoln", "Mullen",
     role = c("aut", "cre"),
