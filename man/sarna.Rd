@@ -33,7 +33,7 @@ This dataset contains estimates of the population of American Jews.
   }
 }
 
-\section{Source}{
+\section{Citation}{
  This data is taken from the appendix in Jonathan D. Sarna,
   \emph{American Judaism: A History} (New Haven: Yale University Press,
   2004), 375-376.
