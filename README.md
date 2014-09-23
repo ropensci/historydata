@@ -4,9 +4,6 @@ This R package contains datasets of interest to historians. It is
 primarily intended for pedagogic purposes in teaching historians how to
 use R.
 
-Lincoln Mullen | <http://lincolnmullen.com> |
-<lincoln@lincolnmullen.com>
-
 ### Use
 
 You will have to install [devtools](https://github.com/hadley/devtools) 
