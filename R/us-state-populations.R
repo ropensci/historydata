@@ -16,7 +16,7 @@
 #'   data.
 #'
 #'   }
-#'
+#' @format A data frame with 983 observations of 4 variables.
 #' @references This dataset has been gathered by the
 #'   \href{https://www.nhgis.org/}{NHGIS}. Minnesota Population Center,
 #'   \emph{National Historical Geographic Information System: Version 2.0}

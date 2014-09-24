@@ -22,6 +22,8 @@
 #'
 #'   }
 #'
+#' @format A data frame with 425 observations of 6 variables.
+#'
 #' @references This data is compiled from several sources:
 #'
 #'   Joseph Bernard Code, \emph{Dictionary of the American Hierarchy

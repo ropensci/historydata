@@ -3,12 +3,7 @@
 \name{us_state_populations}
 \alias{us_state_populations}
 \title{Populations of US states and territories, 1790-2010}
-\format{\preformatted{Classes ‘tbl_df’, ‘tbl’ and 'data.frame':	983 obs. of  4 variables:
- $ GISJOIN   : chr  "G090" "G100" "G130" "G240" ...
- $ year      : int  1790 1790 1790 1790 1790 1790 1790 1790 1790 1790 ...
- $ state     : chr  "Connecticut" "Delaware" "Georgia" "Maryland" ...
- $ population: int  237655 59096 82548 319728 475199 141899 184139 340241 395005 433611 ...
-}}
+\format{A data frame with 983 observations of 4 variables.}
 \usage{
 us_state_populations
 }
