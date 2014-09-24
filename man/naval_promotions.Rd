@@ -18,6 +18,8 @@ lieutenant, master commandament, and captain.
 
   \itemize{
 
+  \item \code{id}: A unique numeric identifier for each officer.
+
   \item \code{name}: Name of the officer.
 
   \item \code{generation}: A numeric value to represent a judgment about the
