@@ -16,7 +16,8 @@ catholic_dioceses
 }
 \description{
 Dates when Roman Catholic dioceses and archdioceses in the United States were
-founded or made metropolitan sees, with geocoded locations.
+founded or made metropolitan sees, with geocoded locations. The sources cited
+indicate that none of these sees have been discontinued.
 }
 \section{Variables}{
 
