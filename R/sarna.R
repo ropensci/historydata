@@ -8,15 +8,17 @@
 #'
 #'   \item \code{year}: date of estimate.
 #'
-#'   \item \code{estimate_low}, \code{estimate_high}: lower and upper bounds of
-#'   the population estimate in absolute terms.
+#'   \item \code{estimate}: the type of estimate. \code{population_low} and
+#'   \code{population_high} are the lower and upper bounds on the population of
+#'   American Jews; \code{percentage_high} and \code{percentage_low} are the
+#'   lower and upper bounds on the percentage of Jews among the United States
+#'   population.
 #'
-#'   \item \code{percentage_pop_low}, \code{percentage_pop_high}: lower and
-#'   upper bounds of percentage of American Jews in the total population of the
-#'   United States.
+#'   \item \code{value}: the value of the estimate.
 #'
 #'   }
 #'
+#' @format A data frame with 92 observations of 3 variables.
 #' @references This data is taken from the appendix in Jonathan D. Sarna,
 #'   \emph{American Judaism: A History} (New Haven: Yale University Press,
 #'   2004), 375-376.

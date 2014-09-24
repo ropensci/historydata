@@ -3,13 +3,7 @@
 \name{sarna}
 \alias{sarna}
 \title{Population estimates of American Jews}
-\format{\preformatted{Classes ‘tbl_df’, ‘tbl’ and 'data.frame':	23 obs. of  5 variables:
- $ year               : int  1660 1700 1776 1790 1800 1820 1830 1840 1850 1860 ...
- $ estimate_low       : int  50 200 1000 1300 2500 2650 4000 15000 50000 125000 ...
- $ estimate_high      : int  50 300 2500 3000 2500 3000 6000 15000 50000 200000 ...
- $ percentage_pop_low : num  NA NA 0.04 0.03 0.04 0.03 0.03 0.09 0.22 0.4 ...
- $ percentage_pop_high: num  NA NA 0.1 0.08 0.04 0.03 0.05 0.09 0.22 0.63 ...
-}}
+\format{A data frame with 92 observations of 3 variables.}
 \usage{
 sarna
 }
@@ -23,12 +17,13 @@ This dataset contains estimates of the population of American Jews.
 
   \item \code{year}: date of estimate.
 
-  \item \code{estimate_low}, \code{estimate_high}: lower and upper bounds of
-  the population estimate in absolute terms.
+  \item \code{estimate}: the type of estimate. \code{population_low} and
+  \code{population_high} are the lower and upper bounds on the population of
+  American Jews; \code{percentage_high} and \code{percentage_low} are the
+  lower and upper bounds on the percentage of Jews among the United States
+  population.
 
-  \item \code{percentage_pop_low}, \code{percentage_pop_high}: lower and
-  upper bounds of percentage of American Jews in the total population of the
-  United States.
+  \item \code{value}: the value of the estimate.
 
   }
 }
