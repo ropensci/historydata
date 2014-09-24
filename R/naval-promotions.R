@@ -33,8 +33,8 @@
 #'   \code{captain}. Also included are the dates some officers
 #'   \code{left_service}.
 #'
-#'   \item \code{date}: A date object for the date that an officer attained the
-#'   associated rank. }
+#'   \item \code{date}: The date as a character string on which an officer
+#'   attained the associated rank. }
 #'
 #' @format A data frame with 5,705 observations of 4 variables.
 #' @author \href{http://abbymullen.org/}{Abby Mullen}, Northeastern University

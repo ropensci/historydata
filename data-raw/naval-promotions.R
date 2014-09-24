@@ -1,6 +1,5 @@
 library(dplyr)
 library(tidyr)
-library(lubridate)
 naval_promotions <- read.csv("data-raw/naval-promotions.csv",
                              stringsAsFactors = FALSE)
 # Assign a unique ID to each person:
@@ -16,7 +15,5 @@ naval_promotions <- naval_promotions %>%
          captain = date.captain,
          left_service = date.leftservice) %>%
   gather(rank, date, -id, -name, -generation, na.rm = TRUE) %>%
-  filter(date != "",
-         date != "unknown") %>%
-  mutate(date = ymd(date, locale = "en_US"))
+  filter(date != "")
 devtools::use_data(naval_promotions, overwrite = TRUE)
