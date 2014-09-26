@@ -1,0 +1,842 @@
+"volume","page","mission_number","type","church","city","state","start_date","end_date","confessions_total","converts","under_instruction","diocese","confessions_adults","confessions_children","confessions_men","confessions_women","order","notes","converts_adult","converts_children","temperance_pledges","confirmed","location","year","converts_total","geo.lon","geo.lat"
+1,1,1,"mission","St. Joseph's Church","New York","NY","4/6/1851","4/20/1851",6000,0,0,"New York",5600,400,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New York NY",1851,0,-74.0059731,40.7143528
+1,6,2,"mission","St. Michael's Church","Loretto","PA","4/27/1851","5/11/1851",1700,0,0,"Pittsburgh",NA,100,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Loretto PA",1851,0,-78.630296,40.5031263
+1,11,3,"mission","St. Mary's Church","Hollidaysburg","PA","5/18/1851","5/28/1851",1000,0,0,"Pittsburgh",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Hollidaysburg PA",1851,0,-78.3889024,40.4272949
+1,12,4,"mission","Church of St. John Evangelist","Johnstown","PA","5/31/1851","6/8/1851",1000,0,0,"Pittsburgh",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Johnstown PA",1851,0,-78.9219698,40.3267407
+1,15,5,"mission","St. Peter's Church","New York","NY","9/28/1851","10/12/1851",4000,0,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New York NY",1851,0,-74.0059731,40.7143528
+1,18,6,"mission","St. Patrick's Cathedral","New York","NY","10/19/1851","11/3/1851",7000,0,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New York NY",1851,0,-74.0059731,40.7143528
+1,20,7,"mission","St. Patrick's Church","Erie","PA","11/17/1851","11/28/1851",1000,0,0,"Pittsburgh",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Erie PA",1851,0,-80.085059,42.1292241
+1,22,8,"mission","St. Philip Benizi Church","Cussewago","PA","12/1/1851","12/8/1851",270,0,0,"Pittsburgh",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Cussewago PA",1851,0,-80.2098219,41.7985407
+1,22,9,"mission","St. Vincent's Church (Benedictine)","Youngstown","PA","12/10/1851","12/19/1851",1000,0,0,"Pittsburgh",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Youngstown PA",1851,0,-79.3655913,40.2797927
+1,23,10,"mission","St. Peter's Church","Saratoga","NY","1/11/1852","1/22/1852",600,3,0,"Albany",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Saratoga NY",1852,3,-73.6300729,43.0448483
+1,27,11,"mission","St. Peter's Church","Troy","NY","1/25/1852","2/22/1852",3100,0,0,"Albany",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Troy NY",1852,0,-73.6917851,42.7284117
+1,28,12,"mission","St. Joseph's Church","Albany","NY","2/29/1852","3/14/1852",4000,0,0,"Albany",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Albany NY",1852,0,-73.7562317,42.6525793
+1,31,13,"mission","Ss. Peter and Paul's Cathedral","Detroit","MI","3/21/1852","4/4/1852",3000,0,0,"Detroit",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Detroit MI",1852,0,-83.0457538,42.331427
+1,33,14,"mission","St. John's Church","Philadelphia","PA","5/2/1852","5/16/1852",3000,0,0,"Philadelphia",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Philadelphia PA",1852,0,-75.163789,39.952335
+1,33,15,"mission","Church of the Assumption","Philadelphia","PA","5/19/1852","5/31/1852",1700,0,0,"Philadelphia",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Philadelphia PA",1852,0,-75.163789,39.952335
+1,35,16,"mission","St. Bernard's Church","Cohoes","NY","6/10/1852","6/20/1852",1400,0,0,"Albany",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Cohoes NY",1852,0,-73.7001187,42.7742446
+1,36,17,"mission","St. James's Cathedral","Wheeling","WV","9/5/1852","9/15/1852",1250,3,0,"Wheeling-Charleston",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Wheeling WV",1852,3,-80.7209149,40.0639616
+1,37,18,"mission","St. Peter's Cathedral","Cincinnati","OH","9/26/1852","10/10/1852",5000,0,0,"Cincinnati",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Cincinnati OH",1852,0,-84.5120196,39.1031182
+1,38,19,"mission","Cathedral of the Assumption","Louisville","KY","10/17/1852","10/31/1852",2000,3,0,"Louisville",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Louisville KY",1852,3,-85.7584557,38.2526647
+1,39,20,"mission","Cathedral of the Immaculate Conception","Albany","NY","11/28/1852","12/12/1852",4500,3,0,"Albany",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Albany NY",1852,3,-73.7562317,42.6525793
+1,40,21,"mission","St. Peter's Cathedral","Richmond","VA","12/24/1852","1/3/1853",620,3,0,"Richmond",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Richmond VA",1852,3,-77.4360481,37.5407246
+1,41,22,"mission","St. John's Cathedral","Cleveland","OH","1/23/1853","2/6/1853",2300,3,0,"Cleveland",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Cleveland OH",1853,3,-81.6954088,41.4994954
+1,42,23,"mission","St. Mary's Church","Philadelphia","PA","2/20/1853","3/6/1853",2550,3,0,"Philadelphia",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Philadelphia PA",1853,3,-75.163789,39.952335
+1,45,24,"mission","Cathedral of Baltimore","Baltimore","MD","4/10/1853","4/24/1853",4500,0,0,"Baltimore",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Baltimore MD",1853,0,-76.6121893,39.2903848
+1,51,25,"mission","St. Ignatius' Church","Harford County","MD","8/28/1853","9/10/1853",320,0,0,"Baltimore",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Harford County MD",1853,0,-76.3637285,39.5838964
+1,51,26,"mission","St. Michael's Church","Flushing","NY","9/11/1853","9/18/1853",950,0,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Flushing NY",1853,0,-73.833079,40.7674987
+1,52,27,"mission","St. Peter's Church","New Brighton, Staten Island","NY","9/29/1853","10/3/1853",1200,0,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New Brighton, Staten Island NY",1853,0,-74.090226,40.6404369
+1,52,28,"mission","St. Mary's Church","Yonkers","NY","9/29/1853","10/2/1853",550,0,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Yonkers NY",1853,0,-73.8987469,40.9312099
+1,53,29,"mission","St. Mary's Church","New York","NY","10/16/1853","10/30/1853",7800,0,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New York NY",1853,0,-74.0059731,40.7143528
+1,53,30,"mission","St. Patrick's Church","Norfolk","VA","11/13/1853","11/24/1853",500,7,0,"Richmond",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Norfolk VA",1853,7,-76.2858726,36.8507689
+1,55,31,"mission","St. Paul's Church","Portsmouth","VA","11/13/1853","11/24/1853",330,10,0,"Richmond",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Portsmouth VA",1853,10,-76.2982742,36.8354258
+1,56,32,"mission","St. Peter and Paul's Church","Williamsburg, Brookyln, New York","NY","12/4/1853","12/18/1853",4000,16,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Williamsburg, Brookyln, New York NY",1853,16,-73.9536163,40.7064461
+1,58,33,"mission","St. Patrick's Church","New Orleans","LA","1/15/1854","1/29/1854",3000,3,0,"New Orleans",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New Orleans LA",1854,3,-90.0715323,29.9510658
+1,61,34,"mission","St. Joseph's Church","New Orleans","LA","2/12/1854","2/21/1854",1300,3,0,"New Orleans",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New Orleans LA",1854,3,-90.0715323,29.9510658
+1,62,35,"mission","Cathedral of the Immaculate Conception","Mobile","AL","3/4/1854","3/16/1854",1300,2,0,"Mobile",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Mobile AL",1854,2,-88.0430541,30.6943566
+1,63,36,"mission","St. Alphonsus' Church","New Orleans","LA","3/26/1854","4/5/1854",2000,0,0,"New Orleans",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New Orleans LA",1854,0,-90.0715323,29.9510658
+1,64,37,"mission","St. Peter's Church","New Orleans","LA","4/9/1854","4/17/1854",1700,2,0,"New Orleans",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New Orleans LA",1854,2,-90.0715323,29.9510658
+1,64,38,"mission","St. John Baptist's Church","New Orleans","LA","4/23/1854","4/30/1854",1500,2,0,"New Orleans",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New Orleans LA",1854,2,-90.0715323,29.9510658
+1,65,39,"mission","St. Theresa's Church","New Orleans","LA","5/14/1854","5/21/1854",1500,0,0,"New Orleans",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New Orleans LA",1854,0,-90.0715323,29.9510658
+1,66,40,"mission","St. John's Church","Schenectady","NY","10/8/1854","10/18/1854",1300,0,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Schenectady NY",1854,0,-73.9395687,42.8142432
+1,67,41,"mission","","Patterson","NJ","10/29/1854","11/9/1854",2700,0,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Patterson NJ",1854,0,-74.171811,40.9167654
+1,68,42,"mission","Church of Our Lady of the Mountain","Emmitsburg","MD","11/19/1854","11/26/1854",500,0,0,"Baltimore",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Emmitsburg MD",1854,0,-77.3269307,39.7045417
+1,70,43,"mission","St. Peter's Church","Baltimore","MD","12/3/1854","12/13/1854",2500,3,0,"Baltimore",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Baltimore MD",1854,3,-76.6121893,39.2903848
+1,71,44,"mission","St. Patrick's Cathedral","Newark","NJ","12/31/1854","1/14/1855",4400,0,0,"Newark",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Newark NJ",1854,0,-74.1723667,40.735657
+1,72,45,"mission","St. Mary's Church","Charlestown","MA","1/28/1855","2/11/1855",2800,3,0,"Boston",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Charlestown MA",1855,3,-71.0602131,42.3782065
+1,74,46,"mission","St. Patrick's Church","Utica","NY","2/21/1855","3/4/1855",1000,3,0,"Albany",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Utica NY",1855,3,-75.232664,43.100903
+1,75,47,"mission","Church of the Annunciation","Manhattanville","NY","3/18/1855","4/1/1855",1400,0,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Manhattanville NY",1855,0,-73.9558333,40.8169443
+1,76,48,"mission","","Lexington","KY","4/15/1855","4/25/1855",600,3,0,"Covington",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Lexington KY",1855,3,-84.5037164,38.0405837
+1,76,49,"mission","","Frankfort","KY","4/29/1855","5/3/1855",350,2,0,"Covington",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Frankfort KY",1855,2,-84.8732835,38.2009055
+1,79,50,"mission","","Canandagua","NY","9/9/1855","9/17/1855",700,0,0,"Buffalo",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Canandagua NY",1855,0,-77.2816984,42.887535
+1,79,51,"mission","St. Paul's Cathedral","Pittsburgh","PA","10/14/1855","10/28/1855",7600,20,0,"Pittsburgh",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Pittsburgh PA",1855,20,-79.9958864,40.4406248
+1,83,52,"mission","St. Joseph's Cathedral","Buffalo","NY","11/11/1855","11/21/1855",3000,3,0,"Buffalo",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Buffalo NY",1855,3,-78.8783689,42.8864468
+1,84,53,"mission","Church of the Holy Angels","Sandusky","OH","12/2/1855","12/12/1855",1100,0,0,"Cleveland",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Sandusky OH",1855,0,-82.7079605,41.4489396
+1,85,54,"mission","St. John's Cathedral","Cleveland","OH","12/16/1855","12/25/1855",3300,0,0,"Cleveland",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Cleveland OH",1855,0,-81.6954088,41.4994954
+1,86,55,"mission","St. Stephen's Church","New York","NY","1/6/1856","1/18/1856",4000,0,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"New York NY",1856,0,-74.0059731,40.7143528
+1,87,56,"mission","Church of Our Lady Start of the Sea","Brooklyn","NY","2/3/1856","2/17/1856",2800,1,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Brooklyn NY",1856,1,-73.95,40.65
+1,89,57,"mission","St. Patrick's Church","Newburgh","NY","3/2/1856","3/13/1856",1350,3,0,"New York",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Newburgh NY",1856,3,-74.0104178,41.5034271
+1,91,58,"mission","St. Patrick's Church","Norfolk","VA","3/30/1856","4/6/1856",400,0,0,"Richmond",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Norfolk VA",1856,0,-76.2858726,36.8507689
+1,95,59,"mission","","Portsmouth","VA","3/30/1856","4/8/1856",520,9,0,"Richmond",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Portsmouth VA",1856,9,-76.2982742,36.8354258
+1,95,60,"mission","Richmond Cathedral","Richmond","VA","4/13/1856","4/23/1856",900,0,0,"Richmond",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Richmond VA",1856,0,-77.4360481,37.5407246
+1,97,61,"mission","","Petersburg","VA","4/13/1856","4/18/1856",210,0,0,"Richmond",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Petersburg VA",1856,0,-77.4019267,37.2279279
+1,97,62,"mission","St. Mary's Church","Hoboken","NJ","9/28/1856","10/5/1856",700,7,0,"Newark",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Hoboken NJ",1856,7,-74.0323626,40.7439905
+1,102,63,"mission","St. Peter's Church","Wilmington","DE","10/12/1856","10/23/1856",1700,0,0,"Philadelphia",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Wilmington DE",1856,0,-75.5466667,39.7458333
+1,106,64,"mission","St. Patrick's Church","Washington","DC","11/2/1856","11/15/1856",2700,3,0,"Baltimore",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Washington DC",1856,3,-77.0364641,38.9072309
+1,111,65,"mission","St. John's Church","Savannah","GA","11/23/1856","12/7/1856",2500,3,0,"Savannah",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Savannah GA",1856,3,-81.0998342,32.0835407
+1,113,66,"mission","Church of the Immaculate Conception","Atlanta","GA","12/14/1856","12/19/1856",190,3,0,"Savannah",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Atlanta GA",1856,3,-84.3879824,33.7489954
+1,114,67,"mission","Church of the Assumption of the Blessed Virgin Mary","Macon","GA","12/21/1856","12/28/1856",210,3,0,"Savannah",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Macon GA",1856,3,-83.6324022,32.8406946
+1,116,68,"mission","St. Philip and James' Church","Columbus","GA","1/4/1857","1/11/1857",170,1,0,"Savannah",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Columbus GA",1857,1,-84.9877094,32.4609764
+1,119,69,"mission","Trinity Church","Augusta","GA","12/14/1856","12/24/1856",750,0,0,"Savannah",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Augusta GA",1856,0,-82.0105148,33.4734978
+1,126,70,"mission","","St. Augustine","FL","1/4/1857","1/11/1857",600,0,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"St. Augustine FL",1857,0,-81.3132083,29.8942639
+1,129,71,"mission","Cathedral of St. John and St. Finabarr","Charleston","SC","1/25/1857","2/8/1857",3100,20,0,"Charleston",NA,200,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Charleston SC",1857,20,-79.9309216,32.7765656
+1,133,72,"mission","St. Mary's Church","Roudout","NY","3/1/1857","3/15/1857",2200,0,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Roudout NY",1857,0,-73.9851381,41.920648
+1,136,73,"mission","St. Mary's Church","Hudson","NY","3/22/1857","3/29/1857",800,0,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Hudson NY",1857,0,-73.790959,42.2528649
+1,137,74,"mission","St. James' Church ","Newark","NJ","9/26/1857","10/6/1857",1900,0,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Newark NJ",1857,0,-74.1723667,40.735657
+1,138,75,"mission","Church of Our Lady of Loretto","Cold Spring","NY","10/11/1857","10/18/1857",800,2,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Cold Spring NY",1857,2,-73.954583,41.4200937
+1,140,76,"mission","St. Peter's Church","Poughkeepsie","NY","10/24/1857","11/6/1857",1950,0,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Poughkeepsie NY",1857,0,-73.9209701,41.7003713
+1,142,77,"mission","St. John's Church","Utica","NY","11/15/1857","11/27/1857",3000,0,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Utica NY",1857,0,-75.232664,43.100903
+1,144,78,"mission","St. Joseph's Church","Brandywine","DE","12/6/1857","12/14/1857",920,1,0,"Philadelphia",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Brandywine DE",1857,1,-75.5343681,39.8295563
+1,145,79,"mission","St. John the Baptist's Church","Trenton","NJ","12/20/1857","12/31/1857",2050,5,0,"Newark",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Trenton NJ",1857,5,-74.7429384,40.2170534
+1,148,80,"mission","Cathedral of Burlington","Burlington","VT","1/10/1858","1/18/1858",1400,2,0,"Burlington",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Burlington VT",1858,2,-73.212072,44.4758825
+1,151,81,"mission","St John Baptist's Church","Plattsburg","NY","1/24/1858","1/31/1858",1100,1,0,"Albany",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Plattsburg NY",1858,1,-73.4529124,44.6994873
+1,153,82,"mission","","Brandon","VT","2/7/1858","2/11/1858",277,0,0,"Burlington",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Brandon VT",1858,0,-73.087648,43.7981572
+1,155,83,"mission","","East Rutland","VT","2/7/1858","2/15/1858",840,0,0,"Burlington",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"East Rutland VT",1858,0,-72.9726065,43.6106237
+1,156,84,"mission","","West Rutland","VT","2/21/1858","3/1/1858",1008,3,0,"Burlington",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"West Rutland VT",1858,3,-73.0451081,43.5930919
+1,157,85,"mission","","Saratoga Springs","NY","3/7/1858","3/15/1858",970,0,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Saratoga Springs NY",1858,0,-73.7845651,43.0831301
+1,158,86,"mission","","Little Falls","NY","3/21/1858","3/28/1858",800,3,0,"",NA,NA,NA,NA,"Redemptorist","",NA,NA,NA,NA,"Little Falls NY",1858,3,-74.8595957,43.0434039
+1,169,1,"mission","St. Patrick's Church","Watertown","NY","4/18/1858","4/26/1858",1073,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Watertown NY",1858,5,-75.9107565,43.9747838
+1,172,2,"mission","St. Bridget's Church","New York","NY","5/2/1858","5/16/1858",5700,15,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1858,15,-74.0059731,40.7143528
+1,178,3,"mission","Cathedral of Ss. Peter & Paul","Providence","RI","9/19/1858","10/1/1858",4430,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Providence RI",1858,0,-71.4128343,41.8239891
+1,183,4,"mission","St. Peter's Cathedral","New York","NY","10/10/1858","10/17/1858",2000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1858,0,-74.0059731,40.7143528
+1,186,5,"mission","St. Mary's Cathedral","Covington","KY","10/24/1858","11/1/1858",1450,0,0,"Covington",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Covington KY",1858,0,-84.5085536,39.0836712
+1,189,6,"mission","St. Augustine's Church","Kalamazoo","MI","11/7/1858","11/14/1858",430,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Kalamazoo MI",1858,2,-85.5872286,42.2917069
+1,192,7,"mission","Church of the Immaculate Conception","Marshall","MI","11/21/1858","11/26/1858",575,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Marshall MI",1858,1,-84.9633148,42.2722641
+1,193,8,"mission","St. John's Church","Jackson","MI","11/28/1858","12/5/1858",450,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Jackson MI",1858,1,-84.4013462,42.245869
+1,196,9,"mission","St. Thomas's Church","Ann Arbor","MI","12/12/1858","12/19/1858",910,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ann Arbor MI",1858,5,-83.7430378,42.2808256
+1,200,10,"mission","St. Mary's Church","New Haven","CT","1/2/1859","1/14/1859",2060,4,0,"Hartford",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New Haven CT",1859,4,-72.9278835,41.308274
+1,202,11,"mission","St. Paul's Church","Princeton","NJ","1/23/1859","1/31/1859",570,1,0,"Newark",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Princeton NJ",1859,1,-74.6672226,40.3572976
+1,206,12,"mission","St. Peter's Church","Belleville","NJ","2/13/1859","2/20/1859",1135,2,0,"Newark",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Belleville NJ",1859,2,-74.1500469,40.7936744
+1,209,13,"mission","St. Patrick's Church","Quebec","QC","3/20/1859","4/3/1859",7250,50,0,"Quebec",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Quebec QC",1859,50,-71.242796,46.8032826
+1,218,14,"mission","St. Peter's Church","Troy","NY","4/10/1859","4/20/1859",2600,6,0,"Albany",2440,160,NA,NA,"Paulist","",NA,NA,NA,NA,"Troy NY",1859,6,-73.6917851,42.7284117
+1,223,15,"mission","Cathedral of the Immaculate Conception","St. John","NB","9/4/1859","9/15/1859",8450,6,0,"Halifax",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. John NB",1859,6,-66.0633081,45.2733153
+1,227,16,"mission","St. Mary's Church","Jersey City","NJ","10/2/1859","10/10/1859",1950,3,0,"Newark",1800,150,NA,NA,"Paulist","",NA,NA,NA,NA,"Jersey City NJ",1859,3,-74.0776417,40.7281575
+1,230,17,"mission","St. Mary's Church","New York","NY","10/16/1859","10/23/1859",3500,5,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1859,5,-74.0059731,40.7143528
+1,234,18,"mission","St. James' Church","Bridgeport","CT","10/30/1859","11/7/1859",1570,0,0,"Hartford",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Bridgeport CT",1859,0,-73.1951767,41.1865478
+1,237,19,"mission","Church of St. Paul the Apostle","New York","NY","12/18/1859","12/25/1859",800,0,0,"New York",725,75,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1859,0,-74.0059731,40.7143528
+1,239,20,"mission","St. Mary's Church","Clifton, Staten Island","NY","1/1/1860","1/8/1860",1250,3,0,"New York",1159,91,NA,NA,"Paulist","",NA,NA,NA,NA,"Clifton, Staten Island NY",1860,3,-74.0784785,40.6189726
+1,241,21,"mission","Church of the Immaculate Conception","Waterbury","CT","1/15/1860","1/29/1860",2800,3,0,"Hartford",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Waterbury CT",1860,3,-73.0514965,41.5581525
+1,244,22,"mission","St. John's Church","Middletown","CT","2/5/1860","2/14/1860",2270,3,0,"Hartford",2100,170,NA,NA,"Paulist","",NA,NA,NA,NA,"Middletown CT",1860,3,-72.6506488,41.5623209
+1,247,23,"mission","St. Mary's Church","New Britain","CT","2/19/1860","2/28/1860",1230,0,0,"Hartford",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New Britain CT",1860,0,-72.7795419,41.6612104
+1,249,24,"mission","St. Rose's Church","Meriden","CT","3/11/1860","3/18/1860",810,0,0,"Hartford",770,40,NA,NA,"Paulist","",NA,NA,NA,NA,"Meriden CT",1860,0,-72.8070435,41.5381535
+1,250,25,"mission","Church of St. Paul the Apostle","New York","NY","3/25/1860","3/28/1860",925,0,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1860,0,-74.0059731,40.7143528
+1,251,26,"mission","Cathedral","Kingston","ON","4/15/1860","4/25/1860",2640,5,0,"Kingston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Kingston ON",1860,5,-76.4859544,44.2311717
+1,255,27,"mission","St. Mary's Church","Norwich","CT","5/6/1860","5/16/1860",1900,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Norwich CT",1860,5,-72.0759105,41.5242649
+1,259,28,"mission","Church of the Immaculate Conception","Lawrence","MA","9/30/1860","10/12/1860",2150,0,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lawrence MA",1860,0,-71.1631137,42.7070354
+1,261,29,"mission","St. Patrick's Church","Elizabethport","NJ","10/20/1860","10/28/1860",1000,1,0,"Newark",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Elizabethport NJ",1860,1,-74.1870888,40.6501031
+1,263,30,"mission","St. Soryl's Church","Hudson City","NJ","11/4/1860","11/12/1860",1100,1,0,"Newark",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hudson City NJ",1860,1,-73.9242251,41.1896081
+1,266,31,"mission","St. James Church","New York","NY","11/25/1860","12/9/1860",6950,10,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1860,10,-74.0059731,40.7143528
+1,271,32,"mission","St. John Baptist Church","Boston","MA","12/30/1860","1/10/1861",4550,0,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Boston MA",1860,0,-71.0597732,42.3584308
+1,274,33,"mission","St. Gregory's Church","Haverhill","MA","1/20/1861","1/28/1861",1002,4,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Haverhill MA",1861,4,-71.0772796,42.7762015
+1,276,34,"mission","Church of the Holy Redeemer","East Boston","MA","2/13/1861","2/27/1861",2900,0,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"East Boston MA",1861,0,-71.0388601,42.3702137
+1,278,35,"mission","Church of the Immaculate Conception","Newburyport","MA","3/3/1861","3/13/1861",1900,0,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Newburyport MA",1861,0,-70.8772751,42.8125913
+1,281,36,"mission","","Pittston","PA","4/14/1861","4/22/1861",1980,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Pittston PA",1861,3,-75.7893604,41.3259134
+1,282,37,"mission","","Holyoke","MA","4/28/1861","5/9/1861",1850,5,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Holyoke MA",1861,5,-72.6162009,42.2042586
+1,284,38,"mission","St. Mary's Church","Elizabeth","NJ","10/6/1861","10/14/1861",950,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Elizabeth NJ",1861,1,-74.2107006,40.6639916
+1,285,39,"mission","St. Michael's Church","New York","NY","11/17/1861","11/28/1861",4000,0,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1861,0,-74.0059731,40.7143528
+1,287,40,"mission","","Newport","NY","12/29/1861","1/5/1862",370,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Newport NY",1861,1,-75.0143244,43.1859025
+1,291,41,"mission","","Dunmore","PA","1/19/1862","1/26/1862",700,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Dunmore PA",1862,0,-75.6324112,41.4198027
+1,291,42,"mission","St. Philomena's Church","Rawley","PA","2/2/1862","2/10/1862",1150,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rawley PA",1862,1,-80.06532,40.3647715
+1,292,43,"mission","St. John's Church","Orange","NJ","2/2/1862","2/9/1862",1000,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Orange NJ",1862,2,-74.2326478,40.7706187
+1,293,44,"mission","Church of the Immaculate Conception","New York","NY","3/2/1862","3/16/1862",6800,1,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1862,1,-74.0059731,40.7143528
+1,295,45,"mission","St. Stephen's Church","New York","NY","3/30/1862","4/6/1862",2400,0,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1862,0,-74.0059731,40.7143528
+1,295,46,"mission","","Scranton ","PA","5/18/1862","5/29/1862",2500,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Scranton  PA",1862,0,-75.6624122,41.408969
+1,296,47,"mission","St. Peter's Church","Cambridge","MA","4/27/1862","5/7/1862",2500,2,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Cambridge MA",1862,2,-71.1097335,42.3736158
+2,1,NA,"mission","St. John's Church","Stamford","CT","9/28/1862","10/5/1862",900,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Stamford CT",1862,2,-73.5387341,41.0534302
+2,2,NA,"mission","Church of the Immaculate Conception","Jersey City","NJ","10/12/1862","10/23/1862",2875,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Jersey City NJ",1862,0,-74.0776417,40.7281575
+2,3,NA,"mission","St. Mary's Cathedral","Halifax","NS","11/30/1862","12/8/1862",5636,4,0,"Halifax",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Halifax NS",1862,4,-63.5753196,44.6488625
+2,4,NA,"mission","Nativity Church","New York","NY","1/4/1863","1/16/1863",3500,0,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1863,0,-74.0059731,40.7143528
+2,5,NA,"mission","Church of St. Rose of Lima","Carbondale","PA","1/25/1863","2/3/1863",2100,7,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Carbondale PA",1863,7,-75.5018508,41.5736935
+2,6,NA,"mission","Assumption Church","Philadelphia","PA","2/15/1863","2/26/1863",1500,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Philadelphia PA",1863,0,-75.163789,39.952335
+2,7,NA,"mission","Cathedral of the Holy Cross","Boston","MA","3/8/1863","3/17/1863",3000,0,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Boston MA",1863,0,-71.0597732,42.3584308
+2,8,NA,"mission","Church of the Most Holy Name of Jesus","Chicopee","MA","4/12/1863","4/20/1863",2600,3,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicopee MA",1863,3,-72.6078672,42.1487043
+2,9,NA,"mission","St. Joseph's Church","Pittsfield","MA","5/3/1863","5/12/1863",2000,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Pittsfield MA",1863,1,-73.2453824,42.4500845
+2,10,NA,"mission","Church of Our Lady of Mercy","Port Chester","NY","9/13/1863","9/21/1863",710,1,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Port Chester NY",1863,1,-73.6656834,41.0017643
+2,11,NA,"mission","Cathedral of the Holy Name","Chicago","IL","10/4/1863","10/14/1863",2600,8,0,"Chicago",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1863,8,-87.6297982,41.8781136
+2,12,NA,"mission","St. Patrick's Cathedral","St. Louis","MO","10/25/1863","11/4/1863",2500,3,0,"St. Louis",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. Louis MO",1863,3,-90.1994042,38.6270025
+2,13,NA,"mission","St. John's Church","St. Louis","MO","11/15/1863","11/24/1863",1300,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. Louis MO",1863,0,-90.1994042,38.6270025
+2,14,NA,"mission","St. Theresa's ","New York","NY","1/3/1864","1/15/1864",4500,6,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1864,6,-74.0059731,40.7143528
+2,15,NA,"mission","St. John's Church","Honesdale","PA","1/24/1864","2/1/1864",1400,1,0,"Philadelphia",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Honesdale PA",1864,1,-75.2587871,41.5767552
+2,17,NA,"mission","Church of the Immaculate Conception","Stoughton","MA","2/14/1864","2/21/1864",567,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Stoughton MA",1864,0,-71.1027778,42.125
+2,18,NA,"mission","Church of St. John the Baptist","Trenton","NJ","2/28/1864","3/10/1864",2800,10,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Trenton NJ",1864,10,-74.7429384,40.2170534
+2,21,NA,"mission","Church of St. Patrick","North Bridgewater","MA","4/3/1864","4/10/1864",1100,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"North Bridgewater MA",1864,1,-70.9750541,41.9903519
+2,23,NA,"mission","","Webster","MA","4/17/1864","4/24/1864",700,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Webster MA",1864,0,-71.8800628,42.050091
+2,24,NA,"mission","Church of St. William","Ware","MA","5/1/1864","5/8/1864",1080,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ware MA",1864,2,-72.2398566,42.2598457
+2,25,NA,"mission","Church of Immaculate Conception","Port Jervis","NY","9/11/1864","9/21/1864",750,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Port Jervis NY",1864,1,-74.692663,41.3750937
+2,26,NA,"mission","Church of St. Peter","Southbridge","MA","10/2/1864","10/9/1864",730,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Southbridge MA",1864,4,-72.0333905,42.0751065
+2,27,NA,"mission","Church of St. Mary","Lancaster","OH","10/23/1864","10/31/1864",800,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lancaster OH",1864,3,-82.5993294,39.7136754
+2,31,NA,"mission","Church of the Assumption","Brookline","MA","11/6/1864","11/14/1864",1200,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brookline MA",1864,1,-71.1211635,42.3317642
+2,31,NA,"mission","","Brighton","MA","11/17/1864","11/17/1864",700,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brighton MA",1864,3,-71.1626756,42.3463503
+2,32,NA,"mission","Church of the Immaculate Conception","Salem","MA","12/4/1864","12/13/1864",2100,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Salem MA",1864,3,-70.8967155,42.51954
+2,33,NA,"mission","Church of St. James","Salem","MA","1/1/1865","1/11/1865",2551,11,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Salem MA",1865,11,-70.8967155,42.51954
+2,34,NA,"mission","Church of St. Thomas Aquinas","Archibald","PA","1/29/1865","2/5/1865",1200,0,0,"Philadelphia",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Archibald PA",1865,0,-75.5368521,41.4948038
+2,35,NA,"mission","Church of Immaculate Conception","Birmingham","CT","2/12/1865","2/20/1865",1600,1,0,"Hartford",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Birmingham CT",1865,1,-83.2113192,42.5467012
+2,36,NA,"mission","Church of St. Gregory Thaumaturgus","Milton","MA","3/12/1865","3/19/1865",1200,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Milton MA",1865,1,-71.0661653,42.2495321
+2,37,NA,"mission","Church of St. Mary","Clifton, Staten Island","NY","3/26/1865","4/4/1865",1600,13,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Clifton, Staten Island NY",1865,13,-74.0784785,40.6189726
+2,38,NA,"mission","Church of St. John","Newark","NJ","5/7/1865","5/14/1865",1400,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Newark NJ",1865,0,-74.1723667,40.735657
+2,39,NA,"mission","Church of St. Ann","Manchester","NH","9/24/1865","10/5/1865",2600,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Manchester NH",1865,0,-71.4547891,42.9956397
+2,41,NA,"mission","Church of St. Mary","Cold Spring","NY","10/29/1865","11/5/1865",721,0,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Cold Spring NY",1865,0,-73.954583,41.4200937
+2,51,NA,"mission","Church of the Immaculate Conception","Nashua","NH","4/30/1871","5/7/1871",1261,0,0,"Portland",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Nashua NH",1871,0,-71.467566,42.7653662
+2,53,NA,"mission","Church of St. Patrick","North Bridgewater","MA","10/29/1871","11/5/1871",1400,0,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"North Bridgewater MA",1871,0,-70.9750541,41.9903519
+2,54,NA,"mission","Church of St. Gregory Thaumaturgus","Milton","MA","2/25/1872","3/3/1872",2000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Milton MA",1872,0,-71.0661653,42.2495321
+2,55,NA,"mission","Church of St. Paul","Wilmington","DE","4/28/1872","5/5/1872",1300,0,0,"Wilmington",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Wilmington DE",1872,0,-75.5466667,39.7458333
+2,56,NA,"mission","St. Peter's Cathedral","Wilmington","DE","10/29/1872","11/5/1872",1800,0,0,"Wilmington",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Wilmington DE",1872,0,-75.5466667,39.7458333
+2,57,NA,"mission","Church of the Sacred Heart","Philadelphia","PA","11/10/1872","11/18/1872",1500,9,0,"Philadelphia",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Philadelphia PA",1872,9,-75.163789,39.952335
+2,58,NA,"mission","Church of Ss. Peter and Paul","Sandusky","OH","11/24/1872","12/3/1872",1500,2,0,"Cleveland",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sandusky OH",1872,2,-82.7079605,41.4489396
+2,59,NA,"mission","Church of St. John the Evangelist","Birmingham","PA","12/8/1872","12/18/1872",2150,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Birmingham PA",1872,0,-78.1952892,40.6478421
+2,60,NA,"mission","Church of St. Mary","Randolph","MA","12/29/1872","1/5/1873",1600,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Randolph MA",1872,2,-71.042551,42.1619739
+2,61,NA,"mission","St. Theresa's Church","New York","NY","1/12/1873","1/26/1873",6600,10,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1873,10,-74.0059731,40.7143528
+2,63,NA,"mission","Church of St. Mary","Albany","NY","2/2/1873","2/12/1873",2780,2,0,"Albany",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Albany NY",1873,2,-73.7562317,42.6525793
+2,64,NA,"mission","St. Peter's Cathedral","Cincinnati","OH","2/23/1873","3/9/1873",3000,2,0,"Cincinnati",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Cincinnati OH",1873,2,-84.5120196,39.1031182
+2,65,NA,"mission","Church of St. Paul the Apostle","New York","NY","3/16/1873","3/30/1873",5500,0,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1873,0,-74.0059731,40.7143528
+2,68,NA,"mission","Cathedral of St. Joseph","Columbus","OH","4/20/1873","4/29/1873",2100,0,0,"Columbus",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Columbus OH",1873,0,-82.9987942,39.9611755
+2,69,NA,"mission","Church of the Sacred Heart","Sharon","PA","5/4/1873","5/11/1873",700,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sharon PA",1873,1,-80.4934035,41.2331116
+2,70,NA,"mission","Church of the Holy Name","New York","NY","5/18/1873","5/25/1873",1030,0,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1873,0,-74.0059731,40.7143528
+2,72,NA,"mission","St. Elizabeth's Church","Washington Heights","NY","9/21/1873","9/28/1873",1007,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Washington Heights NY",1873,0,-73.9389213,40.8401451
+2,73,NA,"mission","St. Mary's Church","Fall River","MA","10/5/1873","10/19/1873",5300,8,0,"Providence",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Fall River MA",1873,8,-71.1550451,41.7014912
+2,76,NA,"mission","St. Patrick's Church","New London","CT","10/26/1873","11/4/1873",1400,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New London CT",1873,2,-72.0995209,41.3556539
+2,78,NA,"mission","St. Mary's Church","Providence","RI","11/2/1873","11/11/1873",4000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Providence RI",1873,0,-71.4128343,41.8239891
+2,79,NA,"mission","Church of St. John the Baptist","Canton","OH","11/16/1873","11/25/1873",700,22,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Canton OH",1873,22,-81.378447,40.7989473
+2,80,NA,"mission","St. Joseph's Cathedral","Buffalo","NY","11/30/1873","12/14/1873",4500,7,0,"Buffalo",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Buffalo NY",1873,7,-78.8783689,42.8864468
+2,81,NA,"mission","St. Malachy's Church","Arlington","MA","1/4/1874","1/12/1874",1170,4,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Arlington MA",1874,4,-71.1564729,42.4153925
+2,82,NA,"mission","Church of St. Bridget","Lexington","MA","1/4/1874","1/13/1874",400,4,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lexington MA",1874,4,-71.2289641,42.4430372
+2,83,NA,"mission","Church of the Assumption","East Boston","MA","1/16/1874","2/1/1874",2350,18,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"East Boston MA",1874,18,-71.0388601,42.3702137
+2,84,NA,"mission","Church of St. Michael","Brattleboro","VT","2/8/1874","2/15/1874",570,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brattleboro VT",1874,2,-72.5578619,42.8509348
+2,87,NA,"mission","Church of St. Joseph","Kingston","NY","2/22/1874","3/2/1874",1400,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Kingston NY",1874,1,-73.9973608,41.9270367
+2,88,NA,"mission","Church of the Sacred Heart","Central Falls","NY","3/8/1874","3/16/1874",1450,12,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Central Falls NY",1874,12,-73.8320824,44.0778319
+2,90,NA,"mission","St. Joseph's Church","Circleville","OH","2/8/1874","2/17/1874",400,8,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Circleville OH",1874,8,-82.9460133,39.600618
+2,92,NA,"mission","St. Joseph's Church","Fond du Lac","WI","2/22/1874","3/4/1874",1650,2,0,"Milwaukee",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Fond du Lac WI",1874,2,-88.4470508,43.7730448
+2,93,NA,"mission","Church of the Holy Cross","Ovid","NY","3/22/1874","3/29/1874",700,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ovid NY",1874,3,-76.8230111,42.6764593
+2,94,NA,"mission","Church of the Nativity","New York","NY","4/12/1874","4/28/1874",4280,6,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1874,6,-74.0059731,40.7143528
+2,95,NA,"mission","Church of St. Rose of Lima","Suffern","NY","5/3/1874","5/8/1874",150,2,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Suffern NY",1874,2,-74.1495889,41.1148179
+2,95,NA,"mission","Church of St. Mary","Greenwood","NY","5/10/1874","5/17/1874",260,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Greenwood NY",1874,0,-77.6483236,42.13507
+2,98,NA,"mission","St. Jarlath's Church","Chicago","IL","9/27/1874","10/7/1874",800,1,0,"Chicago",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1874,1,-87.6297982,41.8781136
+2,99,NA,"mission","Church of St. Pius","Chicago","IL","10/11/1874","10/25/1874",1500,12,0,"Chicago",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1874,12,-87.6297982,41.8781136
+2,100,NA,"mission","Church of the Annunciation","Manhattanville","NY","10/4/1874","10/14/1874",2600,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Manhattanville NY",1874,6,-73.9558333,40.8169443
+2,102,NA,"mission","St. John's Church","Trenton","NJ","10/25/1874","11/5/1874",2700,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Trenton NJ",1874,6,-74.7429384,40.2170534
+2,103,NA,"mission","St. Mary's Church","New Haven","CT","11/8/1874","11/19/1874",2600,8,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New Haven CT",1874,8,-72.9278835,41.308274
+2,104,NA,"mission","St. Mary's Church","Jersey City","NJ","12/6/1874","12/20/1874",4800,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Jersey City NJ",1874,6,-74.0776417,40.7281575
+2,105,NA,"mission","St. Mary's Cathedral","Ogdensburg","NY","1/3/1875","1/14/1875",1850,6,0,"Ogdensburg",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ogdensburg NY",1875,6,-75.4863364,44.6942291
+2,108,NA,"mission","St. Mary's Cathedral","San Francisco","CA","2/14/1875","2/28/1875",2800,6,0,"San Francisco",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"San Francisco CA",1875,6,-122.4194155,37.7749295
+2,109,NA,"mission","St. Francis Church","San Francisco","CA","3/7/1875","3/16/1875",1350,7,0,"San Francisco",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"San Francisco CA",1875,7,-122.4194155,37.7749295
+2,111,NA,"mission","St. Mary's Church","Oakland","CA","3/7/1875","3/16/1875",1700,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Oakland CA",1875,1,-122.2711137,37.8043637
+2,112,NA,"mission","St. Patrick's Church","San Francisco","CA","3/21/1875","4/5/1875",9000,13,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"San Francisco CA",1875,13,-122.4194155,37.7749295
+2,114,NA,"mission","Church of St. Rose of Lima","Sacramento","CA","4/4/1875","4/14/1875",1600,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sacramento CA",1875,2,-121.4943996,38.5815719
+2,115,NA,"mission","Church of San Rafael","San Rafael","CA","3/21/1875","3/28/1875",360,9,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"San Rafael CA",1875,9,-122.5310874,37.9735346
+2,116,NA,"mission","St. Peter's Church","San Francisco","CA","4/11/1875","4/21/1875",1600,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"San Francisco CA",1875,5,-122.4194155,37.7749295
+2,117,NA,"mission","St. Joseph's Church","San Jose","CA","4/18/1875","4/28/1875",1100,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"San Jose CA",1875,0,-121.8949555,37.3393857
+2,119,NA,"mission","Church of the Holy Cross","Santa Cruz","CA","4/25/1875","5/2/1875",650,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Santa Cruz CA",1875,2,-122.0307963,36.9741171
+2,120,NA,"mission","St. Joseph's Cathedral","Marysville","CA","5/16/1875","5/24/1875",550,5,0,"Sacramento",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Marysville CA",1875,5,-121.5913547,39.1457253
+2,121,NA,"mission","Church of the Immaculate Conception","Smartsville","CA","5/16/1875","5/24/1875",350,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Smartsville CA",1875,2,-121.2988335,39.2077473
+2,122,NA,"mission","Church of the Immaculate Conception","Virginia City","NV","5/30/1875","6/13/1875",1200,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Virginia City NV",1875,3,-119.6499793,39.3095135
+2,123,NA,"mission","St. Patrick's Church","Gold Hill","NV","5/30/1875","6/6/1875",660,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Gold Hill NV",1875,1,-119.6574011,39.2904678
+2,124,NA,"mission","Church of Mary Magdalen","Salt Lake City","UT","6/20/1875","6/27/1875",75,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Salt Lake City UT",1875,1,-111.8910474,40.7607793
+2,125,NA,"mission","","Ophir City","UT","6/20/1875","6/25/1875",37,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ophir City UT",1875,1,-112.2585566,40.36939
+2,126,NA,"mission","Church of St. Michael","Stillwater","MN","9/19/1875","9/30/1875",1200,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Stillwater MN",1875,1,-92.8088443,45.056004
+2,127,NA,"mission","Cathedral of St. Paul","St. Paul","MN","10/3/1875","10/17/1875",2100,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. Paul MN",1875,6,-93.0899578,44.9537029
+2,130,NA,"mission","St. Mary's Church","St. Paul","MN","10/24/1875","11/3/1875",1200,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. Paul MN",1875,6,-93.0899578,44.9537029
+2,132,NA,"mission","Church of the Immaculate Conception","Minneapolis","MN","11/7/1875","11/21/1875",2200,12,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Minneapolis MN",1875,12,-93.26667,44.983334
+2,133,NA,"mission","Church of the Immaculate Conception","Faribault","MN","11/28/1875","12/8/1875",1300,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Faribault MN",1875,6,-93.268827,44.2949636
+2,134,NA,"mission","Church of St. Thomas","Winona","MN","12/12/1875","12/19/1875",800,10,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Winona MN",1875,10,-91.6404389,44.0478889
+2,135,NA,"mission","St. John's Church","Baltimore","MD","1/9/1876","1/23/1876",4200,29,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Baltimore MD",1876,29,-76.6121893,39.2903848
+2,136,NA,"mission","Church of St. Michael","Penn Yan","NY","1/30/1876","2/9/1876",800,2,0,"Rochester",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Penn Yan NY",1876,2,-77.0538577,42.6609026
+2,137,NA,"mission","Church of St. Rose of Lima","Chelsea","MA","2/27/1876","3/12/1876",3200,14,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chelsea MA",1876,14,-71.0328284,42.3917638
+2,138,NA,"mission","Church of St. Patrick","Boston","MA","3/19/1876","4/9/1876",4000,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Boston MA",1876,3,-71.0597732,42.3584308
+2,139,NA,"mission","Church of St. Michael","Jersey City","NJ","4/23/1876","5/7/1876",5000,7,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Jersey City NJ",1876,7,-74.0776417,40.7281575
+2,141,NA,"mission","Cathedral of St. Paul","St. Paul","MN","9/10/1876","9/14/1876",1500,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. Paul MN",1876,0,-93.0899578,44.9537029
+2,142,NA,"mission","St. Augustine's Church","Austin","MN","9/17/1876","9/27/1876",790,17,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Austin MN",1876,17,-92.9746367,43.6666296
+2,143,NA,"mission","St. Lawrence's Church","Fountain","MN","10/1/1876","10/6/1876",440,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Fountain MN",1876,3,-92.1362717,43.7399639
+2,144,NA,"mission","St. Patrick's Church","Lanesboro","MN","10/8/1876","10/18/1876",620,13,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lanesboro MN",1876,13,-91.9768224,43.7207974
+2,145,NA,"mission","St. Patrick's Church","Caledonia","MN","10/27/1876","10/30/1876",960,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Caledonia MN",1876,6,-91.4968076,43.6346913
+2,146,NA,"mission","Church of St. Patrick","Brownsville","MN","11/4/1876","11/9/1876",520,8,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brownsville MN",1876,8,-91.2798153,43.6940552
+2,147,NA,"mission","St. Thomas's Church","Rochester","MN","11/19/1876","11/28/1876",1537,8,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rochester MN",1876,8,-92.46295,44.0234
+2,148,NA,"mission","St. Bridget's Church","Rochester","MN","11/29/1876","12/3/1876",626,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rochester MN",1876,2,-92.46295,44.0234
+2,149,NA,"mission","St. Mary's Church","Waverly","MN","9/17/1876","9/24/1876",460,11,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Waverly MN",1876,11,-93.9663889,45.0666667
+2,150,NA,"mission","St. Gerhard's Church","Forest City","MN","10/1/1876","10/10/1876",700,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Forest City MN",1876,3,-94.4663799,45.2063519
+2,151,NA,"mission","St. Mary's Church","Shakopee","MN","10/15/1876","10/22/1876",415,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Shakopee MN",1876,3,-93.5272861,44.7973962
+2,152,NA,"mission","Church of the Sacred Heart","Belle Plaine","MN","10/29/1876","11/7/1876",1030,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Belle Plaine MN",1876,4,-93.7684042,44.6230409
+2,153,NA,"mission","St. Mary's Church","Le Sueur","MN","11/12/1876","11/19/1876",520,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Le Sueur MN",1876,2,-93.9088889,44.4658333
+2,154,NA,"mission","St. Patrick's Church","Shieldsville","MN","11/26/1876","12/6/1876",1100,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Shieldsville MN",1876,3,-93.4088334,44.3660744
+2,155,NA,"mission","Church of the Guardian Angels","Hastings","MN","9/17/1876","9/26/1876",1050,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hastings MN",1876,1,-92.8513706,44.7443293
+2,156,NA,"mission","St. Joseph's Church","Red Wing","MN","10/1/1876","10/6/1876",240,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Red Wing MN",1876,0,-92.5369563,44.5660691
+2,157,NA,"mission","St. Mary's Church","Lake City and West Albany","MN","10/8/1876","10/17/1876",443,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lake City and West Albany MN",1876,2,-92.341887,44.4131284
+2,159,NA,"mission","Church of St. Felix of Valois","Wabasha","MN","10/22/1876","10/29/1876",470,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Wabasha MN",1876,1,-92.0382346,44.3710051
+2,160,NA,"mission","Church of the Immaculate Conception","Highland","MN","10/29/1876","11/2/1876",370,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Highland MN",1876,1,-91.8701524,43.6807984
+2,162,NA,"mission","Church of the Sacred Heart","Owatonna","MN","11/5/1876","11/12/1876",400,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Owatonna MN",1876,3,-93.2259349,44.0855572
+2,163,NA,"mission","Church of St. Charles Borromeo","St. Charles","MN","11/19/1876","11/24/1876",375,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. Charles MN",1876,1,-92.064194,43.9694165
+2,164,NA,"mission","Church of Ss. Peter and Paul","Hart","MN","11/26/1876","11/29/1876",215,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hart MN",1876,2,-91.7398706,43.8755194
+2,165,NA,"mission","Church of Our Lady, Help of Christians","Sioux City","IA","12/3/1876","12/13/1876",750,6,0,"Dubuque",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sioux City IA",1876,6,-96.4003069,42.4999942
+2,166,NA,"mission","","Yankton","SD","12/10/1876","12/17/1876",320,5,0,"St. Paul",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Yankton SD",1876,5,-97.3972813,42.8711088
+2,168,NA,"mission","Church of the Immaculate Conception","Ithaca","NY","12/31/1876","1/9/1877",1120,7,0,"Rochester",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ithaca NY",1876,7,-76.5018807,42.4439614
+2,170,NA,"mission","Church of the Holy Family","Auburn","NY","1/21/1877","2/4/1877",3500,3,0,"Rochester",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Auburn NY",1877,3,-76.5660529,42.9317335
+2,172,NA,"mission","Church of St. Lucy","Syracuse","NY","1/21/1877","1/30/1877",1500,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Syracuse NY",1877,5,-76.1474244,43.0481221
+2,173,NA,"mission","Church of the Epiphany","New York","NY","2/11/1877","2/25/1877",5300,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1877,0,-74.0059731,40.7143528
+2,175,NA,"mission","St. Bridget's Church","New York","NY","3/4/1877","3/18/1877",8000,15,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1877,15,-74.0059731,40.7143528
+2,177,NA,"mission","St. Francis de Sales Church","Charlestown","NY","4/8/1877","4/24/1877",6900,25,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Charlestown NY",1877,25,-71.6418744,41.3832162
+2,180,NA,"mission","St John Baptist Church","Salina","NY","4/29/1877","5/9/1877",1900,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Salina NY",1877,3,-76.1725774,43.1071066
+2,181,NA,"mission","Church of the Sacred Heart","Weymouth","MA","4/29/1877","5/9/1877",1700,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Weymouth MA",1877,0,-70.9410356,42.2180724
+2,183,NA,"mission","","Everett","MA","5/13/1877","5/20/1877",468,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Everett MA",1877,5,-71.0536625,42.40843
+2,186,NA,"mission","St. James Church","Bay City","MI","9/16/1877","9/26/1877",1700,7,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Bay City MI",1877,7,-83.8888647,43.5944677
+2,187,NA,"mission","St. Pius Church","Chicago","IL","9/30/1877","10/11/1877",1280,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1877,0,-87.6297982,41.8781136
+2,189,NA,"mission","St. James Church","Chicago","IL","10/21/1877","11/7/1877",3086,8,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1877,8,-87.6297982,41.8781136
+2,191,NA,"mission","St. Aloysius Church","Detroit","MI","11/18/1877","12/4/1877",2000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Detroit MI",1877,0,-83.0457538,42.331427
+2,193,NA,"mission","St. John's Church","Indianapolis","IN","12/9/1877","12/22/1877",3790,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Indianapolis IN",1877,4,-86.158068,39.768403
+2,196,NA,"mission","Church of Our Lady of Perpetual Help","Defiance","OH","9/30/1877","10/10/1877",450,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Defiance OH",1877,1,-84.3557802,41.2844933
+2,197,NA,"mission","St Stephen's Church","Flora","IL","10/14/1877","10/21/1887",150,4,0,"Alton",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Flora IL",1877,4,-88.4856042,38.6689364
+2,198,NA,"mission","Church of St. Charles Borromeo","Charleston","IL","10/28/1877","11/4/1877",160,0,0,"Alton",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Charleston IL",1877,0,-88.1761521,39.4961458
+2,199,NA,"mission","Church Regina Coeli","Marshall","IL","11/4/1877","11/13/1877",340,7,0,"Alton",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Marshall IL",1877,7,-87.6936384,39.3914252
+2,200,NA,"mission","Church of St. Mary","Paris","IL","11/18/1877","11/25/1877",462,2,0,"Alton",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Paris IL",1877,2,-87.6961374,39.611146
+2,201,NA,"mission","Church of St. Mary's","St. Mary's of the Woods","IN","11/25/1877","12/4/1877",315,5,0,"Vincennes",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. Mary's of the Woods IN",1877,5,-78.6943955,35.7491283
+2,202,NA,"mission","Church of St. Patrick","Galesburg","IL","12/9/1877","12/19/1877",1000,2,0,"Peoria",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Galesburg IL",1877,2,-90.3712395,40.9478158
+2,204,NA,"mission","Church of St. Paul the Apostle","New York","NY","1/6/1878","1/27/1878",6200,6,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1878,6,-74.0059731,40.7143528
+2,206,NA,"mission","St. Bernard's Church","Rockville","CT","1/21/1878","1/29/1878",1058,6,0,"Hartford",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rockville CT",1878,6,-72.4495287,41.8667645
+2,207,NA,"mission","St. Paul's Church 117th St.","Harlem","NY","2/3/1878","2/17/1878",4539,0,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Harlem NY",1878,0,-73.9464769,40.8115504
+2,208,NA,"mission","St. Augustine's Church","South Boston","MA","3/3/1878","3/24/1878",5674,11,0,"Boston",NA,1000,NA,NA,"Paulist","",NA,NA,NA,NA,"South Boston MA",1878,11,-71.0475773,42.3381437
+2,210,NA,"mission","St Bridget's Church","Cleveland","OH","3/31/1878","4/10/1878",1323,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Cleveland OH",1878,1,-81.6954088,41.4994954
+2,212,NA,"mission","Church of St. Antony of Padua","White River Junction","VT","3/10/1878","3/17/1878",550,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"White River Junction VT",1878,2,-72.3192579,43.6489596
+2,214,NA,"mission","St. Mary's Church","Bellows Falls","VT","3/24/1878","4/1/1878",612,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Bellows Falls VT",1878,1,-72.4439772,43.133411
+2,215,NA,"mission","","Sandy Hill, Hudson Falls","NY","4/7/1878","4/16/1878",1100,8,0,"",NA,NA,NA,NA,"Paulist","The mission was held in Sandy Hills, which is probably Hudson, NY.",NA,NA,NA,NA,"Sandy Hill, Hudson Falls NY",1878,8,-73.494427,43.788801
+2,216,NA,"mission","Church of St. Bridget","North Manchester","CT","5/5/1878","5/5/1878",645,1,0,"Hartford",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"North Manchester CT",1878,1,-72.5215009,41.7759301
+2,217,NA,"mission","Church of St. James","South Manchester","CT","5/5/1878","5/12/1878",845,1,0,"Hartford",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"South Manchester CT",1878,1,-72.5215009,41.7759301
+2,219,NA,"mission","","Brockton","MA","4/28/1878","5/6/1878",2322,7,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brockton MA",1878,7,-71.0183787,42.0834335
+2,220,NA,"mission","","West Roxbury","MA","5/12/1878","5/21/1878",424,3,0,"Boston",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Roxbury MA",1878,3,-71.1626756,42.2797554
+2,229,NA,"mission","Church of the Epiphany","Monmouth","IL","9/29/1878","10/7/1878",510,1,0,"Peoria",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Monmouth IL",1878,1,-90.6473576,40.9114271
+2,230,NA,"mission","Church of Immaculate Conception","Lacon","IL","10/13/1878","10/20/1878",360,0,0,"Peoria",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lacon IL",1878,0,-89.4112007,41.0247583
+2,231,NA,"mission","Church of St. Patrick","Camp Grove","IL","10/20/1878","10/27/1878",580,1,0,"Peoria",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Camp Grove IL",1878,1,-89.6331524,41.0789258
+2,232,NA,"mission","Church of St. Patrick","O'Fallon","IL","11/3/1878","11/10/1878",380,1,0,"Chicago",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"O'Fallon IL",1878,1,-89.910991,38.592323
+2,232,NA,"mission","","Morrison","IL","11/3/1878","11/10/1878",127,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Morrison IL",1878,0,-89.9651186,41.809751
+2,233,NA,"mission","","","IL","11/14/1878","11/17/1878",93,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA," IL",1878,0,-89.3985283,40.6331249
+2,233,NA,"mission","","Savannah","IL","11/14/1878","11/17/1878",130,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Savannah IL",1878,0,-90.1567944,42.0944671
+2,233,NA,"mission","","Sabula","IL","11/24/1878","11/24/1878",86,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sabula IL",1878,0,-90.1740169,42.0711347
+2,234,NA,"mission","","Lyons","IA","11/24/1878","12/1/1878",860,1,0,"Dubuque",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lyons IA",1878,1,-95.7932008,40.9545835
+2,235,NA,"mission","Church of St. Paul of the Cross","Jersey City","NY","9/22/1878","10/2/1878",1343,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Jersey City NY",1878,3,-74.0776417,40.7281575
+2,236,NA,"mission","","Garder","MA","10/6/1878","10/10/1878",975,0,0,"Springfield",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Garder MA",1878,0,-71.998133,42.5750883
+2,239,NA,"mission","","Winchendon","MA","10/13/1878","10/21/1878",625,0,0,"Springfield",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Winchendon MA",1878,0,-72.0439529,42.6871009
+2,240,NA,"mission","","Shullsburg","WI","10/27/1878","11/6/1878",1149,5,0,"Milwaukee",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Shullsburg WI",1878,5,-90.23096,42.5733354
+2,342,NA,"mission","St. Pius Church","Chicago","IL","11/10/1878","11/17/1878",1100,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1878,0,-87.6297982,41.8781136
+2,343,NA,"mission","St. Francis de Sales Church","Toledo","OH","11/24/1878","12/4/1878",1688,0,0,"Cleveland",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Toledo OH",1878,0,-83.555212,41.6639383
+2,344,NA,"mission","St. Mary's Church","Albany","NY","12/8/1878","12/22/1878",3368,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Albany NY",1878,0,-73.7562317,42.6525793
+2,346,NA,"mission","Church of the Holy Rosary","Newburgh","OH","1/5/1879","1/20/1879",1960,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Newburgh OH",1879,0,-82.9409387,40.0092839
+2,347,NA,"mission","St. Raphael's Church","Madison","WI","1/26/1879","2/5/1879",1896,8,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Madison WI",1879,8,-89.4012302,43.0730517
+2,348,NA,"mission","All Saint's Church","Chicago","IL","2/9/1879","2/23/1879",2163,5,0,"Chicago",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1879,5,-87.6297982,41.8781136
+2,349,NA,"mission","St. Patrick's Church","Providence","RI","3/2/1879","3/16/1879",3507,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Providence RI",1879,0,-71.4128343,41.8239891
+2,350,NA,"mission","St Mary's Church","New London","CT","3/23/1879","4/2/1879",1826,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New London CT",1879,4,-72.0995209,41.3556539
+2,352,NA,"mission","St. Thomas Aquinas's Church","Bridgewater","CT","4/20/1879","4/29/1879",1158,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Bridgewater CT",1879,0,-73.3662305,41.5350949
+2,353,NA,"mission","","West Roxbury","MA","5/4/1879","5/12/1879",984,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Roxbury MA",1879,3,-71.1626756,42.2797554
+2,354,NA,"mission","St. Leo's Church","Leominster","MA","5/18/1879","5/25/1879",725,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Leominster MA",1879,0,-71.759794,42.5250906
+2,356,NA,"mission","Church of the Holy Trinity","Greenfield","MA","9/14/1879","9/21/1879",550,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Greenfield MA",1879,0,-72.5994104,42.587915
+2,356,NA,"mission","","South Deerfield","MA","9/14/1879","9/21/1879",270,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"South Deerfield MA",1879,0,-72.6078667,42.4773097
+2,357,NA,"mission","","Shelbourne Falls","MA","9/14/1879","9/21/1879",115,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Shelbourne Falls MA",1879,0,-72.7392588,42.6042514
+2,358,NA,"mission","","Chicopee Falls","MA","9/25/1879","10/6/1879",1200,0,0,"Springfield",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicopee Falls MA",1879,0,-72.5784089,42.1544318
+2,359,NA,"mission","","Johnstown","PA","10/12/1879","10/26/1879",2344,4,0,"Pittsburgh",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Johnstown PA",1879,4,-78.9219698,40.3267407
+2,360,NA,"mission","","Ypsilanti","MI","11/2/1879","11/9/1879",480,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ypsilanti MI",1879,0,-83.6129939,42.2411499
+2,360,NA,"mission","","Ann Arbor","MI","11/16/1879","11/24/1879",740,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ann Arbor MI",1879,2,-83.7430378,42.2808256
+2,362,NA,"mission","Church of St. Paul the Apostle","New York","NY","11/30/1879","12/18/1879",5750,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1879,0,-74.0059731,40.7143528
+2,364,NA,"mission","","Deposit","NY","11/9/1879","11/16/1879",480,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Deposit NY",1879,0,-75.4276769,42.0600834
+2,365,NA,"mission","","Harper's Ferry","WV","1/4/1880","1/11/1880",225,2,0,"Richmond",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Harper's Ferry WV",1880,2,-77.7388818,39.3253786
+2,366,NA,"mission","","Winchester","VA","1/11/1880","1/20/1880",160,7,0,"Richmond",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Winchester VA",1880,7,-78.1633341,39.1856597
+2,367,NA,"mission","","Martinsburg","WV","1/25/1880","2/2/1880",582,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Martinsburg WV",1880,0,-77.9638869,39.4562099
+2,368,NA,"mission","St. Mary's Church","Little Falls","NY","1/4/1880","1/14/1880",1780,9,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Little Falls NY",1880,9,-74.8595957,43.0434039
+2,369,NA,"mission","","Marine City","MI","1/25/1880","2/1/1800",1000,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Marine City MI",1880,3,-82.492132,42.7194778
+2,369,NA,"mission","","Algonac","MI","1/25/1880","1/27/1880",150,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Algonac MI",1880,0,-82.531018,42.6183675
+2,370,NA,"mission","","Northfield","MI","2/8/1880","2/15/1880",523,7,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Northfield MI",1880,7,-83.7433813,42.4003857
+2,371,NA,"mission","","Evansville","IN","2/22/1880","3/2/1880",794,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Evansville IN",1880,6,-87.5710898,37.9715592
+2,372,NA,"mission","","Terre Haute","IN","3/7/1880","3/18/1880",1600,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Terre Haute IN",1880,0,-87.4139092,39.4667034
+2,374,NA,"mission","St. Rose of Lima's Church, Cannon St","Cannon St.","NY","4/4/1880","4/19/1880",4530,18,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Cannon St. NY",1880,18,-73.9802919,40.7151188
+2,376,NA,"mission","St. Jerome's Church, 137th St. and Alexander Avenue","New York","NY","4/25/1880","5/9/1880",2325,5,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1880,5,-74.0059731,40.7143528
+2,379,NA,"mission","","Chambersburg","PA","9/12/1880","9/18/1880",270,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chambersburg PA",1880,5,-77.6611022,39.9375911
+2,381,NA,"mission","Corpus Christi Church","Chambersburg","PA","9/19/1880","9/27/1800",390,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chambersburg PA",1880,2,-77.6611022,39.9375911
+2,382,NA,"mission","St. Mary's Church","Hagerstown","MD","10/15/1880","10/15/1880",410,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hagerstown MD",1880,1,-77.7199932,39.6417629
+2,383,NA,"mission","","Carlisle","PA","10/17/1880","10/25/1880",195,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Carlisle PA",1880,2,-77.195,40.2025
+2,384,NA,"mission","St. Bridget's Church","Rochester","NY","9/12/1880","9/21/1880",1325,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rochester NY",1880,1,-77.6109219,43.16103
+2,385,NA,"mission","","Seneca Falls","NY","10/1/1880","10/1/1880",1347,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Seneca Falls NY",1880,3,-76.7966215,42.9106219
+2,386,NA,"mission","","Susquehanna","PA","11/14/1880","11/23/1880",1500,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Susquehanna PA",1880,1,-75.5991789,41.9436071
+2,388,NA,"mission","","Mamaroneck","NY","12/5/1880","12/12/1880",490,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Mamaroneck NY",1880,0,-73.7326309,40.9487097
+2,389,NA,"mission","","Staunton","VA","10/10/1880","10/17/1880",333,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Staunton VA",1880,0,-79.0716958,38.149576
+2,390,NA,"mission","","Lexington","VA","10/24/1880","10/28/1880",24,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lexington VA",1880,0,-79.4428157,37.7840208
+2,391,NA,"mission","","Fredricksburg","VA","10/31/1880","11/4/1880",75,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Fredricksburg VA",1880,2,-77.4605399,38.3031837
+2,392,NA,"mission","","Petersburg","VA","11/7/1880","11/14/1880",325,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Petersburg VA",1880,0,-77.4019267,37.2279279
+2,393,NA,"mission","St. Patrick's Church","Richmond","VA","11/21/1880","11/28/1880",528,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Richmond VA",1880,3,-77.4360481,37.5407246
+2,394,NA,"mission","Cathedral","Richmond","VA","11/28/1880","12/12/1880",1800,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Richmond VA",1880,4,-77.4360481,37.5407246
+2,395,NA,"mission","","Bergon Point","NJ","1/16/1881","1/27/1881",1975,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Bergon Point NJ",1881,0,-74.1412543,40.6476033
+2,397,NA,"mission","St. Peter's Church","Hartford","CT","1/16/1881","1/30/1881",4288,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hartford CT",1881,0,-72.6850932,41.7637111
+2,399,NA,"mission","St. Mark's Church","Kenastia","WI","3/6/1881","3/15/1881",714,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Kenastia WI",1881,0,-87.8211854,42.5847425
+2,400,NA,"mission","St. Paul's Church","Kenastia","WI","3/20/1881","3/26/1881",400,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Kenastia WI",1881,0,-87.8211854,42.5847425
+2,400,NA,"mission","","Marine City","MI","3/6/1881","3/15/1881",1055,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Marine City MI",1881,3,-82.492132,42.7194778
+2,402,NA,"mission","","Delavan","WI","3/20/1881","3/29/1881",536,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Delavan WI",1881,0,-88.6437138,42.6330703
+2,403,NA,"mission","St. John's Cathedral","Milwaukee","WI","3/30/1881","4/3/1881",500,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Milwaukee WI",1881,0,-87.9064736,43.0389025
+2,404,NA,"mission","St. Francis Xavier's Church ","Baltimore","MD","4/17/1881","5/1/1881",1350,25,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Baltimore MD",1881,25,-76.6121893,39.2903848
+2,406,NA,"mission","St. Joseph's Church","Circleville","OH","2/6/1881","2/13/1881",430,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Circleville OH",1881,1,-82.9460133,39.600618
+2,407,NA,"mission","St. Patrick's Church","Racine","WI","3/21/1881","3/29/1881",1017,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Racine WI",1881,3,-87.7828523,42.7261309
+2,408,NA,"mission","Church of the Assumption","Evansville","IN","2/20/1881","2/27/1881",750,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Evansville IN",1881,0,-87.5710898,37.9715592
+2,409,NA,"mission","St. James's Church","Salem","MA","5/8/1881","5/23/1881",3926,1,0,"",NA,250,1844,1832,"Paulist","Cf, p. 410 which says 74 converts for this period",NA,NA,NA,NA,"Salem MA",1881,1,-70.8967155,42.51954
+2,411,NA,"retreat","Cathedral","Albany","NY","3/29/1881","4/3/1881",700,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Albany NY",1881,0,-73.7562317,42.6525793
+2,412,NA,"retreat","St. Patrick's Church","Brockton","MA","9/18/1881","9/25/1881",900,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brockton MA",1881,0,-71.0183787,42.0834335
+2,412,NA,"mission","St. Joseph's Church","New York","NY","10/1/1881","10/8/1881",5000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1881,0,-74.0059731,40.7143528
+2,413,NA,"mission","St. Mary's Church (Regina Coeli)","Marshall","IL","9/18/1881","9/25/1881",382,1,0,"Altoona",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Marshall IL",1881,1,-87.6936384,39.3914252
+2,414,NA,"mission","Church of the Immaculate Conception","Paris","IL","9/25/1881","10/2/1881",375,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Paris IL",1881,2,-87.6961374,39.611146
+2,415,NA,"mission","Church of the Immaculate Conception","South Wheeling","WV","9/18/1881","9/25/1881",576,0,0,"",546,30,NA,NA,"Paulist","",NA,NA,NA,NA,"South Wheeling WV",1881,0,-80.7209149,40.0639616
+2,417,NA,"mission","Wheeling Cathedral","Wheeling","WV","10/2/1881","10/16/1881",2500,1,0,"Wheeling",2099,400,NA,NA,"Paulist","",NA,NA,NA,NA,"Wheeling WV",1881,1,-80.7209149,40.0639616
+2,419,NA,"mission","St. Pius's Church","Chicago","IL","10/23/1881","11/7/1881",1550,0,1,"Chicago",NA,446,569,535,"Paulist","",NA,NA,NA,NA,"Chicago IL",1881,1,-87.6297982,41.8781136
+2,421,NA,"mission","St. Peter's Church","Oshkosh","WI","10/23/1881","10/30/1881",720,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Oshkosh WI",1881,1,-88.5426136,44.0247062
+2,423,NA,"mission","St. Mary's Church","Appleton","WI","10/30/1881","11/6/1881",620,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Appleton WI",1881,1,-88.4153847,44.2619309
+2,424,NA,"mission","St. Patrick's Church","Chicago","IL","11/13/1881","11/21/1881",4600,2,10,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1881,12,-87.6297982,41.8781136
+2,426,NA,"mission","St. Bridget's Church","Stanton","WI","12/4/1881","12/11/1881",234,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Stanton WI",1881,1,-92.4671398,45.1730204
+2,428,NA,"mission","Church of the Immaculate Conception","New Richmond","WI","12/18/1881","12/25/1881",404,7,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New Richmond WI",1881,7,-92.5365865,45.1230213
+2,430,NA,"mission","Church of St. Charles Borromeo","Charleston","IL","12/2/1881","12/9/1881",204,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Charleston IL",1881,0,-88.1761521,39.4961458
+2,431,NA,"mission","Church of the Annunciation","Brazil","IN","12/4/1881","12/11/1881",335,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brazil IN",1881,0,-87.1250154,39.523652
+2,432,NA,"mission","","Carbon","IN","12/11/1881","12/16/1881",84,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Carbon IN",1881,0,-87.1068681,39.5996395
+2,433,NA,"mission","","Evansville","IN","12/1/1881","12/1/1881",350,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Evansville IN",1881,0,-87.5710898,37.9715592
+2,434,NA,"mission","St. Augustine's Church","Boston","MA","12/1/1881","12/1/1881",900,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Boston MA",1881,0,-71.0597732,42.3584308
+2,434,NA,"mission","St. Patrick's Church","Lowell","MA","1/1/1882","1/7/1882",5800,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lowell MA",1882,0,-71.3161718,42.6334247
+2,435,NA,"mission","St. Peter's Church","Hartford","CT","1/8/1882","1/22/1882",4622,2,0,"",NA,752,1900,1970,"Paulist","",NA,NA,NA,NA,"Hartford CT",1882,2,-72.6850932,41.7637111
+2,437,NA,"mission","","New Lebanon","NY","1/8/1882","1/15/1882",410,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New Lebanon NY",1882,1,-73.3964977,42.4639722
+2,439,NA,"mission","St. Rose of Lima","New York","NY","2/5/1882","2/19/1882",4310,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1882,5,-74.0059731,40.7143528
+2,442,NA,"mission","St. Francis de Sales","Boston ","MA","2/26/1882","3/10/1882",6370,1,6,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Boston  MA",1882,7,-71.0597732,42.3584308
+2,444,NA,"mission","St. John's Cathedral","Milwaukee","WI","3/19/1882","4/2/1882",3270,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Milwaukee WI",1882,3,-87.9064736,43.0389025
+2,446,NA,"renewal","","Kenastia","WI","4/5/1882","4/9/1882",500,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Kenastia WI",1882,0,-87.8211854,42.5847425
+2,447,NA,"mission","St. Rose's Church","Chelsea","MA","4/16/1882","4/30/1882",3250,16,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chelsea MA",1882,16,-71.0328284,42.3917638
+2,448,NA,"mission","St. Mary's Church","Everett","MA","5/7/1882","5/14/1882",497,0,3,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Everett MA",1882,3,-71.0536625,42.40843
+2,449,NA,"mission","St. Thomas's Church","West Farms","NY","4/2/1882","4/9/1882",442,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Farms NY",1882,2,-73.8816001,40.8430609
+2,450,NA,"retreat","Cathedral","Albany","NY","5/7/1882","5/14/1882",700,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Albany NY",1882,0,-73.7562317,42.6525793
+2,450,NA,"mission","","Waterville","NY","5/15/1882","5/15/1882",1000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Waterville NY",1882,0,-75.3798924,42.931181
+2,450,NA,"mission","","Oriskany Falls","NY","5/15/1882","5/15/1882",300,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Oriskany Falls NY",1882,1,-75.4610076,42.9392363
+2,451,NA,"mission","","Hamilton","NY","11/1/1881","11/1/1881",550,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hamilton NY",1881,0,-75.5446238,42.8270136
+2,451,NA,"mission","","Sherburne","NY","11/1/1881","11/1/1881",250,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sherburne NY",1881,0,-75.4985123,42.6781266
+2,451,NA,"mission","","Sing-Sing","NY","5/7/1882","5/14/1882",1350,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sing-Sing NY",1882,1,-76.8910257,42.1719586
+2,453,NA,"jubilee retreat","St. Joseph's","New York","NY","11/6/1881","11/20/1881",5000,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1881,3,-74.0059731,40.7143528
+2,454,NA,"mission","Cathedral","Denver","CO","12/4/1881","12/14/1881",2900,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Denver CO",1881,4,-104.9847179,39.737567
+2,455,NA,"mission","","Boulder","CO","12/18/1881","12/22/1881",50,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Boulder CO",1881,1,-105.2705456,40.0149856
+2,456,NA,"mission","","St. Vrain Valley","CO","1/8/1882","1/12/1882",35,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. Vrain Valley CO",1882,0,-105.1071813,40.1551451
+2,456,NA,"mission","Church of the Immaculate Conception","Leadville","CO","1/15/1882","1/29/1882",1700,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Leadville CO",1882,5,-106.2925238,39.2508229
+2,457,NA,"mission","","Idaho Springs","CO","2/19/1882","2/26/1882",100,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Idaho Springs CO",1882,3,-105.5136081,39.7424881
+2,458,NA,"mission","","South Boulder and Fort Collins","CO","3/19/1882","4/2/1882",NA,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"South Boulder and Fort Collins CO",1882,0,-104.9759032,40.5840625
+2,458,NA,"mission","","Mount Robinson","CO","4/16/1882","4/24/1882",120,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Mount Robinson CO",1882,0,-105.3452765,38.1138903
+2,459,NA,"mission","","Durango","CO","4/30/1882","5/7/1882",60,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Durango CO",1882,0,-107.8800667,37.27528
+2,459,NA,"mission","","Gunnison","CO","5/8/1882","5/8/1882",NA,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Gunnison CO",1882,0,-106.9253207,38.5458246
+3,5,NA,"mission","","Franklin","PA","9/17/1882","9/24/1882",432,6,0,"Erie",NA,NA,NA,NA,"Paulist","",2,4,NA,NA,"Franklin PA",1882,6,-79.8314437,41.3978358
+3,6,NA,"mission","St. Jerome's Church, 137th St. and Alexander Ave.","New York","NY","10/1/1882","10/16/1882",2210,1,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1882,1,-74.0059731,40.7143528
+3,8,NA,"mission","St. Teresa's Church","Brooklyn","NY","10/22/1882","11/5/1882",2740,2,0,"Brooklyn",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1882,2,-73.95,40.65
+3,10,NA,"mission","St. John's Church","Bellaire","OH","11/12/1882","11/27/1882",830,2,0,"Columbus",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Bellaire OH",1882,2,-80.7423054,40.0161843
+3,12,NA,"mission","St. Patrick's Church","Brockton","MA","11/26/1882","12/10/1882",2918,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brockton MA",1882,1,-71.0183787,42.0834335
+3,14,NA,"mission","St. Leo's Church","Irvington","NJ","12/17/1882","12/22/1882",125,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Irvington NJ",1882,0,-74.2286435,40.7263249
+3,15,NA,"mission","","Milford","MA","12/31/1882","1/10/1883",2700,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Milford MA",1882,1,-71.5163049,42.1398577
+3,17,NA,"mission","St. Paul the Apostle","New York","NY","12/31/1882","1/28/1883",6825,21,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1882,21,-74.0059731,40.7143528
+3,20,NA,"mission","Church of the Sacred Heart","East Cambridge","MA","2/4/1883","2/4/1883",5490,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"East Cambridge MA",1883,2,-71.0824613,42.3683353
+3,23,NA,"mission","St. Bridget's Church","New York","NY","3/4/1883","3/25/1883",6082,9,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1883,9,-74.0059731,40.7143528
+3,26,NA,"mission","St. Ann's Church","Baltimore","MD","4/15/1883","4/22/1883",970,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Baltimore MD",1883,1,-76.6121893,39.2903848
+3,29,NA,"retreat","St. Rose of Lima","New York","NY","4/15/1883","4/22/1883",850,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1883,0,-74.0059731,40.7143528
+3,30,NA,"retreat","St. Rose of Lima","Chelsea","MA","4/22/1883","4/29/1883",1050,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chelsea MA",1883,0,-71.0328284,42.3917638
+3,31,NA,"mission","","Rockland","MA","5/6/1883","5/13/1883",1015,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rockland MA",1883,1,-70.9161551,42.1306563
+3,33,NA,"mission","","Abington","MA","5/13/1883","5/20/1883",952,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Abington MA",1883,0,-70.9453218,42.1048228
+3,34,NA,"mission","","Suffern","NY","5/13/1883","5/21/1883",170,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Suffern NY",1883,2,-74.1495889,41.1148179
+3,34,NA,"mission","St. Marys Church","Houlton","ME","5/27/1883","6/3/1883",470,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Houlton ME",1883,2,-67.8402316,46.1261806
+3,36,NA,"mission","","Fort Fairfield","ME","6/5/1883","6/10/1883",230,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Fort Fairfield ME",1883,0,-67.8339004,46.7722294
+3,38,NA,"mission","St. Paul's Church","Kensington","CT","5/6/1883","5/13/1883",395,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Kensington CT",1883,0,-72.7687083,41.6353769
+3,39,NA,"mission","Our Lady of Mercy","Plainville ","CT","5/13/1883","5/20/1883",298,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Plainville  CT",1883,0,-72.8569444,41.6747222
+3,43,NA,"mission","St. Elizabeth's Church","Fort Washington","NY","9/16/1883","9/23/1883",670,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Fort Washington NY",1883,0,-73.9459708,40.8501001
+3,43,NA,"mission","St. John's Church","Kings Bridge","NY","9/16/1883","9/23/1883",540,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Kings Bridge NY",1883,0,-73.9051362,40.8787108
+3,46,NA,"mission","","Plymouth ","MA","9/16/1883","9/23/1883",575,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Plymouth  MA",1883,0,-70.6672621,41.9584457
+3,47,NA,"mission","","Kingston","MA","9/16/1883","9/19/1883",190,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Kingston MA",1883,0,-70.7284371,41.993305
+3,49,NA,"mission","St. Peter's Church","Poughkeepsie","NY","9/30/1883","10/7/1883",2500,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Poughkeepsie NY",1883,1,-73.9209701,41.7003713
+3,52,NA,"mission","St. Patrick's Church","Audenried","PA","9/30/1883","10/7/1883",1600,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Audenried PA",1883,1,-75.991593,40.9106414
+3,52,NA,"mission","St. Patrick's Church","Beaver Meadows","PA","9/30/1883","10/7/1883",535,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Beaver Meadows PA",1883,0,-75.9146444,40.9281419
+3,56,NA,"mission","Church of Our Lady of Perpetual Help","Defiance","OH","10/14/1883","10/31/1883",625,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Defiance OH",1883,0,-84.3557802,41.2844933
+3,58,NA,"retreat","St. Patrick's Church","Brooklyn","NY","10/7/1883","10/14/1883",1500,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1883,0,-73.95,40.65
+3,59,NA,"retreat","Church of the Sacred Heart","Brooklyn","NY","10/21/1883","10/28/1883",1000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1883,0,-73.95,40.65
+3,60,NA,"mission","Church of the Holy Angels","Chicago","IL","10/14/1883","10/21/1883",625,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1883,0,-87.6297982,41.8781136
+3,61,NA,"mission","Church of St. Peter and Paul","Sandusky","OH","10/28/1883","11/5/1883",1362,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sandusky OH",1883,1,-82.7079605,41.4489396
+3,62,NA,"mission","St. Mary's","Harford Co.","MD","10/28/1883","11/4/1883",217,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Harford Co. MD",1883,0,-76.3637285,39.5838964
+3,63,NA,"mission","St. Ignatius' Church","Hickory","MD","11/4/1883","11/13/1883",563,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hickory MD",1883,3,-75.5949108,38.3762854
+3,64,NA,"mission","","Port Deposit","MD","11/18/1883","11/25/1883",203,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Port Deposit MD",1883,1,-76.1152289,39.6048327
+3,65,NA,"mission","St. Michael's Church","Jersey City","NJ","11/11/1883","12/2/1883",4764,12,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Jersey City NJ",1883,12,-74.0776417,40.7281575
+3,68,NA,"mission","Church of St. Rose of Lima","New York","NY","12/9/1883","12/23/1883",4410,7,0,"New York",NA,215,1703,2412,"Paulist","",NA,NA,NA,NA,"New York NY",1883,7,-74.0059731,40.7143528
+3,72,NA,"retreat","St. John's Church","Worcester","MA","1/6/1884","1/13/1884",1120,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Worcester MA",1884,0,-71.8022934,42.2625932
+3,74,NA,"mission","St. Mary's Church","Joliet","IL","1/20/1884","2/3/1884",2480,2,0,"",NA,NA,1280,1200,"Paulist","",NA,NA,NA,NA,"Joliet IL",1884,2,-88.0817251,41.525031
+3,76,NA,"mission","St. James's Church","Chicago","IL","2/10/1884","2/24/1884",3279,0,0,"Chicago",NA,450,1119,1710,"Paulist","",NA,NA,NA,NA,"Chicago IL",1884,0,-87.6297982,41.8781136
+3,78,NA,"mission","St. Mary's Church","New Britain","CT","3/2/1884","3/16/1884",4642,0,9,"",NA,230,2200,2212,"Paulist","",NA,NA,NA,NA,"New Britain CT",1884,9,-72.7795419,41.6612104
+3,81,NA,"mission","St. Joseph's Church","Brooklyn","NY","3/23/1884","4/6/1884",4707,5,0,"",NA,300,1840,2567,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1884,5,-73.95,40.65
+3,84,NA,"mission","Cathedral","Richmond","VA","12/9/1883","12/16/1883",1700,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Richmond VA",1883,6,-77.4360481,37.5407246
+3,85,NA,"mission","St. Patrick's Church","Richmond","VA","12/9/1883","12/16/1883",720,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Richmond VA",1883,0,-77.4360481,37.5407246
+3,87,NA,"mission","","Norfolk","VA","12/30/1883","1/6/1884",850,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Norfolk VA",1883,4,-76.2858726,36.8507689
+3,88,NA,"mission","","Portsmouth","VA","1/6/1884","1/13/1884",800,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Portsmouth VA",1884,0,-76.2982742,36.8354258
+3,89,NA,"mission","","Old Point Comfort","VA","1/15/1884","1/17/1884",170,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Old Point Comfort VA",1884,0,-76.3113315,37.0004248
+3,90,NA,"mission","","Petersburg","VA","1/20/1884","1/27/1884",320,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Petersburg VA",1884,1,-77.4019267,37.2279279
+3,91,NA,"mission","","Lynchburg","VA","1/27/1884","2/3/1884",625,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lynchburg VA",1884,2,-79.1422464,37.4137536
+3,92,NA,"mission","","Staunton","VA","2/10/1884","2/17/1884",370,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Staunton VA",1884,1,-79.0716958,38.149576
+3,92,NA,"mission","","Harrisonburg","VA","2/10/1884","2/17/1884",72,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Harrisonburg VA",1884,0,-78.8689155,38.4495688
+3,93,NA,"mission","","Martinsburg","WV","2/17/1884","2/24/1884",670,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Martinsburg WV",1884,5,-77.9638869,39.4562099
+3,93,NA,"mission","","Winchester","VA","3/2/1884","3/9/1884",153,0,4,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Winchester VA",1884,4,-78.1633341,39.1856597
+3,94,NA,"mission","","Keyset","WV","3/11/1884","3/16/1884",190,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Keyset WV",1884,0,-78.9739156,39.4409277
+3,94,NA,"mission","","Harper's Ferry","WV","3/19/1884","3/23/1884",250,0,2,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Harper's Ferry WV",1884,2,-77.7388818,39.3253786
+3,95,NA,"mission","","Havre de Grace","MD","3/30/1884","4/6/1884",380,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Havre de Grace MD",1884,1,-76.091617,39.5492792
+3,96,NA,"mission","St. Martin's Church","Baltimore","MD","4/20/1884","5/4/1884",2000,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Baltimore MD",1884,2,-76.6121893,39.2903848
+3,97,NA,"retreat","St. Paul's Church","New York","NY","4/27/1884","5/4/1884",1000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1884,0,-74.0059731,40.7143528
+3,98,NA,"mission","St. Patrick's Church","Lowell","MA","5/5/1884","5/5/1884",6508,0,0,"",NA,NA,2437,4071,"Paulist","",NA,NA,NA,NA,"Lowell MA",1884,0,-71.3161718,42.6334247
+3,103,NA,"mission","St. Peter's Church","Poughkeepsie","NY","9/14/1884","9/21/1884",2100,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Poughkeepsie NY",1884,0,-73.9209701,41.7003713
+3,104,NA,"mission","St. Jerome's Church","New York","NY","9/28/1884","10/5/1884",2475,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1884,4,-74.0059731,40.7143528
+3,107,NA,"mission","St. Columba's Church","Ottowa","IL","10/14/1884","10/21/1884",1675,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ottowa IL",1884,0,-88.8425769,41.3455892
+3,108,NA,"mission","","Seneca","IL","10/21/1884","10/21/1884",550,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Seneca IL",1884,0,-88.6097936,41.3111442
+3,111,NA,"mission","","Marseilles","IL","10/21/1884","10/21/1884",150,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Marseilles IL",1884,0,-88.7081293,41.3308666
+3,113,NA,"mission","St. James's Church","New York","NY","11/9/1884","12/11/1884",11020,12,0,"",NA,1465,3805,5750,"Paulist","",NA,NA,NA,NA,"New York NY",1884,12,-74.0059731,40.7143528
+3,119,NA,"retreat","St. John's Church","Utica","NY","12/14/1884","12/21/1884",800,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Utica NY",1884,0,-75.232664,43.100903
+3,121,NA,"retreat","Church of the Immaculate Conception","New York","NY","1/11/1885","1/19/1885",5000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1885,0,-74.0059731,40.7143528
+3,122,NA,"retreat","Manhattan College","New York","NY","1/27/1885","1/29/1885",260,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1885,0,-74.0059731,40.7143528
+3,123,NA,"mission","Church of St. Paul the Apostle","New York","NY","2/1/1885","2/15/1885",6950,10,0,"",NA,500,2750,3700,"Paulist","",NA,NA,NA,NA,"New York NY",1885,10,-74.0059731,40.7143528
+3,129,NA,"mission","St. James's Church","Salem","MA","2/22/1885","3/8/1885",4113,0,0,"",NA,396,1703,2014,"Paulist","",NA,NA,NA,NA,"Salem MA",1885,0,-70.8967155,42.51954
+3,131,NA,"mission","St. Thomas's Church","Mamaroneck","NY","3/8/1885","3/15/1885",630,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Mamaroneck NY",1885,6,-73.7326309,40.9487097
+3,132,NA,"mission","","Waukesha","WI","3/7/1885","3/15/1885",623,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Waukesha WI",1885,0,-88.2314813,43.0116784
+3,134,NA,"mission","St. Joseph's Church","Terre Haute","IN","3/22/1885","3/29/1885",1100,7,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Terre Haute IN",1885,7,-87.4139092,39.4667034
+3,136,NA,"mission","St. Augustine's Church","Morrissania","NY","4/12/1885","4/19/1885",997,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Morrissania NY",1885,5,-73.9109977,40.8250663
+3,137,NA,"mission","St. Thomas's Church","West Farms","NY","4/12/1885","4/19/1885",336,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Farms NY",1885,0,-73.8816001,40.8430609
+3,139,NA,"mission","St. Elizabeth's Church","Chicago","IL","4/12/1885","4/21/1885",1676,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1885,1,-87.6297982,41.8781136
+3,141,NA,"mission","St. Patrick's Church","Newburgh","NY","4/26/1885","5/10/1885",2485,1,0,"",NA,NA,1135,1350,"Paulist","",NA,NA,NA,NA,"Newburgh NY",1885,1,-74.0104178,41.5034271
+3,144,NA,"mission","All Saints' Church","Chicago","IL","4/26/1885","5/10/1885",2544,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1885,0,-87.6297982,41.8781136
+3,146,NA,"mission","St. Patrick's Church","Brooklyn","NY","5/17/1885","5/31/1885",5560,0,0,"",NA,NA,2480,3080,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1885,0,-73.95,40.65
+3,149,NA,"retreat","St. Bridget's Church","Abington","MA","6/3/1885","6/8/1885",230,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Abington MA",1885,0,-70.9453218,42.1048228
+3,152,NA,"mission","","Perth Amboy","NJ","9/13/1885","9/20/1885",1042,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Perth Amboy NJ",1885,0,-74.2654234,40.5067723
+3,153,NA,"mission","Church of the Immaculate Conception","Yonkers","NY","9/13/1885","9/27/1885",3772,0,0,"",NA,215,1650,1907,"Paulist","",NA,NA,NA,NA,"Yonkers NY",1885,0,-73.8987469,40.9312099
+3,156,NA,"mission","","Currie","MN","9/27/1885","10/4/1885",232,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Currie MN",1885,0,-95.6663993,44.071351
+3,157,NA,"mission","","Tracy","MN","10/4/1885","10/9/1885",67,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Tracy MN",1885,0,-95.6227778,44.2319444
+3,158,NA,"mission","","Willow Lake","MN","10/4/1885","10/7/1885",69,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Willow Lake MN",1885,0,-95.1640605,44.3394439
+3,159,NA,"mission","St. Peter's Church, Capitol Hill","Washington","DC","10/4/1885","10/14/1885",2235,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Washington DC",1885,4,-77.0364641,38.9072309
+3,163,NA,"mission","","Fulda","MN","10/11/1885","10/18/1885",300,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Fulda MN",1885,0,-95.6002856,43.8705185
+3,164,NA,"mission","","Woodstock","MN","10/16/1885","10/21/1885",109,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Woodstock MN",1885,0,-96.1005806,44.0091343
+3,166,NA,"mission","","Pipestone","MN","10/24/1885","10/24/1885",50,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Pipestone MN",1885,0,-96.3128117,43.9985815
+3,169,NA,"mission","Cathedral","Baltimore","MD","10/18/1885","11/1/1885",2505,0,0,"",NA,NA,888,1617,"Paulist","",NA,NA,NA,NA,"Baltimore MD",1885,0,-76.6121893,39.2903848
+3,174,NA,"mission","Church of the Holy Family","Auburn","NY","11/8/1885","11/22/1885",3900,2,0,"",NA,NA,1970,1930,"Paulist","",NA,NA,NA,NA,"Auburn NY",1885,2,-76.5660529,42.9317335
+3,177,NA,"mission","St. Patrick's Church","Pittsburgh","PA","11/8/1885","11/22/1885",3048,0,0,"",NA,NA,1480,1565,"Paulist","",NA,NA,NA,NA,"Pittsburgh PA",1885,0,-79.9958864,40.4406248
+3,179,NA,"mission","St. Thomas Aquinas's Church","Jamaica Plain","MA","11/29/1885","12/13/1885",2770,0,0,"",NA,NA,1160,1610,"Paulist","",NA,NA,NA,NA,"Jamaica Plain MA",1885,0,-71.1151431,42.3097365
+3,181,NA,"mission","","Terre Haute","IN","11/28/1885","12/2/1885",1000,7,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Terre Haute IN",1885,7,-87.4139092,39.4667034
+3,182,NA,"mission","St. Lucy's Church","Syracuse","NY","12/13/1885","12/21/1885",2527,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Syracuse NY",1885,0,-76.1474244,43.0481221
+3,183,NA,"mission","St. James's Church","New York","NY","1/3/1886","1/17/1886",8700,11,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1886,11,-74.0059731,40.7143528
+3,184,NA,"mission","","Union Springs","NY","1/10/1886","1/17/1886",300,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Union Springs NY",1886,1,-76.6932818,42.8397906
+3,185,NA,"mission","Church of the Immaculate Conception","New York","NY","1/24/1886","2/21/1886",11052,20,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1886,20,-74.0059731,40.7143528
+3,189,NA,"mission","Church of the Immaculate Conception","Washington","DC","2/28/1886","3/9/1886",1774,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Washington DC",1886,6,-77.0364641,38.9072309
+3,190,21,"retreat","St. Charles College","Ellicot City","MD","2/23/1886","2/28/1886",50,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ellicot City MD",1886,0,-76.7983067,39.2673283
+3,191,22,"mission","","Phelps","NY","3/7/1886","3/15/1886",250,0,0,"Rochester",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Phelps NY",1886,0,-77.057471,42.957564
+3,192,23,"mission","St. Joseph's Church","New York","NY","3/14/1886","3/28/1886",5900,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1886,4,-74.0059731,40.7143528
+3,195,24,"mission","","Mobile","AL","2/28/1886","3/8/1886",900,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Mobile AL",1886,4,-88.0430541,30.6943566
+3,198,25,"mission","Church of St. John the Baptist","New Orleans","LA","3/1/1886","3/1/1886",4300,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New Orleans LA",1886,0,-90.0715323,29.9510658
+3,200,26,"mission","St. Bernard's Church","New York","NY","4/4/1886","4/18/1886",5535,0,0,"",NA,NA,2405,3130,"Paulist","",NA,NA,NA,NA,"New York NY",1886,0,-74.0059731,40.7143528
+3,201,NA,"retreat","Church of the Annunciation","Manhattanville","NY","4/4/1886","4/11/1886",1500,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Manhattanville NY",1886,0,-73.9558333,40.8169443
+3,201,NA,"retreat","St. Teresa's Church","New York","NY","4/11/1886","4/18/1886",2700,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1886,0,-74.0059731,40.7143528
+3,201,27,"mission","St. Mary's Church","Canandaigua","NY","5/9/1886","5/17/1886",1760,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Canandaigua NY",1886,4,-77.2816984,42.887535
+3,204,28,"mission","St. John's Cathedral","Milwaukee","WI","5/2/1886","5/16/1886",2946,0,0,"",NA,NA,1350,1596,"Paulist","",NA,NA,NA,NA,"Milwaukee WI",1886,0,-87.9064736,43.0389025
+3,207,29,"mission","St. Mary's Star of the Sea","Long Branch","NY","5/23/1886","5/30/1886",515,0,0,"Trenton",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Long Branch NY",1886,0,-73.9923596,40.3042778
+3,208,30,"mission","","Kenoska","WI","5/23/1886","5/30/1886",750,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Kenoska WI",1886,0,-87.8211854,42.5847425
+3,211,31,"mission","","Goshen","NY","5/30/1886","6/6/1886",680,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Goshen NY",1886,0,-74.3243191,41.4020382
+3,211,NA,"retreat","","Morristown","NJ","5/1/1886","5/1/1886",800,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Morristown NJ",1886,0,-74.4815438,40.7967667
+3,214,NA,"mission","","West Point","NY","9/12/1886","9/19/1886",375,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Point NY",1886,0,-73.9559721,41.3914827
+3,214,NA,"mission","","Highland Falls","NY","9/19/1886","9/26/1886",475,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Highland Falls NY",1886,0,-73.9662504,41.3692605
+3,217,NA,"mission","Church of the Immaculate Conception","Minneapolis","MN","9/19/1886","9/27/1886",2265,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Minneapolis MN",1886,2,-93.26667,44.983334
+3,218,NA,"mission","St. Michael's Church","West St. Paul","MN","9/26/1886","10/4/1886",721,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West St. Paul MN",1886,0,-93.1016074,44.9160768
+3,219,NA,"mission","St. Thomas Aquinas's Church","Jamaica Plain","MA","10/3/1886","10/17/1886",2700,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Jamaica Plain MA",1886,2,-71.1151431,42.3097365
+3,220,NA,"mission","St. Paul's Cathedral","St. Paul","MN","10/3/1886","10/17/1886",3203,2,0,"",NA,NA,1360,1843,"Paulist","",NA,NA,NA,NA,"St. Paul MN",1886,2,-93.0899578,44.9537029
+3,222,NA,"mission","St. Thomas's Church","Winona","MN","10/24/1886","10/31/1886",1140,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Winona MN",1886,4,-91.6404389,44.0478889
+3,223,NA,"mission","St. Ann's Church","Baltimore","MD","10/24/1886","10/31/1886",920,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Baltimore MD",1886,2,-76.6121893,39.2903848
+3,224,NA,"mission","Church of the Sacred Heart","Waseca","MN","10/24/1886","10/31/1886",675,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Waseca MN",1886,0,-93.5083843,44.0770411
+3,225,NA,"mission","Church of the Sacred Heart","Owatonna","MN","10/31/1886","11/7/1886",460,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Owatonna MN",1886,0,-93.2259349,44.0855572
+3,226,NA,"mission","St. Mary's Church","St. Paul","MN","11/7/1886","11/16/1886",1651,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. Paul MN",1886,3,-93.0899578,44.9537029
+3,228,NA,"mission","St. Paul's Church","Birmingham","AL","11/7/1886","11/17/1886",500,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Birmingham AL",1886,5,-86.80249,33.5206608
+3,229,NA,"mission","St. Patrick's Church","Shieldsville","MN","11/21/1886","11/28/1886",636,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Shieldsville MN",1886,0,-93.4088334,44.3660744
+3,231,NA,"mission","St. Augustine's Church","Austin","MN","11/21/1886","11/28/1886",700,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Austin MN",1886,0,-92.9746367,43.6666296
+3,232,NA,"mission","","Oyster Bay, Long Island","NY","10/24/1886","10/28/1886",294,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Oyster Bay, Long Island NY",1886,0,-73.5320685,40.8656543
+3,232,NA,"mission","","Huntington, Long Island","NY","11/7/1886","11/14/1886",416,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Huntington, Long Island NY",1886,1,-73.425676,40.8681539
+3,233,NA,"mission","","Aurora","NY","11/21/1886","11/28/1886",324,0,0,"Rochester",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Aurora NY",1886,0,-76.7024485,42.7539591
+3,233,NA,"retreat","St. Bernard's Church","New York","NY","12/5/1886","12/12/1886",2700,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1886,0,-74.0059731,40.7143528
+3,234,NA,"mission","St. Peter's Church","Montgomery","AL","11/21/1886","11/30/1886",495,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Montgomery AL",1886,2,-86.2999689,32.3668052
+3,236,NA,"mission","Church of the Immaculate Conception","Faribault","MN","11/28/1886","12/5/1886",917,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Faribault MN",1886,0,-93.268827,44.2949636
+3,237,NA,"mission","St. Anthony of Padua's Church","East Minneapolis","MN","12/5/1886","12/13/1886",1818,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"East Minneapolis MN",1886,6,-93.26667,44.983334
+3,238,NA,"mission","St. Michael's Church","Pensacola","FL","12/5/1886","12/17/1886",875,20,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Pensacola FL",1886,20,-87.2169149,30.421309
+3,240,NA,"mission","St. Joseph's Church","St. Paul","MN","12/19/1886","12/26/1886",1354,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"St. Paul MN",1886,0,-93.0899578,44.9537029
+3,242,NA,"mission","","Farmington","MN","12/19/1886","12/22/1886",145,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Farmington MN",1886,1,-93.1435497,44.6402434
+3,245,NA,"mission","","Boston","MA","1/9/1887","1/19/1887",1120,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Boston MA",1887,0,-71.0597732,42.3584308
+3,246,NA,"renewal","St. Patrick's Church","Pittsburgh","PA","1/9/1887","1/23/1887",2822,16,0,"",NA,NA,1436,1386,"Paulist","",NA,NA,NA,NA,"Pittsburgh PA",1887,16,-79.9958864,40.4406248
+3,248,NA,"mission","St. Mary's Church","Honeoye","NY","1/30/1887","2/13/1887",253,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Honeoye NY",1887,2,-77.5166873,42.7900604
+3,248,NA,"mission","St. William's Church","Conesus","NY","1/30/1887","2/13/1887",120,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Conesus NY",1887,3,-77.6763859,42.7189532
+3,248,NA,"mission","St. Michael's Church","Livonia","NY","1/30/1887","2/13/1887",430,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Livonia NY",1887,1,-77.6686097,42.8214525
+3,249,NA,"mission","","Honeoye Falls","NY","1/30/1887","2/13/1887",355,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Honeoye Falls NY",1887,1,-77.5902759,42.9522855
+3,249,NA,"mission","","East Rush","NY","1/30/1887","2/13/1887",335,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"East Rush NY",1887,0,-77.6455564,42.9958962
+3,250,NA,"mission","St. Teresa's Church","New York","NY","2/13/1887","3/13/1887",6915,25,0,"",NA,660,2564,3691,"Paulist","",NA,NA,NA,NA,"New York NY",1887,25,-74.0059731,40.7143528
+3,252,NA,"retreat","Church of St. John the Evangelist","New York","NY","3/12/1887","4/3/1887",NA,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1887,0,-74.0059731,40.7143528
+3,253,NA,"mission","Church of the Annunciation","New York","NY","3/20/1887","4/3/1887",2420,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1887,4,-74.0059731,40.7143528
+3,254,NA,"mission","","Seneca Falls","NY","3/29/1887","4/3/1887",1870,2,0,"",NA,NA,955,915,"Paulist","",NA,NA,NA,NA,"Seneca Falls NY",1887,2,-76.7966215,42.9106219
+3,256,NA,"mission","Church of the Sacred Heart","West Fitchburg","MA","4/17/1887","4/24/1887",761,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Fitchburg MA",1887,0,-71.8022955,42.5834228
+3,257,NA,"mission","St. Patrick's Church","Weston","WV","4/17/1887","4/24/1887",253,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Weston WV",1887,0,-80.467313,39.0384274
+3,258,NA,"mission","St. Boniface Church","Leading Creek","WV","4/25/1887","4/25/1887",164,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Leading Creek WV",1887,0,-80.8056079,39.0013239
+3,259,NA,"mission","St. Matthew's Church","Shullsburg","WI","5/1/1887","5/8/1887",830,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Shullsburg WI",1887,1,-90.23096,42.5733354
+3,260,NA,"mission","St. Augustine's Church","Brooklyn","NY","4/17/1887","5/8/1887",3655,0,0,"",NA,200,1150,2305,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1887,0,-73.95,40.65
+3,262,NA,"mission","","Wyandotte","MI","5/8/1887","5/15/1887",43,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Wyandotte MI",1887,1,-83.1499239,42.2142064
+3,263,NA,"mission","St. John's Church","Dayton's Bluff, St. Paul","MN","5/15/1887","5/22/1887",709,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Dayton's Bluff, St. Paul MN",1887,0,-93.0626284,44.9543909
+3,264,NA,"mission","","Luverne","MN","5/22/1887","5/29/1887",180,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Luverne MN",1887,0,-96.2025289,43.6555249
+3,265,NA,"mission","","Ellsworth","MN","5/29/1887","5/29/1887",100,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ellsworth MN",1887,0,-96.018356,43.518023
+3,266,NA,"mission","Church of St. Mary of the Assumption","Port Richmond, Staten Island","NY","5/22/1887","5/29/1887",NA,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Port Richmond, Staten Island NY",1887,0,-74.1254641,40.6354914
+3,266,NA,"mission","","Seabright","NJ","5/29/1887","6/6/1887",180,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Seabright NJ",1887,0,-74.1965386,39.8244272
+3,268,NA,"mission","St. Michael's Church","Stillwater","MN","6/5/1887","6/18/1887",1100,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,250,NA,"Stillwater MN",1887,3,-92.8088443,45.056004
+3,272,NA,"mission","Church of the Sacred Heart","Bridgeport","CT","9/11/1887","9/20/1887",1600,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Bridgeport CT",1887,1,-73.1951767,41.1865478
+3,273,NA,"mission","St. Augustine's Church","Union Hill","NJ","9/1/1887","9/1/1887",652,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Union Hill NJ",1887,0,-74.5201566,40.8559326
+3,274,NA,"mission","Church of Our Lady of the Sacred Heart","Chelsea","MI","9/18/1887","9/25/1887",550,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chelsea MI",1887,1,-84.0205029,42.3180919
+3,275,NA,"mission","St. Mary's Church","Pinckney","MI","9/20/1887","10/2/1887",445,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Pinckney MI",1887,1,-83.9463358,42.4567013
+3,277,NA,"mission","","Bethel","CT","9/25/1887","10/2/1887",430,1,0,"Hartford",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Bethel CT",1887,1,-73.4139621,41.3712283
+3,278,NA,"mission","St. Rose's Church","Lima","NY","10/2/1887","10/9/1887",812,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lima NY",1887,0,-77.6113869,42.9047857
+3,279,NA,"mission","St. Joseph's Church","West Bloomfield","NY","10/8/1887","10/12/1887",228,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Bloomfield NY",1887,0,-77.5391622,42.9058971
+3,280,NA,"mission","","Lenox","MA","10/9/1887","10/23/1887",765,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lenox MA",1887,2,-73.2848762,42.3564609
+3,280,NA,"mission","","Lee","MA","10/9/1887","10/23/1887",1070,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lee MA",1887,1,-73.2481951,42.3042151
+3,280,NA,"mission","","South Lee","MA","10/9/1887","10/23/1887",100,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"South Lee MA",1887,0,-73.2773294,42.2778653
+3,282,NA,"mission","","Ithaca","NY","10/9/1887","10/23/1887",1482,3,0,"",NA,NA,606,876,"Paulist","",NA,NA,165,NA,"Ithaca NY",1887,3,-76.5018807,42.4439614
+3,284,NA,"mission","","Cayuga","NY","10/24/1887","10/28/1887",300,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Cayuga NY",1887,0,-76.7263397,42.9189555
+3,285,NA,"mission","","Avon","NY","10/30/1887","11/6/1887",825,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,326,NA,"Avon NY",1887,3,-77.7455583,42.9120072
+3,286,NA,"mission","St. Mary's Church","Westfield","MA","10/30/1887","11/6/1887",1314,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Westfield MA",1887,1,-72.749538,42.1250929
+3,287,NA,"mission","","Penn Yan","NY","11/13/1887","11/20/1887",1025,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Penn Yan NY",1887,4,-77.0538577,42.6609026
+3,288,NA,"mission","Church of the Transfiguration","New York","NY","11/13/1887","11/20/1887",2540,0,0,"",NA,NA,970,1570,"Paulist","",NA,NA,NA,NA,"New York NY",1887,0,-74.0059731,40.7143528
+3,290,NA,"mission","","Greenport","NY","10/23/1887","10/30/1887",300,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Greenport NY",1887,1,-72.3592501,41.1034326
+3,290,NA,"mission","","Glen Cove","NY","11/6/1887","11/13/1887",830,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Glen Cove NY",1887,0,-73.6337389,40.8623217
+3,291,NA,"mission","","Sag Harbor","NY","11/27/1887","12/4/1887",600,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sag Harbor NY",1887,0,-72.2925819,40.9978773
+3,292,NA,"mission","St. Stephen's Church","Pittsburgh","PA","11/27/1887","12/11/1887",1325,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Pittsburgh PA",1887,3,-79.9958864,40.4406248
+3,293,NA,"mission","St. Andrew's Church","New York","NY","12/4/1887","12/20/1887",3022,5,0,"",NA,NA,1440,1582,"Paulist","",NA,NA,925,NA,"New York NY",1887,5,-74.0059731,40.7143528
+3,294,NA,"mission","","Far Rockaway","NY","1/15/1888","1/22/1888",511,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Far Rockaway NY",1888,0,-73.7448437,40.5998931
+3,295,NA,"mission","St. Mary's Church","Norfolk","VA","1/8/1888","1/19/1888",810,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Norfolk VA",1888,0,-76.2858726,36.8507689
+3,296,NA,"mission","St. Patrick's Church","Lockport","NY","1/22/1888","1/29/1888",1435,0,0,"Buffalo",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lockport NY",1888,0,-78.6903098,43.1706128
+3,297,NA,"mission","Church of St. Paul the Apostle","New York","NY","1/29/1888","2/12/1888",8396,4,0,"",NA,1000,3021,4375,"Paulist","",NA,NA,NA,NA,"New York NY",1888,4,-74.0059731,40.7143528
+3,297,NA,"mission","","Macedon","NY","2/5/1888","2/13/1888",440,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Macedon NY",1888,1,-77.2988746,43.0692299
+3,298,NA,"mission","St. Paul's Church","Harlem","NY","2/19/1888","3/4/1888",3435,12,0,"",NA,NA,1630,1805,"Paulist","",NA,NA,NA,NA,"Harlem NY",1888,12,-73.9464769,40.8115504
+3,299,NA,"mission","Church of the Sacred Heart","Worcester","MA","2/19/1888","3/4/1888",2678,1,0,"",NA,174,1301,1203,"Paulist","",NA,NA,961,NA,"Worcester MA",1888,1,-71.8022934,42.2625932
+3,301,NA,"mission","","Lyons","NY","3/11/1888","3/19/1888",465,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lyons NY",1888,0,-76.9902456,43.0642305
+3,301,NA,"mission","","Newark","NY","3/11/1888","3/19/1888",350,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Newark NY",1888,0,-77.0952516,43.0467301
+3,303,NA,"mission","Church of St. John the Evangelist","New York","NY","3/11/1888","3/25/1888",5300,0,0,"",NA,NA,2990,2310,"Paulist","",NA,NA,1000,NA,"New York NY",1888,0,-74.0059731,40.7143528
+3,304,NA,"mission","","Morrisania","NY","4/8/1888","4/15/1888",1075,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Morrisania NY",1888,5,-73.9109977,40.8250663
+3,304,NA,"mission","","West Farms","NY","4/8/1888","4/15/1888",318,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Farms NY",1888,0,-73.8816001,40.8430609
+3,305,NA,"mission","St. Bernard's Church","Fitchburg","MA","4/8/1888","4/22/1888",1291,0,0,"",NA,NA,1291,1700,"Paulist","",NA,NA,NA,NA,"Fitchburg MA",1888,0,-71.8022955,42.5834228
+3,306,NA,"mission","St. Leo's Church","Leominster","MA","4/8/1888","4/15/1888",960,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Leominster MA",1888,0,-71.759794,42.5250906
+3,307,NA,"mission","","Newburyport","MA","4/22/1888","5/7/1888",2377,0,0,"",NA,NA,942,1435,"Paulist","",NA,NA,766,NA,"Newburyport MA",1888,0,-70.8772751,42.8125913
+3,309,NA,"mission","St. Elizabeth's Church","Chicago","IL","4/22/1888","5/6/1888",1985,1,0,"",NA,NA,885,1100,"Paulist","",NA,NA,170,NA,"Chicago IL",1888,1,-87.6297982,41.8781136
+3,310,NA,"mission","","Morristown","NJ","5/13/1888","5/28/1888",1727,0,0,"",NA,127,650,950,"Paulist","",NA,NA,NA,NA,"Morristown NJ",1888,0,-74.4815438,40.7967667
+3,312,NA,"mission","","West Stockbridge","MA","5/14/1888","5/20/1888",686,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Stockbridge MA",1888,1,-73.3677582,42.3338097
+3,313,NA,"mission","","Stockbridge","MA","5/20/1888","5/27/1888",452,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Stockbridge MA",1888,0,-73.3203862,42.2875874
+3,314,NA,"mission","","Galesburg","IL","5/14/1888","5/20/1888",1020,0,0,"Peoria",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Galesburg IL",1888,0,-90.3712395,40.9478158
+3,315,NA,"mission","","Wyandotte","MI","5/22/1888","5/28/1888",600,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Wyandotte MI",1888,0,-83.1499239,42.2142064
+3,316,NA,"mission","","Suffern","NJ","6/3/1888","6/10/1888",180,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Suffern NJ",1888,3,-74.1495889,41.1148179
+3,316,NA,"mission","","Tuxedo Park","NJ","6/10/1888","6/16/1888",97,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Tuxedo Park NJ",1888,0,-74.2016667,41.2013889
+3,318,NA,"mission","St. Bridget's Church","Rochester","NY","9/9/1888","9/17/1888",1550,0,0,"Rochester",NA,NA,NA,NA,"Paulist","",NA,NA,500,NA,"Rochester NY",1888,0,-77.6109219,43.16103
+3,320,NA,"mission","Church of the Holy Apostles","Rochester","NY","9/16/1888","9/23/1888",1020,13,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,44,"Rochester NY",1888,13,-77.6109219,43.16103
+3,321,NA,"mission","St. Michael's Church","Frostburg","MD","9/16/1888","9/23/1888",1232,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Frostburg MD",1888,1,-78.928357,39.6581424
+3,323,NA,"mission","","Westport","CT","9/16/1888","9/24/1888",500,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Westport CT",1888,0,-73.3579049,41.1414717
+3,325,NA,"mission","St. Patrick's Church","Mt. Savage","MD","9/23/1888","9/30/1888",478,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,150,NA,"Mt. Savage MD",1888,1,-78.8797442,39.6956417
+3,327,NA,"mission","St. Thomas's Church","Mooresville","MD","10/4/1888","10/10/1888",36,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Mooresville MD",1888,0,-78.0316969,39.6920767
+3,328,NA,"mission","St. Peter's Church","Hancock","MD","9/30/1888","10/6/1888",204,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hancock MD",1888,0,-78.1797293,39.6989809
+3,330,NA,"mission","","Little Orleans","MD","10/7/1888","10/10/1888",96,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Little Orleans MD",1888,0,-78.3864002,39.625925
+3,332,NA,"mission","Church of the Immaculate Conception","Brooklyn","NY","9/30/1888","10/14/1888",2470,8,0,"",NA,NA,1360,1110,"Paulist","",NA,NA,825,NA,"Brooklyn NY",1888,8,-73.95,40.65
+3,335,NA,"mission","St. Mary's Church","Davenport","IA","10/7/1888","10/14/1888",715,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Davenport IA",1888,5,-90.5776367,41.5236437
+3,336,NA,"mission","St. Joseph's Church","Rock Island","IL","10/14/1888","10/21/1888",860,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rock Island IL",1888,3,-90.5787476,41.5094771
+3,338,NA,"mission","St. Anthony's Church","Davenport","IA","10/21/1888","10/29/1888",980,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Davenport IA",1888,2,-90.5776367,41.5236437
+3,339,NA,"mission","St. Ignatius's Church","Hickory","IN","10/21/1888","10/28/1888",420,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hickory IN",1888,3,-87.1719823,41.4281251
+3,340,NA,"mission","","Bergen Point","NJ","10/21/1888","11/4/1888",3890,10,0,"",NA,NA,2100,1790,"Paulist","",NA,NA,NA,NA,"Bergen Point NJ",1888,10,-74.1412543,40.6476033
+3,343,NA,"mission","St. Matthias's Church","Muscatine","IA","11/4/1888","11/12/1888",720,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Muscatine IA",1888,0,-91.0432051,41.424473
+3,344,NA,"mission","St. Joseph's Church","Weedsport","NY","11/11/1888","11/18/1888",416,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Weedsport NY",1888,1,-76.5627197,43.048677
+3,345,NA,"mission","St. John's Church","Port Byron","NY","11/18/1888","11/21/1888",128,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Port Byron NY",1888,3,-76.6238343,43.0345099
+3,346,NA,"mission","St. Michael's Church","Montezuma","NY","11/22/1888","11/25/1888",165,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Montezuma NY",1888,2,-76.7032833,43.010065
+3,347,NA,"mission","Church of Our Lady of Perpetual Help","Defiance","OH","11/18/1888","11/26/1888",640,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Defiance OH",1888,0,-84.3557802,41.2844933
+3,348,NA,"mission","Church of Ss. Peter and Paul","Brooklyn","NY","11/11/1888","11/25/1888",4070,8,0,"",NA,NA,1810,2260,"Paulist","",NA,NA,1450,NA,"Brooklyn NY",1888,8,-73.95,40.65
+3,350,NA,"mission","","Rye","NY","12/2/1888","12/9/1888",394,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rye NY",1888,0,-73.6837399,40.9806535
+3,352,NA,"mission","Church of the Holy Innocents","New York","NY","12/9/1888","12/23/1888",4712,5,0,"",NA,NA,1797,2915,"Paulist","",NA,NA,700,NA,"New York NY",1888,5,-74.0059731,40.7143528
+3,354,NA,"renewal","","Far Rockaway","NY","12/30/1888","1/1/1889",485,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Far Rockaway NY",1888,0,-73.7448437,40.5998931
+3,356,NA,"mission","St. Agne's Church","New York","NY","1/6/1889","1/20/1889",5804,6,0,"",NA,370,2184,3250,"Paulist","",NA,NA,1400,NA,"New York NY",1889,6,-74.0059731,40.7143528
+3,359,NA,"mission","Church of the Holy Name","Newburgh","OH","1/6/1889","1/20/1889",2685,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,450,NA,"Newburgh OH",1889,1,-82.9409387,40.0092839
+3,360,NA,"mission","Church of the Holy Cross","Marine City","MI","1/27/1889","2/3/1889",1250,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,160,"Marine City MI",1889,3,-82.492132,42.7194778
+3,362,NA,"mission","Sing Sing Prison","Ossining","NY","1/27/1889","2/3/1889",580,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ossining NY",1889,0,-73.8615246,41.1628731
+3,364,NA,"mission","St. Joseph's Church","Jersey City Heights","NJ","1/21/1889","2/10/1889",3273,4,0,"",NA,NA,1525,1748,"Paulist","",NA,NA,700,NA,"Jersey City Heights NJ",1889,4,-74.0505752,40.7473758
+3,368,NA,"mission","Church of the Epiphany","New York","NY","2/17/1889","3/3/1889",4957,0,0,"",NA,NA,2157,2800,"Paulist","",NA,NA,NA,NA,"New York NY",1889,0,-74.0059731,40.7143528
+3,370,NA,"mission","St. Teresa's Church","New York","NY","3/10/1889","4/7/1889",7131,0,0,"New York",NA,723,2548,3860,"Paulist","",NA,NA,2400,NA,"New York NY",1889,0,-74.0059731,40.7143528
+3,373,NA,"mission","","Gloucester","MA","3/24/1889","4/7/1889",2900,0,4,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Gloucester MA",1889,4,-70.6619888,42.6159285
+3,375,NA,"retreat","St. Matthew's Church","Washington","DC","4/7/1889","4/14/1889",1000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Washington DC",1889,0,-77.0364641,38.9072309
+3,376,NA,"mission","St. Patrick's Church","Wyandotte","MI","4/14/1889","4/21/1889",895,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Wyandotte MI",1889,0,-83.1499239,42.2142064
+3,376,NA,"mission","St. Joseph's Church","Trenton","MI","4/14/1889","4/21/1889",475,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Trenton MI",1889,5,-83.1782587,42.1394858
+3,376,NA,"mission","St. Ann's Church","Palmyra","NY","4/28/1889","5/5/1889",455,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Palmyra NY",1889,0,-77.2333154,43.0639521
+3,379,NA,"mission","","West Point","NY","5/19/1889","6/2/1889",366,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Point NY",1889,0,-73.9559721,41.3914827
+3,379,NA,"mission","","Highland Falls","NY","5/19/1889","6/2/1889",433,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Highland Falls NY",1889,2,-73.9662504,41.3692605
+3,382,NA,"mission","St. Paul's Cathedral","Pittsburgh","PA","4/24/1889","5/12/1889",6980,20,0,"",NA,575,2730,3645,"Paulist","",NA,NA,NA,508,"Pittsburgh PA",1889,20,-79.9958864,40.4406248
+3,385,NA,"mission","","Short Hills","NJ","6/9/1889","6/16/1889",417,1,0,"Newark",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Short Hills NJ",1889,1,-74.3232194,40.7483499
+3,387,NA,"mission","","Mt. Pleasant","IA","5/12/1889","5/19/1889",425,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Mt. Pleasant IA",1889,0,-91.5487714,40.9716959
+3,389,NA,"mission","","Streator","IL","5/26/1889","6/2/1889",NA,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Streator IL",1889,2,-88.835352,41.1208668
+3,390,NA,"mission","St. John's Church","Worcester","MA","5/19/1889","6/2/1889",6000,1,0,"",NA,650,2500,2850,"Paulist","",NA,NA,NA,NA,"Worcester MA",1889,1,-71.8022934,42.2625932
+3,392,NA,"mission","","Mystic Bridge","CT","6/5/1889","6/16/1889",285,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Mystic Bridge CT",1889,0,-71.9109282,41.4400788
+3,392,NA,"mission","","Stonington","CT","6/5/1889","6/16/1889",450,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Stonington CT",1889,0,-71.9058854,41.3358915
+3,394,NA,"mission","","Pontiac","IL","6/2/1889","6/9/1889",365,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,117,NA,"Pontiac IL",1889,0,-88.6297839,40.8808666
+3,395,NA,"mission","","Flanagan","IL","6/9/1889","6/15/1889",250,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,125,NA,"Flanagan IL",1889,0,-88.8611818,40.878089
+4,52,NA,"mission","St. Rose's Church","Chelsea","MA","9/8/1889","9/23/1889",4006,2,0,"",NA,NA,2302,1704,"Paulist","",NA,NA,NA,180,"Chelsea MA",1889,2,-71.0328284,42.3917638
+4,55,NA,"mission","St. Peter's Church","Belleville","NJ","9/15/1889","9/22/1889",1205,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Belleville NJ",1889,0,-74.1500469,40.7936744
+4,56,NA,"mission","","Irvington","NJ","9/22/1889","9/26/1889",300,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Irvington NJ",1889,0,-74.2286435,40.7263249
+4,58,NA,"mission","","Tarrytown","NY","9/29/1889","10/6/1889",1277,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,600,NA,"Tarrytown NY",1889,0,-73.8587461,41.0762077
+4,60,NA,"mission","St. Mary's Church","Ticonderoga","NY","9/30/1889","10/6/1889",475,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ticonderoga NY",1889,0,-73.4234531,43.8486707
+4,61,NA,"mission","St. Augustine's Church","Sing Sing","NY","10/6/1889","10/13/1889",1493,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,500,NA,"Sing Sing NY",1889,0,-76.8910257,42.1719586
+4,62,NA,"mission","St. Bernard's Church","Rockville","CT","10/20/1889","11/3/1889",2004,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rockville CT",1889,1,-72.4495287,41.8667645
+4,64,NA,"mission","St. John's Church","Concord","MA","9/29/1889","10/7/1889",1665,0,1,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,216,"Concord MA",1889,1,-71.3489484,42.4603719
+4,66,NA,"mission","St. James's Church","Boston","MA","10/13/1889","11/10/1889",8200,0,0,"",NA,NA,3550,4650,"Paulist","",NA,NA,2200,150,"Boston MA",1889,0,-71.0597732,42.3584308
+4,69,NA,"mission","Church of the Assumption","Evansville","IN","10/13/1889","10/21/1889",700,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Evansville IN",1889,0,-87.5710898,37.9715592
+4,73,NA,"mission","Church of St. Lawrence","Muncie","IN","10/27/1889","11/3/1889",2125,3,3,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Muncie IN",1889,6,-85.3863599,40.1933767
+4,77,NA,"mission","St. Paul's Church","Noblesville","IN","11/10/1889","11/17/1889",83,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Noblesville IN",1889,0,-86.0085955,40.0455917
+4,81,NA,"mission","St. Mary's Church","Anderson","IN","11/17/1889","11/22/1889",525,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,120,NA,"Anderson IN",1889,6,-85.6802541,40.1053196
+4,83,NA,"mission","","North Warren","MA","11/17/1889","11/25/1889",1450,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"North Warren MA",1889,0,-72.191185,42.2125423
+4,85,NA,"mission","St. Mary's Church","Charlestown","MA","11/17/1889","12/1/1889",4466,0,0,"",NA,675,1680,2100,"Paulist","",NA,NA,1600,70,"Charlestown MA",1889,0,-71.0602131,42.3782065
+4,87,NA,"mission","St. Patrick's Church","Washington","DC","12/1/1889","12/10/1889",1250,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Washington DC",1889,5,-77.0364641,38.9072309
+4,90,NA,"mission","St. Agnes's Church","Pittsburgh","PA","1/1/1890","1/19/1890",2720,3,0,"",NA,450,1070,1200,"Paulist","",NA,NA,NA,NA,"Pittsburgh PA",1890,3,-79.9958864,40.4406248
+4,93,NA,"mission","","Rye","NY","11/10/1889","11/17/1889",450,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rye NY",1889,0,-73.6837399,40.9806535
+4,94,NA,"mission","Church of the Transfiguration","Brooklyn","NY","12/8/1889","12/22/1889",2972,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1889,0,-73.95,40.65
+4,96,NA,"mission","Church of St. Rose of Lima","New York","NY","1/5/1890","1/19/1890",4192,5,0,"",NA,450,1840,1902,"Paulist","",NA,NA,1450,NA,"New York NY",1890,5,-74.0059731,40.7143528
+4,98,NA,"mission","St. Mary's Church","Genesee","NY","1/26/1890","2/2/1890",535,0,3,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Genesee NY",1890,3,-78.1564432,42.9837843
+4,99,NA,"mission","St. Patrick's Church","Augusta","GA","1/12/1890","1/26/1890",1235,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Augusta GA",1890,1,-82.0105148,33.4734978
+4,102,NA,"mission","","Washington","GA","1/26/1890","1/26/1890",150,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Washington GA",1890,0,-82.7393089,33.7367948
+4,103,NA,"mission","St. Joseph's Church","Springfield","IL","1/26/1890","2/2/1890",930,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Springfield IL",1890,3,-89.6501481,39.7817213
+4,105,NA,"mission","Church of the Immaculate Conception","Springfield","IL","2/2/1890","2/11/1890",2900,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Springfield IL",1890,2,-89.6501481,39.7817213
+4,108,NA,"mission","Cathedral of Our Lady of Perpetual Help","Savannah","GA","2/2/1890","2/16/1890",2343,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Savannah GA",1890,3,-81.0998342,32.0835407
+4,110,NA,"mission","St. Gabriel's Church","New York","NY","2/9/1890","3/9/1890",9520,11,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,3260,234,"New York NY",1890,11,-74.0059731,40.7143528
+4,112,NA,"mission","St. Michael's Church","Pensacola","FL","2/23/1890","3/4/1890",770,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Pensacola FL",1890,0,-87.2169149,30.421309
+4,114,NA,"mission","Cathedral","Mobile","AL","3/9/1890","3/17/1890",1230,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Mobile AL",1890,0,-88.0430541,30.6943566
+4,115,NA,"mission","St. John's Church","Canton","MA","3/16/1890","3/30/1890",1875,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Canton MA",1890,0,-71.1447732,42.1584324
+4,117,NA,"mission","St. Cecilia's Church","New York","NY","3/16/1890","3/30/1890",6420,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1890,5,-74.0059731,40.7143528
+4,118,NA,"mission","","Birmingham","AL","3/23/1890","3/30/1890",870,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Birmingham AL",1890,0,-86.80249,33.5206608
+4,119,NA,"mission","St. Patrick's Church","Brooklyn","NY","4/13/1890","4/28/1890",5613,0,0,"",NA,230,2450,2933,"Paulist","",NA,NA,550,NA,"Brooklyn NY",1890,0,-73.95,40.65
+4,121,NA,"mission","St. John's Church","Schenectady","NY","4/13/1890","4/27/1890",2337,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Schenectady NY",1890,0,-73.9395687,42.8142432
+4,122,NA,"mission","St. Michael's Church","Springfield","MA","5/4/1890","5/18/1890",5151,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,193,"Springfield MA",1890,5,-72.589811,42.1014831
+4,123,NA,"mission","St. John's Church","Pittsburgh","PA","5/4/1890","5/18/1890",1900,0,0,"",NA,250,850,800,"Paulist","",NA,NA,NA,NA,"Pittsburgh PA",1890,0,-79.9958864,40.4406248
+4,126,NA,"mission","St. Vincent de Paul's Church","Mt. Vernon","OH","5/25/1890","6/1/1890",630,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Mt. Vernon OH",1890,1,-82.4857181,40.3933956
+4,127,NA,"mission","St. Jarlath's Church","Chicago","IL","5/25/1890","6/1/1890",1413,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chicago IL",1890,1,-87.6297982,41.8781136
+4,128,NA,"mission","Church of the Blessed Sacrament","Providence","RI","5/25/1890","6/1/1890",1300,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Providence RI",1890,0,-71.4128343,41.8239891
+4,129,NA,"mission","","Livingston","NJ","6/1/1890","6/11/1890",30,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Livingston NJ",1890,0,-74.3300842,40.7862871
+4,130,NA,"mission","Church of St. Vincent de Paul","Sterling","NJ","6/11/1890","6/15/1890",49,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sterling NJ",1890,0,-74.4945385,40.6713311
+4,130,NA,"mission","St. Patrick's Church","Chatham","NJ","6/15/1890","6/18/1890",152,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chatham NJ",1890,0,-74.3837624,40.740934
+4,133,NA,"mission","St. Anne's Church","Manchester","NH","9/14/1890","9/28/1890",3559,0,0,"",NA,271,1235,2053,"Paulist","",NA,NA,1600,NA,"Manchester NH",1890,0,-71.4547891,42.9956397
+4,135,NA,"mission","","Ridgway","PA","9/14/1890","9/30/1890",505,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ridgway PA",1890,0,-78.7286388,41.4203391
+4,135,NA,"mission","","Emporium","PA","9/14/1890","9/30/1890",410,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Emporium PA",1890,0,-78.2352872,41.5114521
+4,135,NA,"mission","","Cameron","PA","9/14/1890","9/30/1890",45,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Cameron PA",1890,0,-78.1564432,41.4261564
+4,136,NA,"mission","","Torrington","CT","9/21/1890","9/28/1890",1136,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Torrington CT",1890,2,-73.1211715,41.8003049
+4,137,NA,"mission","Ss. Peter and Paul's Cathedral","Philadelphia","PA","10/5/1890","10/19/1890",9800,25,0,"",NA,1400,3750,4650,"Paulist","",NA,NA,1346,175,"Philadelphia PA",1890,25,-75.163789,39.952335
+4,139,NA,"mission","Church of the Annunciation","Danvers","MA","10/26/1890","11/9/1890",1418,0,0,"",NA,NA,796,622,"Paulist","",NA,NA,NA,NA,"Danvers MA",1890,0,-70.932122,42.5750009
+4,140,NA,"mission","Church of the Sacred Heart","New Haven","CT","10/26/1890","11/9/1890",3540,2,0,"",NA,340,1400,1800,"Paulist","",NA,NA,NA,NA,"New Haven CT",1890,2,-72.9278835,41.308274
+4,141,NA,"mission","St. Joseph's Church","Terre Haute","IN","11/2/1890","11/9/1890",1250,9,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Terre Haute IN",1890,9,-87.4139092,39.4667034
+4,142,NA,"mission","","Rockville","IN","11/10/1890","11/13/1890",80,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rockville IN",1890,0,-87.2291809,39.7625404
+4,143,NA,"retreat","","South Bend","IN","10/1/1890","11/30/1890",600,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"South Bend IN",1890,0,-86.2519898,41.6763545
+4,144,NA,"mission","St. James's Church","Chicago","IL","11/16/1890","11/30/1890",4780,4,0,"",NA,NA,1800,2980,"Paulist","",NA,NA,NA,NA,"Chicago IL",1890,4,-87.6297982,41.8781136
+4,146,NA,"mission","St. Mary's Star of the Sea","East Boston","MA","11/16/1890","11/30/1890",1440,1,0,"",NA,270,530,640,"Paulist","",NA,NA,NA,NA,"East Boston MA",1890,1,-71.0388601,42.3702137
+4,148,NA,"mission","","Portland","CT","11/16/1890","11/27/1890",1023,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Portland CT",1890,0,-72.6408139,41.5726229
+4,148,NA,"mission","","East Hampton","CT","11/16/1890","11/27/1890",228,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"East Hampton CT",1890,0,-72.5026249,41.5757748
+4,149,NA,"mission","Church of the Annunciation","Manhattanville","NY","12/7/1890","12/21/1890",1720,0,0,"",NA,220,750,750,"Paulist","",NA,NA,NA,NA,"Manhattanville NY",1890,0,-73.9558333,40.8169443
+4,150,NA,"mission","St. James's Church","Boston","MA","12/14/1890","12/21/1890",2500,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Boston MA",1890,0,-71.0597732,42.3584308
+4,151,NA,"mission","St. Mary's Cathedral","Ogdensburg","NY","12/7/1890","12/21/1890",2495,14,0,"",NA,180,1075,1240,"Paulist","",NA,NA,NA,NA,"Ogdensburg NY",1890,14,-75.4863364,44.6942291
+4,153,NA,"mission","Church of Our Lady of Victory","Brooklyn","NY","1/4/1891","1/18/1891",2495,6,0,"",NA,250,760,1485,"Paulist","",NA,NA,1000,NA,"Brooklyn NY",1891,6,-73.95,40.65
+4,154,NA,"mission","Church of St. Paul the Apostle","New York","NY","1/4/1891","2/1/1891",11650,7,0,"",NA,650,4550,6450,"Paulist","",NA,NA,NA,NA,"New York NY",1891,7,-74.0059731,40.7143528
+4,156,NA,"mission","Church of the Sacred Heart","Brooklyn","NY","1/25/1891","2/1/1891",5088,8,0,"",NA,NA,2560,2528,"Paulist","",NA,NA,1900,NA,"Brooklyn NY",1891,8,-73.95,40.65
+4,157,NA,"mission","St. Augustine's Church","Union Hill","NJ","2/1/1891","2/8/1891",801,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Union Hill NJ",1891,0,-74.5201566,40.8559326
+4,158,NA,"mission","Church of St. Francis de Sales","Geneva","NY","2/15/1891","3/1/1891",2470,2,0,"",NA,325,1025,1120,"Paulist","",NA,NA,NA,NA,"Geneva NY",1891,2,-76.9777436,42.8689552
+4,160,NA,"mission","St. Matthew's Church","Washington","DC","2/15/1891","2/23/1891",1300,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Washington DC",1891,0,-77.0364641,38.9072309
+4,161,NA,"mission","St. Stephen's Church","Pittsburgh","PA","2/15/1891","3/1/1891",1582,0,0,"",NA,200,732,650,"Paulist","",NA,NA,585,NA,"Pittsburgh PA",1891,0,-79.9958864,40.4406248
+4,162,NA,"mission","Church of St. Columbkille","Brighton","MA","2/15/1891","3/1/1891",3300,0,0,"",NA,480,1395,1425,"Paulist","",NA,NA,NA,NA,"Brighton MA",1891,0,-71.1626756,42.3463503
+4,163,NA,"mission","St. Patrick's Church","Valley Falls","RI","3/8/1891","3/22/1891",2905,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Valley Falls RI",1891,1,-71.3906119,41.9067663
+4,164,NA,"mission","St. Veronica's Church","New York","NY","3/8/1891","3/22/1891",3650,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,350,"New York NY",1891,4,-74.0059731,40.7143528
+4,165,NA,"mission","Sacred Heart Church","Pittsburgh","PA","3/8/1891","3/22/1891",2453,2,0,"",NA,340,871,1242,"Paulist","",NA,NA,260,NA,"Pittsburgh PA",1891,2,-79.9958864,40.4406248
+4,166,NA,"mission","Sacred Heart Church","Worcester","MA","4/5/1891","4/19/1891",2573,0,0,"",NA,NA,1200,1375,"Paulist","",NA,NA,NA,600,"Worcester MA",1891,0,-71.8022934,42.2625932
+4,167,NA,"mission","St. Anne's Church","Baltimore","MD","4/5/1891","4/12/1891",1300,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Baltimore MD",1891,4,-76.6121893,39.2903848
+4,169,NA,"mission","St. Louis' Church","Webster","MA","4/5/1891","4/19/1891",1665,0,0,"",NA,NA,790,875,"Paulist","",NA,NA,NA,99,"Webster MA",1891,0,-71.8800628,42.050091
+4,170,NA,"mission","Church of the Sacred Heart","Mt. Vernon","NY","4/12/1891","4/21/1891",1050,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Mt. Vernon NY",1891,0,-73.8370786,40.9125992
+4,172,NA,"mission","Immaculate Conception Church","Birmingham","CT","4/26/1891","5/10/1891",2801,0,0,"",NA,NA,1201,1610,"Paulist","",NA,NA,900,NA,"Birmingham CT",1891,0,-83.2113192,42.5467012
+4,173,NA,"mission","St. Charles' Church","Adams","MA","4/26/1891","5/10/1891",1622,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Adams MA",1891,2,-73.1174344,42.6242251
+4,174,NA,"mission","Holy Cross Church","Lynchburg","VA","4/26/1891","5/5/1891",700,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lynchburg VA",1891,1,-79.1422464,37.4137536
+4,175,NA,"mission","St. Cecilia's Church","Coatesville","PA","5/10/1891","5/17/1891",625,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Coatesville PA",1891,0,-75.8238355,39.9831616
+4,176,NA,"renewal","St. Michael's Cathedral","Springfield","MA","5/10/1891","5/17/1891",1400,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Springfield MA",1891,0,-72.589811,42.1014831
+4,177,NA,"mission","St. Leo's Church","Leominster","MA","5/17/1891","5/24/1891",1260,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Leominster MA",1891,0,-71.759794,42.5250906
+4,178,NA,"renewal","St. John's Church","Canton","MA","5/17/1891","5/24/1891",1400,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,500,NA,"Canton MA",1891,0,-71.1447732,42.1584324
+4,179,NA,"mission","St. Thomas's Church","West Farms","NY","5/17/1891","5/24/1891",493,0,0,"",390,103,NA,NA,"Paulist","",NA,NA,NA,NA,"West Farms NY",1891,0,-73.8816001,40.8430609
+4,180,NA,"mission","Sacred Heart Church","Valesburg","NJ","5/31/1891","6/7/1891",265,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Valesburg NJ",1891,1,-74.2179355,40.7400351
+4,181,NA,"retreat","Church of the Assumption","Ansonia","CT","8/16/1891","8/20/1891",400,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ansonia CT",1891,0,-73.0789969,41.3462078
+4,185,NA,"mission","St. Michael's Church","Westerly","CT","9/6/1891","9/13/1891",980,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,450,NA,"Westerly CT",1891,0,-71.8272871,41.3775987
+4,186,NA,"mission","Holy Cross Church","Ovid","NY","9/6/1891","9/16/1891",993,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Ovid NY",1891,0,-76.8230111,42.6764593
+4,187,NA,"mission","","Lyons","NY","9/6/1891","9/20/1891",795,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Lyons NY",1891,3,-76.9902456,43.0642305
+4,189,NA,"mission","","Sodus Point","NY","9/21/1891","9/24/1891",NA,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sodus Point NY",1891,0,-76.9891355,43.2717322
+4,191,NA,"mission","St. Catherine's Church","Norwood","MA","9/13/1891","9/20/1891",1110,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Norwood MA",1891,0,-71.1989695,42.1943909
+4,192,NA,"mission","","Bayonne","NJ","9/6/1891","9/13/1891",640,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Bayonne NJ",1891,0,-74.1143091,40.6687141
+4,193,NA,"mission","","Greenfield","MA","9/6/1891","9/13/1891",962,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Greenfield MA",1891,0,-72.5994104,42.587915
+4,194,NA,"mission","","South Deerfield","MA","9/13/1891","9/17/1891",300,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"South Deerfield MA",1891,0,-72.6078667,42.4773097
+4,195,NA,"mission","","Dover","NH","9/20/1891","10/4/1891",2705,0,0,"",NA,NA,1095,1610,"Paulist","",NA,NA,1275,NA,"Dover NH",1891,0,-70.8736698,43.1978624
+4,197,NA,"mission","St. Mary's Church","Biddeford","ME","9/27/1891","10/11/1891",1821,0,0,"",NA,211,707,903,"Paulist","",NA,NA,NA,NA,"Biddeford ME",1891,0,-70.4533844,43.4925843
+4,198,NA,"mission","Holy Family Church","Auburn","NY","9/27/1891","10/11/1891",3480,5,0,"",NA,NA,1800,1680,"Paulist","",NA,NA,NA,NA,"Auburn NY",1891,5,-76.5660529,42.9317335
+4,200,NA,"mission","St. Mary's Church","Cambridgeport","MA","10/11/1891","10/25/1891",5165,0,0,"",NA,NA,2440,2725,"Paulist","",NA,NA,3200,300,"Cambridgeport MA",1891,0,-71.1077157,42.3595761
+4,203,NA,"mission","St. Patrick's Church","Denver","CO","10/18/1891","10/25/1891",755,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,136,40,"Denver CO",1891,0,-104.9847179,39.737567
+4,205,NA,"mission","St. Matthew's Church","Brooklyn","NY","10/18/1891","11/1/1891",1500,0,0,"",NA,120,730,650,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1891,0,-73.95,40.65
+4,207,NA,"mission","St. Joseph's Church","Denver","CO","11/1/1891","11/8/1891",750,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,200,NA,"Denver CO",1891,3,-104.9847179,39.737567
+4,209,NA,"mission","St. Peter Claver's Church","Baltimore","MD","11/1/1891","11/8/1891",270,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Baltimore MD",1891,0,-76.6121893,39.2903848
+4,210,NA,"mission","Corpus Christi Church","Baltimore","MD","11/8/1891","11/22/1891",1400,0,0,"",NA,90,410,800,"Paulist","",NA,NA,NA,NA,"Baltimore MD",1891,0,-76.6121893,39.2903848
+4,211,NA,"mission","Immaculate Conception Church","Marlboro","MA","11/8/1891","11/22/1891",3770,3,0,"",NA,NA,1580,2190,"Paulist","",NA,NA,2100,NA,"Marlboro MA",1891,3,-71.5522874,42.3459271
+4,212,NA,"mission","St. Francis's Cathedral","Vincennes","IN","11/15/1891","11/24/1891",1018,7,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,200,NA,"Vincennes IN",1891,7,-87.5286325,38.677269
+4,213,NA,"mission","St. Colman's Church","Turtle Creek","PA","11/29/1891","12/6/1891",640,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Turtle Creek PA",1891,3,-79.8250479,40.4059022
+4,214,NA,"mission","St. Cecilia's Church","Boston","MA","11/22/1891","11/29/1891",2600,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Boston MA",1891,0,-71.0597732,42.3584308
+4,215,NA,"mission","St. Bridget's Church","Indianapolis","IN","11/29/1891","12/9/1891",1300,9,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Indianapolis IN",1891,9,-86.158068,39.768403
+4,216,NA,"mission","St. Thomas's Church","Brooklyn","NY","12/6/1891","12/20/1891",3375,11,0,"",NA,NA,1370,2005,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1891,11,-73.95,40.65
+4,218,NA,"mission","St. Patrick's Church","Cleveland","OH","12/6/1891","12/20/1891",3550,0,0,"",NA,200,1440,1910,"Paulist","",NA,NA,NA,NA,"Cleveland OH",1891,0,-81.6954088,41.4994954
+4,220,NA,"mission","St. Stephen's Church","New York","NY","1/3/1892","1/26/1892",6500,6,0,"",NA,450,2000,4050,"Paulist","",NA,NA,1240,NA,"New York NY",1892,6,-74.0059731,40.7143528
+4,223,NA,"mission","St. Jerome's Church","Mott Haven","NY","1/17/1892","1/31/1892",3980,3,0,"",NA,610,1592,1778,"Paulist","",NA,NA,NA,NA,"Mott Haven NY",1892,3,-73.9228881,40.8091068
+4,225,NA,"mission","St. Francis de Sales' Church","Brooklyn","NY","1/31/1892","2/14/1892",2055,0,0,"",NA,NA,980,1075,"Paulist","",NA,NA,675,NA,"Brooklyn NY",1892,0,-73.95,40.65
+4,227,NA,"mission","St. John the Evangelist's Church","Brooklyn","NY","2/7/1892","2/21/1892",4925,0,0,"",NA,NA,2240,2685,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1892,0,-73.95,40.65
+4,229,NA,"mission","St. Jerome's Church","Baltimore","MD","2/14/1892","2/23/1892",960,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,120,"Baltimore MD",1892,5,-76.6121893,39.2903848
+4,231,NA,"mission","St. Aloysius's Church","Detroit","MI","2/7/1892","2/15/1892",1100,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Detroit MI",1892,3,-83.0457538,42.331427
+4,232,NA,"mission","St. Patrick's Church","Ottawa","Canada","3/6/1892","3/20/1892",2516,0,0,"",NA,280,886,1350,"Paulist","",NA,NA,1322,140,"Ottawa Canada",1892,0,-75.6971931,45.4215296
+4,234,NA,"mission","St. John's Church","Worcester","MA","3/6/1892","3/20/1892",7200,6,0,"",NA,3520,3680,NA,"Paulist","",NA,NA,NA,NA,"Worcester MA",1892,6,-71.8022934,42.2625932
+4,236,NA,"mission","St. Rose's Church","Meriden","CT","3/27/1892","4/10/1892",4650,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Meriden CT",1892,6,-72.8070435,41.5381535
+4,238,NA,"mission","St. Patrick's Church","Montreal","Canada","3/20/1892","4/17/1892",8728,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,4729,NA,"Montreal Canada",1892,0,-73.5539925,45.5086699
+4,243,NA,"mission","Our Lady of Loretto's Church","Hempstead","NY","4/24/1892","5/1/1892",410,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hempstead NY",1892,2,-73.6187397,40.7062128
+4,244,NA,"mission","St. Rose of Lima's Church","Parkville","NY","4/24/1892","5/1/1892",370,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Parkville NY",1892,0,-74.7596049,41.8553669
+4,245,NA,"mission","St. Francis de Sales' Church","Utica","NY","4/24/1892","5/2/1892",1430,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Utica NY",1892,4,-75.232664,43.100903
+4,246,NA,"mission","Church of the Assumption","Ansonia","CT","4/24/1892","5/8/1892",3250,0,0,"",NA,NA,1740,1510,"Paulist","",NA,NA,1300,NA,"Ansonia CT",1892,0,-73.0789969,41.3462078
+4,248,NA,"mission","Church of the Immaculate Conception","Tuckahoe","NY","5/8/1892","5/17/1892",830,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Tuckahoe NY",1892,0,-73.827356,40.9503764
+4,249,NA,"mission","St. Augustine's Church","Bridgeport","CT","5/15/1892","5/29/1892",3450,0,0,"",NA,NA,1710,1740,"Paulist","",NA,NA,NA,NA,"Bridgeport CT",1892,0,-73.1951767,41.1865478
+4,250,NA,"mission","St. Bridget's Church","West Troy","NY","5/8/1892","5/22/1892",2110,0,0,"",NA,NA,980,1130,"Paulist","",NA,NA,NA,NA,"West Troy NY",1892,0,-73.6917851,42.7284117
+4,252,NA,"mission","St. Jerome's Church","Hyattsville","MD","5/22/1892","5/29/1892",155,1,2,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hyattsville MD",1892,3,-76.9455301,38.9559442
+4,253,NA,"mission","Church of the Annunciation","Florence","MA","6/5/1892","6/12/1892",1075,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Florence MA",1892,1,-72.6716667,42.3355556
+4,254,NA,"mission","","Canal Fulton","OH","6/5/1892","6/12/1892",400,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Canal Fulton OH",1892,1,-81.597623,40.8897784
+4,255,NA,"mission","St. Mary's Church","Canandaigua","NY","5/29/1892","6/12/1892",1580,4,0,"",NA,NA,740,840,"Paulist","",NA,NA,NA,136,"Canandaigua NY",1892,4,-77.2816984,42.887535
+4,257,NA,"mission","Church of the Immaculate Conception","Newburyport","MA","5/22/1892","6/5/1892",2740,0,0,"",NA,240,1050,1450,"Paulist","",NA,NA,NA,NA,"Newburyport MA",1892,0,-70.8772751,42.8125913
+4,259,NA,"retreat","St. Bridget's Church","Indianapolis","IN","6/9/1892","6/12/1892",750,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Indianapolis IN",1892,0,-86.158068,39.768403
+4,263,NA,"mission","Star of the Sea Church","Long Branch","NJ","9/11/1892","9/18/1892",600,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Long Branch NJ",1892,1,-73.9923596,40.3042778
+4,264,NA,"mission","St. Agnes's Church","Paterson","NJ","9/11/1892","9/25/1892",2200,12,0,"",NA,400,800,1000,"Paulist","",NA,NA,840,89,"Paterson NJ",1892,12,-74.171811,40.9167654
+4,265,NA,"mission","Holy Trinity Church","Wallingford","CT","9/11/1892","9/25/1892",1450,0,0,"",NA,75,675,700,"Paulist","",NA,NA,600,NA,"Wallingford CT",1892,0,-72.8230736,41.4570108
+4,266,NA,"mission","St. Columba's Church","Newark","NJ","9/11/1892","9/25/1892",1575,0,0,"",NA,65,610,900,"Paulist","",NA,NA,NA,NA,"Newark NJ",1892,0,-74.1723667,40.735657
+4,267,NA,"mission","Church of Our Lady","Sand Beach","MI","9/25/1892","9/29/1892",140,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sand Beach MI",1892,0,-82.669947,43.8040404
+4,268,NA,"mission","St. Joseph's Church","Argyle","MI","9/25/1892","9/31/1892",224,14,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Argyle MI",1892,14,-82.9359965,43.564207
+4,269,NA,"mission","Immaculate Conception Church","Monmouth","IL","10/2/1892","10/9/1892",485,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,100,NA,"Monmouth IL",1892,0,-90.6473576,40.9114271
+4,270,NA,"mission","","Raritan","IL","10/9/1892","10/12/1892",130,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,68,NA,"Raritan IL",1892,0,-90.8273591,40.6958732
+4,270,NA,"mission","","Alexis","IL","10/9/1892","10/13/1892",200,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,112,NA,"Alexis IL",1892,0,-90.5559675,41.0633703
+4,271,NA,"mission","St. Augustine's Church","Kalamazoo","MI","10/2/1892","10/16/1892",1600,0,0,"",NA,350,550,700,"Paulist","",NA,NA,NA,NA,"Kalamazoo MI",1892,0,-85.5872286,42.2917069
+4,273,NA,"mission","","Highland Falls","NY","10/2/1892","10/16/1892",350,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Highland Falls NY",1892,0,-73.9662504,41.3692605
+4,273,NA,"mission","","West Point","NY","10/2/1892","10/16/1892",520,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"West Point NY",1892,0,-73.9559721,41.3914827
+4,274,NA,"mission","St. Ann's Church","Neponset","MA","10/2/1892","10/16/1892",1610,1,0,"",NA,NA,760,850,"Paulist","",NA,NA,NA,NA,"Neponset MA",1892,1,-71.1344539,42.2237683
+4,275,NA,"mission","St. Mark's Church","Peoria","IL","10/16/1892","10/23/1892",317,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,115,NA,"Peoria IL",1892,0,-89.5889864,40.6936488
+4,276,NA,"mission","Church of the Immaculate Conception","Spring Valley","IL","10/23/1892","10/30/1892",950,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Spring Valley IL",1892,0,-89.1998076,41.3275352
+4,277,NA,"mission","Church of the Nativity","Brooklyn","NY","10/16/1892","10/30/1892",2530,1,0,"",NA,NA,1050,1480,"Paulist","",NA,NA,NA,NA,"Brooklyn NY",1892,1,-73.95,40.65
+4,279,NA,"mission","St. Mary's Church","Utica","IL","10/30/1892","11/6/1892",507,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Utica IL",1892,0,-89.0097155,41.3414125
+4,280,NA,"mission","Ss. Peter and Paul's Cathedral","Detroit","MI","10/23/1892","11/6/1892",2050,0,0,"",NA,100,600,1350,"Paulist","",NA,NA,NA,NA,"Detroit MI",1892,0,-83.0457538,42.331427
+4,281,NA,"mission","St. Mary's Church","Bethel","CT","10/30/1892","11/6/1892",700,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Bethel CT",1892,0,-73.4139621,41.3712283
+4,282,NA,"mission","St. Simon's Church","Washington","IN","11/13/1892","11/20/1892",1300,9,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Washington IN",1892,9,-87.172789,38.6592152
+4,283,NA,"mission","St. Joseph's Church","Roxbury","MA","11/13/1892","11/27/1892",2650,0,0,"",NA,400,900,1350,"Paulist","",NA,NA,NA,NA,"Roxbury MA",1892,0,-71.0913748,42.3151978
+4,283,NA,"mission","Chapel","Roxbury","MA","11/13/1892","11/20/1892",1150,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Roxbury MA",1892,0,-71.0913748,42.3151978
+4,285,NA,"mission","St. Ann's Church","Chicago","IL","11/23/1892","11/27/1892",2250,0,0,"",NA,150,800,1300,"Paulist","",NA,NA,NA,NA,"Chicago IL",1892,0,-87.6297982,41.8781136
+4,286,NA,"mission","Sacred Heart Church","Bloomfield","NJ","11/27/1892","12/4/1892",1007,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,400,NA,"Bloomfield NJ",1892,2,-74.1854209,40.8067546
+4,287,NA,"mission","St. Cecilia's Church","Boston","MA","12/4/1892","12/11/1892",2580,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Boston MA",1892,0,-71.0597732,42.3584308
+4,288,NA,"mission","St. Stephen's Church","Brooklyn","NY","12/4/1892","12/18/1892",3880,0,0,"",NA,200,1530,2150,"Paulist","",NA,NA,600,NA,"Brooklyn NY",1892,0,-73.95,40.65
+4,289,NA,"mission","Church of the Immaculate Conception","East Weymouth","MA","1/1/1893","1/11/1893",1300,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"East Weymouth MA",1893,3,-70.9294163,42.2125125
+4,290,NA,"mission","St. Mary's Church","Dedham","MA","1/1/1893","1/11/1893",1600,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,1000,NA,"Dedham MA",1893,0,-71.166143,42.2411916
+4,292,NA,"mission","Church of the Immaculate Conception","Cleveland","OH","1/1/1893","1/13/1893",2950,5,0,"",NA,NA,1450,1500,"Paulist","",NA,NA,NA,NA,"Cleveland OH",1893,5,-81.6954088,41.4994954
+4,293,NA,"mission","","Port Ewen","NY","1/22/1893","1/29/1893",284,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Port Ewen NY",1893,0,-73.976249,41.9053703
+4,294,NA,"mission","St. Mary's Church","New Britain","CT","1/15/1893","1/29/1893",5285,4,0,"",NA,625,2245,2415,"Paulist","",NA,NA,2430,NA,"New Britain CT",1893,4,-72.7795419,41.6612104
+4,296,NA,"mission","St. Mary's Church","Roudout","NY","1/29/1893","2/12/1893",3000,5,0,"",NA,400,1200,1400,"Paulist","",NA,NA,NA,500,"Roudout NY",1893,5,-73.9851381,41.920648
+4,297,NA,"mission","St. Cecilia's Church","New York","NY","2/12/1893","3/12/1893",7550,20,0,"",NA,550,3200,3800,"Paulist","",NA,NA,600,NA,"New York NY",1893,20,-74.0059731,40.7143528
+4,299,NA,"mission","St. Gabriel's Church","New York","NY","2/19/1893","3/19/1893",8637,0,0,"",NA,1200,2800,4577,"Paulist","",NA,NA,2593,NA,"New York NY",1893,0,-74.0059731,40.7143528
+4,300,NA,"mission","St. John's Cathedral","Cleveland","OH","3/19/1893","4/2/1893",3750,0,0,"",NA,600,2120,3030,"Paulist","",NA,NA,NA,NA,"Cleveland OH",1893,0,-81.6954088,41.4994954
+4,302,NA,"mission","Church of the Visitation","Philadelphia","PA","3/19/1893","4/2/1893",4800,12,0,"",NA,600,1900,2300,"Paulist","",NA,NA,NA,NA,"Philadelphia PA",1893,12,-75.163789,39.952335
+4,303,NA,"mission","Church of the Assumption","Morristown","NJ","4/9/1893","4/23/1893",2087,3,0,"",NA,287,750,1050,"Paulist","",NA,NA,450,NA,"Morristown NJ",1893,3,-74.4815438,40.7967667
+4,305,NA,"mission","St. John's Church","Bellefonte","PA","4/9/1893","4/16/1893",760,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,363,NA,"Bellefonte PA",1893,4,-77.7783348,40.9133943
+4,307,NA,"mission","","Meadville","PA","4/9/1893","4/17/1893",900,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Meadville PA",1893,1,-80.1514484,41.6414438
+4,308,NA,"mission","","Sayre","PA","4/9/1893","4/16/1893",700,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Sayre PA",1893,3,-76.515499,41.9789631
+4,309,NA,"mission","St. Patrick's Church","Norwich","CT","4/23/1893","5/7/1893",4060,3,0,"",NA,425,1525,2110,"Paulist","",NA,NA,NA,NA,"Norwich CT",1893,3,-72.0759105,41.5242649
+4,311,NA,"mission","St. Malachy's Church","Chicago","IL","4/23/1893","5/7/1893",2250,4,0,"",NA,250,800,1200,"Paulist","",NA,NA,NA,NA,"Chicago IL",1893,4,-87.6297982,41.8781136
+4,312,NA,"retreat","St. Matthew's Church","Washington","DC","4/23/1893","4/23/1893",600,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Washington DC",1893,0,-77.0364641,38.9072309
+4,313,NA,"mission","Immaculate Conception Church","Portsmouth","NH","4/30/1893","5/7/1893",1350,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,45,NA,"Portsmouth NH",1893,0,-70.7625532,43.0717552
+4,314,NA,"mission","St. Thomas's Church","Woodberry, Baltimore","MD","5/15/1893","5/21/1893",670,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Woodberry, Baltimore Maryland",1893,0,-76.6513787,39.3368301
+4,315,NA,"mission","Manhattan College","New York","NY","3/26/1893","3/29/1893",200,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1893,0,-74.0059731,40.7143528
+4,315,NA,"mission","Classon-on-the-Sound","New York","NY","5/8/1893","5/12/1893",120,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1893,0,-74.0059731,40.7143528
+4,316,NA,"mission","St. Patrick's Church","Whitinsville","MA","5/14/1893","5/24/1893",910,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,380,NA,"Whitinsville MA",1893,0,-71.6661783,42.1112075
+4,318,NA,"mission","St. Rose's Church","West Brighton, Staten Island","NY","5/7/1893","5/28/1893",1685,5,0,"",NA,250,610,825,"Paulist","",NA,NA,NA,NA,"West Brighton, Staten Island NY",1893,5,-74.1093141,40.6270298
+4,320,NA,"mission","","North Weymouth","MA","5/24/1893","5/28/1893",240,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"North Weymouth MA",1893,0,-70.9467133,42.2459331
+4,321,NA,"mission","","Broad Brook","CT","5/14/1893","5/21/1893",312,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Broad Brook CT",1893,0,-72.5450873,41.9123195
+4,322,NA,"mission","St. Thomas's Church","Southington","CT","5/14/1893","5/21/1893",840,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Southington CT",1893,0,-72.8776013,41.5964869
+4,323,NA,"mission","St. Rose of Lima's Church","Suffern","NY","5/21/1893","5/28/1893",217,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Suffern NY",1893,1,-74.1495889,41.1148179
+4,323,NA,"mission","","Tuxedo","NY","5/28/1893","6/4/1893",146,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Tuxedo NY",1893,2,-74.1944529,41.2376671
