@@ -272,7 +272,7 @@
 2,191,NA,"mission","St. Aloysius Church","Detroit","MI","11/18/1877","12/4/1877",2000,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Detroit MI",1877,0,-83.0457538,42.331427
 2,193,NA,"mission","St. John's Church","Indianapolis","IN","12/9/1877","12/22/1877",3790,4,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Indianapolis IN",1877,4,-86.158068,39.768403
 2,196,NA,"mission","Church of Our Lady of Perpetual Help","Defiance","OH","9/30/1877","10/10/1877",450,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Defiance OH",1877,1,-84.3557802,41.2844933
-2,197,NA,"mission","St Stephen's Church","Flora","IL","10/14/1877","10/21/1887",150,4,0,"Alton",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Flora IL",1877,4,-88.4856042,38.6689364
+2,197,NA,"mission","St Stephen's Church","Flora","IL","10/14/1877","10/21/1877",150,4,0,"Alton",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Flora IL",1877,4,-88.4856042,38.6689364
 2,198,NA,"mission","Church of St. Charles Borromeo","Charleston","IL","10/28/1877","11/4/1877",160,0,0,"Alton",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Charleston IL",1877,0,-88.1761521,39.4961458
 2,199,NA,"mission","Church Regina Coeli","Marshall","IL","11/4/1877","11/13/1877",340,7,0,"Alton",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Marshall IL",1877,7,-87.6936384,39.3914252
 2,200,NA,"mission","Church of St. Mary","Paris","IL","11/18/1877","11/25/1877",462,2,0,"Alton",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Paris IL",1877,2,-87.6961374,39.611146
@@ -327,7 +327,7 @@
 2,366,NA,"mission","","Winchester","VA","1/11/1880","1/20/1880",160,7,0,"Richmond",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Winchester VA",1880,7,-78.1633341,39.1856597
 2,367,NA,"mission","","Martinsburg","WV","1/25/1880","2/2/1880",582,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Martinsburg WV",1880,0,-77.9638869,39.4562099
 2,368,NA,"mission","St. Mary's Church","Little Falls","NY","1/4/1880","1/14/1880",1780,9,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Little Falls NY",1880,9,-74.8595957,43.0434039
-2,369,NA,"mission","","Marine City","MI","1/25/1880","2/1/1800",1000,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Marine City MI",1880,3,-82.492132,42.7194778
+2,369,NA,"mission","","Marine City","MI","1/25/1880","2/1/1880",1000,3,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Marine City MI",1880,3,-82.492132,42.7194778
 2,369,NA,"mission","","Algonac","MI","1/25/1880","1/27/1880",150,0,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Algonac MI",1880,0,-82.531018,42.6183675
 2,370,NA,"mission","","Northfield","MI","2/8/1880","2/15/1880",523,7,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Northfield MI",1880,7,-83.7433813,42.4003857
 2,371,NA,"mission","","Evansville","IN","2/22/1880","3/2/1880",794,6,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Evansville IN",1880,6,-87.5710898,37.9715592
@@ -335,7 +335,7 @@
 2,374,NA,"mission","St. Rose of Lima's Church, Cannon St","Cannon St.","NY","4/4/1880","4/19/1880",4530,18,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Cannon St. NY",1880,18,-73.9802919,40.7151188
 2,376,NA,"mission","St. Jerome's Church, 137th St. and Alexander Avenue","New York","NY","4/25/1880","5/9/1880",2325,5,0,"New York",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"New York NY",1880,5,-74.0059731,40.7143528
 2,379,NA,"mission","","Chambersburg","PA","9/12/1880","9/18/1880",270,5,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chambersburg PA",1880,5,-77.6611022,39.9375911
-2,381,NA,"mission","Corpus Christi Church","Chambersburg","PA","9/19/1880","9/27/1800",390,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chambersburg PA",1880,2,-77.6611022,39.9375911
+2,381,NA,"mission","Corpus Christi Church","Chambersburg","PA","9/19/1880","9/27/1880",390,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Chambersburg PA",1880,2,-77.6611022,39.9375911
 2,382,NA,"mission","St. Mary's Church","Hagerstown","MD","10/15/1880","10/15/1880",410,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Hagerstown MD",1880,1,-77.7199932,39.6417629
 2,383,NA,"mission","","Carlisle","PA","10/17/1880","10/25/1880",195,2,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Carlisle PA",1880,2,-77.195,40.2025
 2,384,NA,"mission","St. Bridget's Church","Rochester","NY","9/12/1880","9/21/1880",1325,1,0,"",NA,NA,NA,NA,"Paulist","",NA,NA,NA,NA,"Rochester NY",1880,1,-77.6109219,43.16103
