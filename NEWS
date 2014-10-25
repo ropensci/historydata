@@ -16,3 +16,5 @@ historydata 0.1
 * Added early_colleges: Colleges founded in the United States before 1848.
 
 * Added paulist_missions: Missions held by the Paulists Fathers,1851-1893.
+
+* Added judges_people and judges_appointments: Federal judges, 1789--present.
