@@ -1,0 +1,36 @@
+person_1,person_2,relationship
+Henry VII,Elizabeth of York,spouse
+Arthur Tudor,Catharine of Aragon,spouse
+Henry VIII,Catharine of Aragon,spouse
+Henry VIII,Anne Boleyn,spouse
+Henry VIII,Jane Seymour,spouse
+Henry VIII,Anne of Cleves,spouse
+Henry VIII,Katherine Howard,spouse
+Henry VIII,Catherine Parr,spouse
+Margaret Tudor,James IV,spouse
+Mary Tudor,Louis XII,spouse
+Mary Tudor,Charles Duke of Suffok,spouse
+James V,Mary of Guise,spouse
+Mary Queen of Scots,Frances II of France,spouse
+Mary Queen of Scots,Henry Lord Darnley,spouse
+Mary I,Philip II,spouse
+Arthur Tudor,Henry VII,child
+Arthur Tudor,Elizabeth of York,child
+Henry VIII,Henry VII,child
+Henry VIII,Elizabeth of York,child
+Margaret Tudor,Henry VII,child
+Margaret Tudor,Elizabeth of York,child
+Mary Tudor,Henry VII,child
+Mary Tudor,Elizabeth of York,child
+James V,James IV,child
+James V,Margaret Tudor,child
+Mary Queen of Scots,Mary of Guise,child
+Mary Queen of Scots,James V,child
+James VI/I,Mary Queen of Scots,child
+James VI/I,Henry Lord Darnley,child
+Mary I,Catharine of Aragon,child
+Mary I,Henry VIII,child
+Elizabeth I,Anne Boleyn,child
+Elizabeth I,Henry VIII,child
+Edward VI,Jane Seymour,child
+Edward VI,Henry VIII,child
