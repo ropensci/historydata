@@ -1,10 +1,10 @@
 Package: historydata
-Title: Datasets for Historians
+Title: Data Sets for Historians
 Version: 0.1
 Authors@R: c(person("Lincoln", "Mullen",
     role = c("aut", "cre"),
     email = "lincoln@lincolnmullen.com"))
-Description: This package provides sample datasets of interest to historians.
+Description: This package provides sample data sets of interest to historians.
 Depends:
     R (>= 3.0.2)
 Suggests:
