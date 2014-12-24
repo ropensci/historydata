@@ -16,7 +16,7 @@ To install the development version, you will first have to install
 
 To install:
 
-    devtools::install_github("lmullen/historydata")
+    devtools::install_github("ropensci/historydata")
 
 ### Use
 
