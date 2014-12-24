@@ -1,32 +1,33 @@
-## historydata: datasets for historians
+## historydata: Data Sets for Historians
 
-This R package contains datasets of interest to historians. It is
-primarily intended for pedagogic purposes in teaching historians how to
-use R.
+These sample data sets are intended for historians learning R. They
+include population, institutional, religious, military, and
+prosopographical data suitable for mapping, quantitative analysis, and
+network analysis.
+
+### Installation
+
+To install the package from CRAN:
+
+    install.packages("historydata")
+
+To install the development version, you will first have to install
+[devtools][] and then install this package from GitHub.
+
+To install:
+
+    devtools::install_github("lmullen/historydata")
 
 ### Use
 
-You will have to install [devtools](https://github.com/hadley/devtools) 
-to install this package from GitHub.
-
-To install: 
-
-```
-devtools::install_github("lmullen/historydata")
-```
-
 To list all the datasets in the package with their documentation:
 
-```
-library(historydata)
-help(package = historydata)
-```
+    library(historydata)
+    help(package = historydata)
 
 To load a dataset:
 
-```
-data(catholic_dioceses)
-```
+    data(catholic_dioceses)
 
 ### Contributing
 
@@ -50,5 +51,6 @@ request. To add a dataset:
 This project is released under the MIT License:
 <http://lmullen.mit-license.org/>
 
+  [devtools]: https://github.com/hadley/devtools
   [tidy]: http://www.jstatsoft.org/v59/i10
   [Roxygen]: http://roxygen.org/
