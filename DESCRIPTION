@@ -4,7 +4,10 @@ Version: 0.1
 Authors@R: c(person("Lincoln", "Mullen",
     role = c("aut", "cre"),
     email = "lincoln@lincolnmullen.com"))
-Description: This package provides sample data sets of interest to historians.
+Description: These sample data sets are intended for historians
+    learning R. It includes population, institutional, religious, military,
+    and prosopographical data suitable for mapping, quantitative analysis,
+    and network analysis.
 Depends:
     R (>= 3.0.2)
 Suggests:
