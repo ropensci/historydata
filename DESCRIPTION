@@ -5,9 +5,9 @@ Authors@R: c(person("Lincoln", "Mullen",
     role = c("aut", "cre"),
     email = "lincoln@lincolnmullen.com"))
 Description: These sample data sets are intended for historians
-    learning R. It includes population, institutional, religious, military,
-    and prosopographical data suitable for mapping, quantitative analysis,
-    and network analysis.
+    learning R. They include population, institutional, religious,
+    military, and prosopographical data suitable for mapping,
+    quantitative analysis, and network analysis.
 Depends:
     R (>= 3.0.2)
 Suggests:
