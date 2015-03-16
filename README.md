@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ropensci/historydata.svg)](https://travis-ci.org/ropensci/historydata)
+
 ## historydata: Data Sets for Historians
 
 These sample data sets are intended for historians learning R. They
