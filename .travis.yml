@@ -1,0 +1,9 @@
+language: r
+warnings_are_errors: true
+
+notifications:
+  email:
+    on_success: change
+    on_failure: change
+  slack:
+    secure: Nlw6PzH//Z44Rthpk+42jn/HOvS6jYRwJRunjV6buY7iAtCMos8Jua+VZVM2+GBy1qnJy+2IaAgnPSdMavZqXVIezCWqY3uIGR1us7UK+3yw7g+mRcr/bfep67mNDiepGThbvOY2ZgdZypDNkm+9pf/wO9bSLx5fv71rmMZBgCQ=

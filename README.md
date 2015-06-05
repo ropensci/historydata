@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ropensci/historydata.svg)](https://travis-ci.org/ropensci/historydata)
+
 ## historydata: Data Sets for Historians
 
 These sample data sets are intended for historians learning R. They
@@ -16,7 +18,7 @@ To install the development version, you will first have to install
 
 To install:
 
-    devtools::install_github("lmullen/historydata")
+    devtools::install_github("ropensci/historydata")
 
 ### Use
 
