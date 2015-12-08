@@ -1,22 +1,18 @@
-historydata 0.1
-===============
+# historydata 0.1
 
-* Added sarna: Population estimates for American Jews.
-
-* Added us_state_populations: Populations of US states and territories.
-
-* Added catholic_dioceses: Locations and dates founded for Roman Catholic
+- Added `sarna`: Population estimates for American Jews.
+- Added `us_state_populations`: Populations of US states and territories.
+- Added `catholic_dioceses`: Locations and dates founded for Roman Catholic
   dioceses in the United States, Mexico, and Canada.
-
-* Added naval_promotions: Career data for officers of the line in the early
+- Added `naval_promotions`: Career data for officers of the line in the early
   U.S. Navy.
+- Added `us_national_population`: Populations of the United States of America.
+- Added `early_colleges`: Colleges founded in the United States before 1848.
+- Added `paulist_missions`: Missions held by the Paulists Fathers,1851-1893.
+- Added `judges_people` and `judges_appointments`: Federal judges, 1789--present.
+- Added `tudors`: relationships among the Tudor dynasty.
 
-* Added us_national_population: Populations of the United States of America.
+# historydata 0.2
 
-* Added early_colleges: Colleges founded in the United States before 1848.
-
-* Added paulist_missions: Missions held by the Paulists Fathers,1851-1893.
-
-* Added judges_people and judges_appointments: Federal judges, 1789--present.
-
-* Added tudors: relationships among the Tudor dynasty.
+- Added `episcopal_bishops` and `episcopal_consecrations`: network data of
+  consecrations of bishops in The Episcopal Church.
