@@ -17,3 +17,4 @@ LazyData: true
 Roxygen: list(wrap = FALSE)
 URL: https://github.com/ropensci/historydata
 BugReports: https://github.com/ropensci/historydata/issues
+RoxygenNote: 5.0.1
