@@ -3,7 +3,8 @@ Title: Data Sets for Historians
 Version: 0.2.9000
 Authors@R: c(person("Lincoln", "Mullen",
     role = c("aut", "cre"),
-    email = "lincoln@lincolnmullen.com"))
+    email = "lincoln@lincolnmullen.com"),
+    person("Mack", "Holt", role = "ctb"))
 Description: These sample data sets are intended for historians
     learning R. They include population, institutional, religious,
     military, and prosopographical data suitable for mapping,
