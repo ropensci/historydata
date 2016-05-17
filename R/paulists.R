@@ -23,7 +23,12 @@
 #'   \item \code{city}, \code{state}: The location of the mission.
 #'
 #'   \item \code{start_date}, \code{end_date}: The start and end dates of the
-#'   mission as a character string.
+#'   mission as date objects.
+#'
+#'   \item \code{year}: The year of the mission.
+#'
+#'   \item \code{duration_days}, \code{duration_years}: The duration of the
+#'   mission in days (as an integer) and in weeks (as an ordered factor).
 #'
 #'   \item \code{confessions}: The number of confessions heard by the Paulists
 #'   at the mission, which is a rough proxy for the number of people who
@@ -39,11 +44,14 @@
 #'   \item \code{lat}, \code{long}: The latitude and longitude of the city where
 #'   the mission was held.
 #'
+#'   \item \code{volume}, \code{page}: The location of the mission record in the
+#'   Paulist mission chronicles.
+#'
 #'   }
 #'
 #' @author \href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
 #'   University
-#' @format A data frame with 841 observations of 11 variables.
+#' @format A data frame with 841 observations of 16 variables.
 #' @references The Paulist missions are recorded in \emph{Chronicle of the
 #'   Missions Given by the Congregation of Missionary Priests of St. Paul the
 #'   Apostle}, six manuscript volumes, Office of Paulist History and Archives,

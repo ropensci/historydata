@@ -4,7 +4,7 @@
 \name{paulist_missions}
 \alias{paulist_missions}
 \title{Records of missions held by the Paulist Fathers, 1851--1893}
-\format{A data frame with 841 observations of 11 variables.}
+\format{A data frame with 841 observations of 16 variables.}
 \usage{
 paulist_missions
 }
@@ -33,7 +33,12 @@ missions for many more years than are recorded in the Chronicles.
   \item \code{city}, \code{state}: The location of the mission.
 
   \item \code{start_date}, \code{end_date}: The start and end dates of the
-  mission as a character string.
+  mission as date objects.
+
+  \item \code{year}: The year of the mission.
+
+  \item \code{duration_days}, \code{duration_years}: The duration of the
+  mission in days (as an integer) and in weeks (as an ordered factor).
 
   \item \code{confessions}: The number of confessions heard by the Paulists
   at the mission, which is a rough proxy for the number of people who
@@ -48,6 +53,9 @@ missions for many more years than are recorded in the Chronicles.
 
   \item \code{lat}, \code{long}: The latitude and longitude of the city where
   the mission was held.
+
+  \item \code{volume}, \code{page}: The location of the mission record in the
+  Paulist mission chronicles.
 
   }
 }

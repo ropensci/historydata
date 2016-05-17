@@ -1,5 +1,10 @@
-historydata 0.1
-===============
+# historydata 0.2
+
+- Added `dijon_prices` and `dijon_prices_wide
+- Added `presbyterians`
+- Fixed data formatting of `paulist_missions`
+
+# historydata 0.1
 
 * Added sarna: Population estimates for American Jews.
 
