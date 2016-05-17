@@ -3,6 +3,7 @@
 -   Added `dijon_prices` and `dijon_prices_wide`
 -   Added `presbyterians`
 -   Fixed data formatting of `paulist_missions`
+-   Added `methodists`
 
 # historydata 0.1
 
