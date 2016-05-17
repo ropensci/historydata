@@ -27,6 +27,8 @@
 #'
 #'   \item \code{year}: The year of the mission.
 #'
+#'   \item \code{decade}: The decade of the mission (useful for faceting).
+#'
 #'   \item \code{duration_days}, \code{duration_years}: The duration of the
 #'   mission in days (as an integer) and in weeks (as an ordered factor).
 #'
@@ -51,7 +53,7 @@
 #'
 #' @author \href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
 #'   University
-#' @format A data frame with 841 observations of 16 variables.
+#' @format A data frame with 841 observations of 17 variables.
 #' @references The Paulist missions are recorded in \emph{Chronicle of the
 #'   Missions Given by the Congregation of Missionary Priests of St. Paul the
 #'   Apostle}, six manuscript volumes, Office of Paulist History and Archives,

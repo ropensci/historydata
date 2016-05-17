@@ -19,13 +19,16 @@ paulist_missions <- read_csv("data-raw/paulist-missions.geocoded.csv") %>%
   mutate(year = year(start_date)) %>%
   mutate(duration_days = as.integer(end_date - start_date),
          duration_weeks = to_weeks(duration_days)) %>%
-  select(mission_number,
+  mutate(decade = mullenMisc::round_year(year, round_to = "decade"),
+         decade = paste0(decade, "s")) %>%
+    select(mission_number,
          church,
          city,
          state,
          date_start = start_date,
          date_end = end_date,
          year,
+         decade,
          duration_days,
          duration_weeks,
          confessions = confessions_total,

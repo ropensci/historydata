@@ -4,7 +4,7 @@
 \name{paulist_missions}
 \alias{paulist_missions}
 \title{Records of missions held by the Paulist Fathers, 1851--1893}
-\format{A data frame with 841 observations of 16 variables.}
+\format{A data frame with 841 observations of 17 variables.}
 \usage{
 paulist_missions
 }
@@ -36,6 +36,8 @@ missions for many more years than are recorded in the Chronicles.
   mission as date objects.
 
   \item \code{year}: The year of the mission.
+
+  \item \code{decade}: The decade of the mission (useful for faceting).
 
   \item \code{duration_days}, \code{duration_years}: The duration of the
   mission in days (as an integer) and in weeks (as an ordered factor).
