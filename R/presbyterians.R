@@ -1,0 +1,28 @@
+#' Presbyterians Statistics Through One Hundred Years
+#'
+#' This dataset contains transcriptions of annual denominational records for
+#' Presbyterians in the United States. This data was compiled Herman Carl Weber
+#' for the Presbyterian Church U.S.A. in 1927. For an explanation of the
+#' variables, see the book from which the records were transcribed.
+#'
+#' @details Weber includes two sections, one of raw data compiled from the
+#' Minutes of the General Assembly, which apparently includes the foreign
+#' membership of the Presbyterian churches. The second section contains the data
+#' that Weber used for his visualizations, which excludes the foreign membership
+#' and makes various calculations on the data.
+#'
+#' Not all of the data in Weber is reproduced here. The data comes from part 1,
+#' with the tables on financial information excluded.
+#'
+#' One field that varies in title from members received by exam to members
+#' received by confession varies in title, but has been presumed to refer to the
+#' same process.
+#'
+#' @author \href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
+#'   University
+#' @format A data frame with 133 observations of 37 variables.
+#' @references Weber, Herman C. \emph{Presbyterian Statistics Through One
+#'   Hundred Year, 1826--1926: Tabulated, Visualized, and Interpreted}.
+#'   Philadelphia: The General Council, Presbyterian Church in the U.S.A., 1927.
+#'   \url{http://catalog.hathitrust.org/Record/007109885}.
+"presbyterians"
