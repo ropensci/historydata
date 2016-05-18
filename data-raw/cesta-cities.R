@@ -12,7 +12,8 @@ cities <- read_csv("data-raw/cesta-cities.csv")
 cities <- cities %>%
   gather(year, population, -ID, -ST, -City, -CityST, -STPLFIPS_2010, -Name_2010,
          -County, -LAT, -LON, -LAT_BING, -LON_BING, -`City Source`,
-         -`Population Source`, -`Place Type`, -`County_Name`)
+         -`Population Source`, -`Place Type`, -`County_Name`) %>%
+  mutate(year = as.integer(year))
 
 names(cities) <- tolower(names(cities))
 
