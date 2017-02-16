@@ -1,6 +1,7 @@
 Package: historydata
 Title: Data Sets for Historians
-Version: 0.2.9000
+Version: 0.2.9001
+Date: 2017-02-16
 Authors@R: c(person("Lincoln", "Mullen",
     role = c("aut", "cre"),
     email = "lincoln@lincolnmullen.com"),
@@ -20,4 +21,4 @@ LazyData: true
 Roxygen: list(wrap = FALSE)
 URL: https://github.com/ropensci/historydata
 BugReports: https://github.com/ropensci/historydata/issues
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
