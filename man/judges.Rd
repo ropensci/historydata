@@ -24,6 +24,7 @@ information from the source has been excluded.
   such as the name of the court, nominating president, and the dates of
   service.
 }
+
 \examples{
 data(judges_people)
 data(judges_appointments)
@@ -33,4 +34,3 @@ This data is taken from the
   \href{http://www.uscourts.gov/JudgesAndJudgeships/BiographicalDirectoryOfJudges.aspx}{Biographical
    Directory of Federal Judges, 1789-present}.
 }
-

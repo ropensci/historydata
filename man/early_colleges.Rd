@@ -30,6 +30,7 @@ before 1848 in the United States of America.
   \code{secular} if not founded by a denomination.
 }
 }
+
 \examples{
 head(early_colleges)
 if(require(ggplot2)) {
@@ -37,17 +38,16 @@ if(require(ggplot2)) {
   ggtitle("Founding Dates of Early American Colleges")
 }
 }
-\author{
-\href{http://gmu.academia.edu/GeorgeOberle}{George Oberle}, George
-  Mason University
-
-  Daniel Walker Howe
-}
 \references{
 This data was transcribed by George Oberle from the table "Some
   American Institutions of Higher Education Founded Before 1848, in Daniel
   Walker Howe, \emph{What Hath God Wrought: The Transformation of America,
   1815-1848} (New York: Oxford University Press, 2007), 460-461.
 }
-\keyword{datasets}
+\author{
+\href{http://gmu.academia.edu/GeorgeOberle}{George Oberle}, George
+  Mason University
 
+  Daniel Walker Howe
+}
+\keyword{datasets}

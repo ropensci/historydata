@@ -22,6 +22,7 @@ Population figures for the entire United States of America from the decennial ce
 
   }
 }
+
 \examples{
 head(us_national_population)
 if(require(ggplot2)) {
@@ -38,4 +39,3 @@ This dataset has been gathered by the
   (Minneapolis: University of Minnesota, 2011).
 }
 \keyword{datasets}
-

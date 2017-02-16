@@ -13,13 +13,12 @@ This dataset contains transcriptions of the membership figures from the
 annual meeting minutes of the Methodist Episcopal Church in the United States
 of America.
 }
-\author{
-\href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
-  University
-}
 \references{
 See the \code{url} field in each row for a link to the page in
   the Hathi Trust from which that row was transcribed.
 }
+\author{
+\href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
+  University
+}
 \keyword{datasets}
-

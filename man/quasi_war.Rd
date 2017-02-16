@@ -21,4 +21,3 @@ This data was gathered by \href{http://abbymullen.org/}{Abby
   Mullen}.
 }
 \keyword{datasets}
-

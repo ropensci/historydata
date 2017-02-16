@@ -61,12 +61,9 @@ missions for many more years than are recorded in the Chronicles.
 
   }
 }
+
 \examples{
 head(paulist_missions)
-}
-\author{
-\href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
-  University
 }
 \references{
 The Paulist missions are recorded in \emph{Chronicle of the
@@ -75,5 +72,8 @@ The Paulist missions are recorded in \emph{Chronicle of the
   North American Paulist Center, Washington, DC. Data transcribed by Lincoln
   Mullen.
 }
+\author{
+\href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
+  University
+}
 \keyword{datasets}
-

@@ -46,13 +46,9 @@ lieutenant, master commandament, and captain.
   \item \code{date}: The date as a character string on which an officer
   attained the associated rank. }
 }
+
 \examples{
 head(naval_promotions)
-}
-\author{
-\href{http://abbymullen.org/}{Abby Mullen}, Northeastern University
-
-  Edward W. Callahan
 }
 \references{
 This data was compiled by Abby Mullen from Edward W. Callahan,
@@ -64,5 +60,9 @@ This data was compiled by Abby Mullen from Edward W. Callahan,
   "\href{http://abbymullen.org/database-of-officers-of-the-line/}{Database of
   Officers of the Line}," abbymullen.org, January 5, 2013.
 }
-\keyword{datasets}
+\author{
+\href{http://abbymullen.org/}{Abby Mullen}, Northeastern University
 
+  Edward W. Callahan
+}
+\keyword{datasets}

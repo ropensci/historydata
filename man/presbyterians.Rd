@@ -28,15 +28,14 @@ One field that varies in title from members received by exam to members
 received by confession varies in title, but has been presumed to refer to the
 same process.
 }
-\author{
-\href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
-  University
-}
 \references{
 Weber, Herman C. \emph{Presbyterian Statistics Through One
   Hundred Year, 1826--1926: Tabulated, Visualized, and Interpreted}.
   Philadelphia: The General Council, Presbyterian Church in the U.S.A., 1927.
   \url{http://catalog.hathitrust.org/Record/007109885}.
 }
+\author{
+\href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
+  University
+}
 \keyword{datasets}
-

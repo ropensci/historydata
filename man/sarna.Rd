@@ -28,6 +28,7 @@ This dataset contains estimates of the population of American Jews.
 
   }
 }
+
 \examples{
 head(sarna)
 }
@@ -37,4 +38,3 @@ This data is taken from the appendix in Jonathan D. Sarna,
   2004), 375-376.
 }
 \keyword{datasets}
-

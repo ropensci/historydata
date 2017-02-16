@@ -34,13 +34,13 @@ St. Martin (November 11). All prices are in \emph{sous tournois} / 20
   \emph{sous tournais}. \item \code{citation}, \code{citation_date}:
   citations and dates for documents in the Archives municipales de Dijon.}
 }
-\author{
-Mack Holt, George Mason University
-}
+
 \references{
 All citations are to the Archives municipales de Dijon. See the
   columns \code{citation} and \code{citation_date} in \code{dijon_prices} for
   the documents from which each price was gathered.
 }
+\author{
+Mack Holt, George Mason University
+}
 \keyword{datasets}
-

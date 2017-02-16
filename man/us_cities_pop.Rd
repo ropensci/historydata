@@ -22,4 +22,3 @@ Erik Steiner and Jason Heppler, "United States Historical City
   \url{https://github.com/cestastanford/historical-us-city-populations/}
 }
 \keyword{datasets}
-

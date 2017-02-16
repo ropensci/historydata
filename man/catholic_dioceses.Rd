@@ -32,6 +32,7 @@ indicate that none of these sees have been discontinued.
 
   }
 }
+
 \examples{
 head(catholic_dioceses)
 }
@@ -45,4 +46,3 @@ This data is compiled from several sources:
   \url{http://www.catholic-hierarchy.org/}
 }
 \keyword{datasets}
-

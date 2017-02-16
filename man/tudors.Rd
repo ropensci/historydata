@@ -21,8 +21,8 @@ dynasty, suitable for network analysis.
 
   \item \code{relationship}: The type of relationship. }
 }
+
 \examples{
 data(tudors)
 }
 \keyword{datasets}
-

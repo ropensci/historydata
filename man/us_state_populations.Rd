@@ -27,6 +27,7 @@ Population figures for US states and territories from the decennial census.
 
   }
 }
+
 \examples{
 head(us_state_populations)
 }
@@ -37,4 +38,3 @@ This dataset has been gathered by the
   (Minneapolis: University of Minnesota, 2011).
 }
 \keyword{datasets}
-
