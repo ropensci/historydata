@@ -17,7 +17,6 @@ This dataset contains entries on biographical and mythological figures from the 
   \itemize{
 
   \item \code{entry}: Text entry including name, description, and textual references.
-  \item \code{perseus_urn}: The uniform resouce name (URN) tagged by the Perseus Digital Library
 
   }
 }
