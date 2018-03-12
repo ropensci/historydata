@@ -4,7 +4,8 @@ Version: 0.2.9001
 Date: 2017-02-16
 Authors@R: c(person("Lincoln", "Mullen",
     role = c("aut", "cre"),
-    email = "lincoln@lincolnmullen.com"),
+    email = "lincoln@lincolnmullen.com",
+    comment = c(ORCID = "0000-0001-5103-6917")),
     person("Mack", "Holt", role = "ctb"),
     person("Erik", "Steiner", role = "ctb"),
     person("Jason", "Heppler", role = "ctb"))
