@@ -1,5 +1,5 @@
 Package: historydata
-Title: Data Sets for Historians
+Title: Datasets for Historians
 Version: 0.2.9001
 Date: 2017-02-16
 Authors@R: c(person("Lincoln", "Mullen",

@@ -1,13 +1,16 @@
+
+# historydata
+
 [![Build Status](https://travis-ci.org/ropensci/historydata.svg)](https://travis-ci.org/ropensci/historydata)
 
-## historydata: Data Sets for Historians
+## Overview
 
 These sample data sets are intended for historians learning R. They
 include population, institutional, religious, military, and
 prosopographical data suitable for mapping, quantitative analysis, and
 network analysis.
 
-### Installation
+## Installation
 
 To install the package from CRAN:
 
@@ -20,7 +23,7 @@ To install:
 
     devtools::install_github("ropensci/historydata")
 
-### Use
+## Use
 
 To list all the datasets in the package with their documentation:
 
@@ -31,7 +34,7 @@ To load a dataset:
 
     data(catholic_dioceses)
 
-### Contributing
+## Contributing
 
 If you have a dataset that you think would be good for this package,
 feel free to contribute it. You can send the dataset via e-mail if you
@@ -48,7 +51,7 @@ request. To add a dataset:
 2.  Add the documentation using the [Roxygen][] format to a file in the
     `R/`. Use `R/sarna.R` as a model. Be sure to include a citation.
 
-### License
+## License
 
 This project is released under the MIT License:
 <http://lmullen.mit-license.org/>
