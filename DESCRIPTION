@@ -20,6 +20,6 @@ Suggests:
 License: MIT + file LICENSE
 LazyData: true
 Roxygen: list(wrap = FALSE)
-URL: https://github.com/ropensci/historydata
+URL: https://docs.ropensci.org/historydata, https://github.com/ropensci/historydata
 BugReports: https://github.com/ropensci/historydata/issues
 RoxygenNote: 6.0.1
