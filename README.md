@@ -57,5 +57,5 @@ This project is released under the MIT License:
 <http://lmullen.mit-license.org/>
 
   [devtools]: https://github.com/hadley/devtools
-  [tidy]: http://www.jstatsoft.org/v59/i10
+  [tidy]: https://doi.org/10.18637/jss.v059.i10
   [Roxygen]: http://roxygen.org/
