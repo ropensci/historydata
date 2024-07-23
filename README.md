@@ -1,7 +1,10 @@
 
 # historydata
 
+<!-- badges: start -->
 [![Build Status](https://travis-ci.org/ropensci/historydata.svg)](https://travis-ci.org/ropensci/historydata)
+[![R-CMD-check](https://github.com/jrdnbradford/historydata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jrdnbradford/historydata/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
 
 ## Overview
 
