@@ -1,4 +1,6 @@
 # historydata 0.2 (in development)
+
+-   Add `minneapolisfed_cpi`
 -   Add `.gitignore`
 -   Updated {pkgdown} GitHub site
 -   Updated `.Rbuildignore`
@@ -14,7 +16,7 @@
 # historydata 0.1
 
 -   Added `sarna`: Population estimates for American Jews.
--   Added us\_state\_populations\`: Populations of US states and territories.
+-   Added `us_state_populations`: Populations of US states and territories.
 -   Added `catholic_dioceses`: Locations and dates founded for Roman Catholic dioceses in the United States, Mexico, and Canada.
 -   Added `naval_promotions`: Career data for officers of the line in the early U.S. Navy.
 -   Added `us_national_population`: Populations of the United States of America.
