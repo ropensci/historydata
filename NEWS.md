@@ -1,5 +1,6 @@
 # historydata 0.2 (in development)
 
+-   Fix incorrect date in `catholic-dioceses`
 -   Add `us_military_strengths` (thanks @CB1789, #21)
 -   Fix typo in `catholic_dioceses` docs
 -   Add `minneapolisfed_cpi`
