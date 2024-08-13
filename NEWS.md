@@ -1,5 +1,5 @@
 # historydata 0.2 (in development)
-
+-   Add `.gitignore`
 -   Updated {pkgdown} GitHub site
 -   Updated `.Rbuildignore`
 -   Remove old Travis CI config
