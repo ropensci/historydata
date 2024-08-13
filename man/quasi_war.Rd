@@ -5,7 +5,9 @@
 \alias{quasi_war}
 \title{Naval encounters during the Quasi War between France and the United States of
 America}
-\format{A data frame with 198 observations of 16 variables.}
+\format{
+A data frame with 198 observations of 16 variables.
+}
 \usage{
 quasi_war
 }

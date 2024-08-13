@@ -4,7 +4,9 @@
 \name{early_colleges}
 \alias{early_colleges}
 \title{Early colleges in the United States}
-\format{A data frame with 65 observations of 6 variables.}
+\format{
+A data frame with 65 observations of 6 variables.
+}
 \usage{
 early_colleges
 }

@@ -4,7 +4,9 @@
 \name{methodists}
 \alias{methodists}
 \title{Methodist Minutes of the Annual Conferences, 1786--1834}
-\format{A data frame with 20241 observations of 11 variables.}
+\format{
+A data frame with 20241 observations of 11 variables.
+}
 \usage{
 methodists
 }

@@ -4,7 +4,9 @@
 \name{us_state_populations}
 \alias{us_state_populations}
 \title{Populations of US states and territories, 1790-2010}
-\format{A data frame with 983 observations of 4 variables.}
+\format{
+A data frame with 983 observations of 4 variables.
+}
 \usage{
 us_state_populations
 }

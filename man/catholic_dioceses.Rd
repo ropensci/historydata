@@ -4,7 +4,9 @@
 \name{catholic_dioceses}
 \alias{catholic_dioceses}
 \title{Roman Catholic dioceses in the United States, Canada, and Mexico}
-\format{A data frame with 425 observations of 6 variables.}
+\format{
+A data frame with 425 observations of 6 variables.
+}
 \usage{
 catholic_dioceses
 }

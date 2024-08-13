@@ -4,7 +4,9 @@
 \name{us_national_population}
 \alias{us_national_population}
 \title{Population of the United States, 1790-2010}
-\format{A data frame with 23 observations of 2 variables.}
+\format{
+A data frame with 23 observations of 2 variables.
+}
 \usage{
 us_national_population
 }

@@ -5,11 +5,15 @@
 \alias{dijon_prices}
 \alias{dijon_prices_wide}
 \title{Wholesale Market Prices in Dijon, France 1568--1630}
-\format{\code{dijon_prices} is a data frame with 1,110 observations of 6
+\format{
+\code{dijon_prices} is a data frame with 1,110 observations of 6
   variables. \code{dijon_prices_wide} is a data frame with 19 observations of
   65 variables. \code{dijon_prices_wide} contains the data as it was
   transcribed; that data has been converted to a tidy format in
-  \code{dijon_prices}.}
+  \code{dijon_prices}.
+
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 19 rows and 65 columns.
+}
 \usage{
 dijon_prices
 

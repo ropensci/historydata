@@ -4,7 +4,9 @@
 \name{naval_promotions}
 \alias{naval_promotions}
 \title{Promotions of U.S. Navy officers, 1798-1849}
-\format{A data frame with 5,705 observations of 4 variables.}
+\format{
+A data frame with 5,705 observations of 4 variables.
+}
 \usage{
 naval_promotions
 }

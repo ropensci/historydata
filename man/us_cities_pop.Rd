@@ -4,7 +4,9 @@
 \name{us_cities_pop}
 \alias{us_cities_pop}
 \title{United States Historical City Populations, 1790-2010}
-\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 62224 rows and 17 columns.}
+\format{
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 62224 rows and 17 columns.
+}
 \usage{
 us_cities_pop
 }

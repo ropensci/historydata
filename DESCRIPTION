@@ -1,14 +1,15 @@
 Package: historydata
+Type: Package
 Title: Datasets for Historians
 Version: 0.2.9001
-Date: 2017-02-16
 Authors@R: c(person("Lincoln", "Mullen",
     role = c("aut", "cre"),
     email = "lincoln@lincolnmullen.com",
     comment = c(ORCID = "0000-0001-5103-6917")),
     person("Mack", "Holt", role = "ctb"),
     person("Erik", "Steiner", role = "ctb"),
-    person("Jason", "Heppler", role = "ctb"))
+    person("Jason", "Heppler", role = "ctb")),
+    person("Jordan", "Bradford", email = "jrdnbradford@gmail.com", role = "ctb")
 Description: These sample data sets are intended for historians
     learning R. They include population, institutional, religious,
     military, and prosopographical data suitable for mapping,
@@ -19,7 +20,7 @@ Suggests:
     ggplot2 (>= 1.0.0)
 License: MIT + file LICENSE
 LazyData: true
-Roxygen: list(wrap = FALSE)
 URL: https://docs.ropensci.org/historydata, https://github.com/ropensci/historydata
 BugReports: https://github.com/ropensci/historydata/issues
-RoxygenNote: 6.0.1
+RoxygenNote: 7.3.2
+Encoding: UTF-8
