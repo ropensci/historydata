@@ -8,8 +8,8 @@ Authors@R: c(person("Lincoln", "Mullen",
     comment = c(ORCID = "0000-0001-5103-6917")),
     person("Mack", "Holt", role = "ctb"),
     person("Erik", "Steiner", role = "ctb"),
-    person("Jason", "Heppler", role = "ctb")),
-    person("Jordan", "Bradford", email = "jrdnbradford@gmail.com", role = "ctb")
+    person("Jason", "Heppler", role = "ctb"),
+    person("Jordan", "Bradford", email = "jrdnbradford@gmail.com", role = "ctb"))
 Description: These sample data sets are intended for historians
     learning R. They include population, institutional, religious,
     military, and prosopographical data suitable for mapping,
