@@ -6,5 +6,5 @@ us_state_populations <- us_state_populations %>%
          year = YEAR,
          state = STATE,
          population = A00AA) %>%
-  tbl_df()
-devtools::use_data(us_state_populations, overwrite = TRUE)
+  as_tibble()
+usethis::use_data(us_state_populations, overwrite = TRUE)

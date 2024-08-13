@@ -8,4 +8,4 @@ quasi_war <- quasi_war %>%
          month = month(date),
          day   = day(date))
 
-devtools::use_data(quasi_war, overwrite = TRUE)
+usethis::use_data(quasi_war, overwrite = TRUE)

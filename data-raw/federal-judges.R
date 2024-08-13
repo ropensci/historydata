@@ -9,7 +9,7 @@ export_url <- "http://www.fjc.gov/history/export/jb.txt"
 download.file(export_url, destfile = "data-raw/judges.csv")
 
 judges <- read.csv("data-raw/judges.csv", stringsAsFactors = FALSE) %>%
-  tbl_df()
+  as_tibble()
 
 judges_people <- judges %>%
   select(judge_id = Judge.Identification.Number,
@@ -75,4 +75,4 @@ judges_appointments[judges_appointments == " "] <- NA
 judges_appointments <- judges_appointments %>%
   filter(!is.na(court_name))
 
-use_data(judges_people, judges_appointments, overwrite = TRUE)
+usethis::use_data(judges_people, judges_appointments, overwrite = TRUE)

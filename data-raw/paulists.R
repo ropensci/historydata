@@ -39,4 +39,4 @@ paulist_missions <- read_csv("data-raw/paulist-missions.geocoded.csv") %>%
          volume,
          page)
 
-devtools::use_data(paulist_missions, overwrite = TRUE)
+usethis::use_data(paulist_missions, overwrite = TRUE)

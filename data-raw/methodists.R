@@ -23,4 +23,4 @@ methodists <- read_csv("data-raw/methodists.csv") %>%
   select(year, conference, district, meeting, state, members_total,
          starts_with("members_"), url)
 
-devtools::use_data(methodists, overwrite = TRUE)
+usethis::use_data(methodists, overwrite = TRUE)
