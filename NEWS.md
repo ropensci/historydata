@@ -1,5 +1,11 @@
 # historydata 0.2 (in development)
 
+-   Updated {pkgdown} GitHub site
+-   Updated `.Rbuildignore`
+-   Remove old Travis CI config
+-   Added `README.qmd` to generate `README.md`
+-   Added `CONTRIBUTING.md`
+-   Updated {roxygen2} to `7.3.2`, adding a `format` field to dataset documentation
 -   Added `dijon_prices` and `dijon_prices_wide`
 -   Added `presbyterians`
 -   Fixed data formatting of `paulist_missions`

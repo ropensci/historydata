@@ -4,7 +4,9 @@
 \name{tudors}
 \alias{tudors}
 \title{Tudor dynasty}
-\format{A data frame with 35 observations of 3 variables.}
+\format{
+A data frame with 35 observations of 3 variables.
+}
 \usage{
 tudors
 }

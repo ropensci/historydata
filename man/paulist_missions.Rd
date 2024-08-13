@@ -4,7 +4,9 @@
 \name{paulist_missions}
 \alias{paulist_missions}
 \title{Records of missions held by the Paulist Fathers, 1851--1893}
-\format{A data frame with 841 observations of 17 variables.}
+\format{
+A data frame with 841 observations of 17 variables.
+}
 \usage{
 paulist_missions
 }

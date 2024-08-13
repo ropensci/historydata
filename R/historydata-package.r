@@ -8,5 +8,4 @@
 #'   the documentation for each dataset.
 #'
 #' @name historydata
-#' @docType package
 NULL

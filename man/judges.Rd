@@ -5,7 +5,9 @@
 \alias{judges_appointments}
 \alias{judges_people}
 \title{Federal judges in the United States of America}
-\format{Two data frames, \code{judges_people} and \code{judges_appointments}.}
+\format{
+Two data frames, \code{judges_people} and \code{judges_appointments}.
+}
 \description{
 This dataset contains information about the appointments and careers of all
 federal judges in United States history since 1789. It includes judges who

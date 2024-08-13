@@ -4,7 +4,9 @@
 \name{presbyterians}
 \alias{presbyterians}
 \title{Presbyterians Statistics Through One Hundred Years}
-\format{A data frame with 133 observations of 37 variables.}
+\format{
+A data frame with 133 observations of 37 variables.
+}
 \usage{
 presbyterians
 }

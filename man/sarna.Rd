@@ -4,7 +4,9 @@
 \name{sarna}
 \alias{sarna}
 \title{Population estimates of American Jews}
-\format{A data frame with 92 observations of 3 variables.}
+\format{
+A data frame with 92 observations of 3 variables.
+}
 \usage{
 sarna
 }
