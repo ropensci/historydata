@@ -15,5 +15,5 @@ catholic_dioceses <-
   gather(event, date, -diocese, -rite, -lat, -long) %>%
   filter(date != "") %>%
   mutate(date = mdy(date)) %>%
-  tbl_df()
-devtools::use_data(catholic_dioceses, overwrite = TRUE)
+  as_tibble()
+usethis::use_data(catholic_dioceses, overwrite = TRUE)

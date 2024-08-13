@@ -6,4 +6,4 @@ presbyterians <- pres %>%
   mutate(denomination = ifelse(denomination == "Reunited Presbyterians",
                                "Presbyterians", denomination))
 
-devtools::use_data(presbyterians, overwrite = TRUE)
+usethis::use_data(presbyterians, overwrite = TRUE)

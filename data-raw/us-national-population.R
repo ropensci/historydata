@@ -5,7 +5,7 @@ us_national_population <- us_state_populations %>%
   select(year = YEAR,
          state = STATE,
          state_population = A00AA) %>%
-  tbl_df() %>%
+  as_tibble() %>%
   group_by(year) %>%
   summarize(population = sum(state_population, na.rm = TRUE))
-devtools::use_data(us_national_population, overwrite = TRUE)
+usethis::use_data(us_national_population, overwrite = TRUE)

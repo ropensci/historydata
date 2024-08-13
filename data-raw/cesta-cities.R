@@ -38,4 +38,4 @@ cities <- cities %>%
 
 us_cities_pop <- cities
 
-devtools::use_data(us_cities_pop, overwrite = TRUE)
+usethis::use_data(us_cities_pop, overwrite = TRUE)
