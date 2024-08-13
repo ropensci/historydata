@@ -1,5 +1,6 @@
 # historydata 0.2 (in development)
 
+-   Fix typo in `catholic_dioceses` docs
 -   Add `minneapolisfed_cpi`
 -   Add `.gitignore`
 -   Updated {pkgdown} GitHub site
