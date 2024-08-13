@@ -1,10 +1,4 @@
-url: https://lincolnmullen.com/software/tokenizers
-
+url: https://docs.ropensci.org/historydata
 template:
-  params:
-    bootswatch: united
-    ganalytics: "UA-25121492-1"
-
-authors:
-  Lincoln Mullen:
-    href: "https://lincolnmullen.com"
+  bootstrap: 5
+  light-switch: true
