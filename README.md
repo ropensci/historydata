@@ -5,9 +5,8 @@
 # {historydata}
 
 <!-- badges: start -->
-
-[![R-CMD-check](https://github.com/ropensci/historydata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ropensci/historydata/actions/workflows/R-CMD-check.yaml)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/historydata.png)](https://cran.r-project.org/package=historydata)
+[![R-CMD-check](https://github.com/ropensci/historydata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ropensci/historydata/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 ## Overview
