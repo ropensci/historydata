@@ -9,6 +9,7 @@
 [![R-CMD-check](https://github.com/ropensci/historydata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ropensci/historydata/actions/workflows/R-CMD-check.yaml)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/historydata)](https://CRAN.R-project.org/package=historydata)
+[![r-universe](https://ropensci.r-universe.dev/badges/historydata)](https://ropensci.r-universe.dev/historydata)
 <!-- badges: end -->
 
 ## Overview
@@ -26,7 +27,14 @@ To install the package from CRAN:
 install.packages("historydata")
 ```
 
-You can install the development version with {devtools}:
+To install the latest
+[r-universe](https://ropensci.r-universe.dev/historydata) build:
+
+``` r
+install.packages('historydata', repos = c('https://ropensci.r-universe.dev'))
+```
+
+You can install the development version from GitHub with {devtools}:
 
 ``` r
 # install.packages("devtools")
