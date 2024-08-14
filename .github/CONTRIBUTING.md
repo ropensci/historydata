@@ -1,4 +1,4 @@
-## Contributing
+# Contributing
 
 If you have a dataset that you think would be good for this package,
 feel free to contribute it. Datasets should include a source citation
