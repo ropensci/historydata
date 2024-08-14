@@ -72,3 +72,8 @@ head(catholic_dioceses)
 
 This project is released under the MIT License. See
 [LICENSE.md](./LICENSE.md) for details.
+
+------------------------------------------------------------------------
+
+[![rOpenSci
+footer](https://ropensci.org//public_images/github_footer.png)](https://ropensci.org/)
