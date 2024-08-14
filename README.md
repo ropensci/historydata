@@ -21,12 +21,6 @@ network analysis.
 
 ## Installation
 
-To install the package from CRAN:
-
-``` r
-install.packages("historydata")
-```
-
 To install the latest
 [r-universe](https://ropensci.r-universe.dev/historydata) build:
 
@@ -34,7 +28,15 @@ To install the latest
 install.packages('historydata', repos = c('https://ropensci.r-universe.dev'))
 ```
 
-You can install the development version from GitHub with {devtools}:
+To install the package from
+[CRAN](https://cran.r-project.org/package=historydata):
+
+``` r
+install.packages("historydata")
+```
+
+You can install the development version from
+[GitHub](https://github.com/ropensci/historydata) with {devtools}:
 
 ``` r
 # install.packages("devtools")
@@ -43,10 +45,12 @@ devtools::install_github("ropensci/historydata")
 
 ## Use
 
-To list all the datasets in the package with their documentation:
+See the [package index
+reference](https://docs.ropensci.org/historydata/reference/index.html)
+for all the datasets in the package and their documentation. You can
+also use R’s builtin help:
 
 ``` r
-library(historydata)
 help(package = historydata)
 ```
 
@@ -66,5 +70,5 @@ head(catholic_dioceses)
 
 ## License
 
-This project is released under the MIT License:
-<http://lmullen.mit-license.org/>
+This project is released under the MIT License. See
+[LICENSE.md](./LICENSE.md) for details.

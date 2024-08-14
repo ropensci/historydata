@@ -28,35 +28,35 @@ These sample data sets are intended for historians learning R. They include popu
 
 ## Installation
 
-To install the package from CRAN:
-
-```{R install, echo=TRUE, eval=FALSE}
-install.packages("historydata")
-```
-
 To install the latest [r-universe](https://ropensci.r-universe.dev/historydata) build:
 
 ```{R install-r-universe, echo=TRUE, eval=FALSE}
 install.packages('historydata', repos = c('https://ropensci.r-universe.dev'))
 ```
 
-You can install the development version from GitHub with {devtools}:
+To install the package from [CRAN](https://cran.r-project.org/package=historydata):
 
-```{R devtools-install, echo=TRUE, eval=FALSE}
+```{R install-cran, echo=TRUE, eval=FALSE}
+install.packages("historydata")
+```
+
+You can install the development version from [GitHub](https://github.com/ropensci/historydata) with {devtools}:
+
+```{R install-github, echo=TRUE, eval=FALSE}
 # install.packages("devtools")
 devtools::install_github("ropensci/historydata")
 ```
 
 ## Use
 
-To list all the datasets in the package with their documentation:
+See the [package index reference](https://docs.ropensci.org/historydata/reference/index.html) for all the datasets in the package and their documentation. You can also use R's builtin help:
 
 ```{R help, echo=TRUE, eval=FALSE, output=FALSE}
-library(historydata)
 help(package = historydata)
 ```
 
 To load a dataset directly into your environment:
+
 ```{R load, echo=TRUE, eval=TRUE, output=TRUE}
 data(catholic_dioceses)
 head(catholic_dioceses)
@@ -64,4 +64,4 @@ head(catholic_dioceses)
 
 ## License
 
-This project is released under the MIT License. See [LICENSE.md](LICENSE.md) for details.
+This project is released under the MIT License. See [LICENSE.md](./LICENSE.md) for details.
