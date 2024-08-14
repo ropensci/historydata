@@ -6,3 +6,4 @@
 ^README\.qmd$
 ^_pkgdown\.yml$
 ^Makefile$
+^LICENSE\.md$
