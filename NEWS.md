@@ -18,7 +18,7 @@
 -   Fixed data formatting of `paulist_missions`
 -   Added `methodists` (#14)
 
-# historydata 0.1.0
+# historydata 0.1
 
 -   Added `sarna`: Population estimates for American Jews.
 -   Added `us_state_populations`: Populations of US states and territories.
