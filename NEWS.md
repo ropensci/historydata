@@ -1,5 +1,6 @@
-# historydata 0.2 (in development)
+# historydata 0.2.0.9002 (in development)
 
+-   Add patch increment to version number
 -   Fix geocoding for Mackenzie-Fort Smith in `catholic-dioceses` (#2)
 -   Fix incorrect date in `catholic-dioceses` (#8)
 -   Add `us_military_strengths` (thanks @CB1789, #21)
