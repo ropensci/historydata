@@ -1,6 +1,6 @@
 library(dplyr)
 library(tidyr)
-naval_promotions <- read.csv("data-raw/naval-promotions.csv",
+naval_promotions <- read.csv(file.path("data-raw", "naval-promotions.csv"),
                              stringsAsFactors = FALSE)
 # Assign a unique ID to each person:
 naval_promotions$id <- 1:nrow(naval_promotions)

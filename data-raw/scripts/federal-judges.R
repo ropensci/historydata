@@ -5,10 +5,11 @@ library(dplyr)
 library(tidyr)
 library(devtools)
 
+data_file <- file.path("data-raw", "judges.csv")
 export_url <- "http://www.fjc.gov/history/export/jb.txt"
-download.file(export_url, destfile = "data-raw/judges.csv")
+download.file(export_url, destfile = data_file)
 
-judges <- read.csv("data-raw/judges.csv", stringsAsFactors = FALSE) %>%
+judges <- read.csv(data_file, stringsAsFactors = FALSE) %>%
   as_tibble()
 
 judges_people <- judges %>%

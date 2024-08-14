@@ -1,6 +1,6 @@
 library(readr)
 library(dplyr)
-pres <- read_csv("data-raw/weber-1927.csv")
+pres <- read_csv(file.path("data-raw", "weber-1927.csv"))
 
 presbyterians <- pres %>%
   mutate(denomination = ifelse(denomination == "Reunited Presbyterians",
