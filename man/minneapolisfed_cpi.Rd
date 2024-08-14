@@ -3,7 +3,7 @@
 \docType{data}
 \name{minneapolisfed_cpi}
 \alias{minneapolisfed_cpi}
-\title{Consumer Price Index, 1800-}
+\title{Consumer Price Index, 1800-2024}
 \format{
 A data frame with 225 observations of 3 variables.
 }
@@ -12,7 +12,7 @@ minneapolisfed_cpi
 }
 \description{
 This dataset contains historic consumer price index (CPI) data
-including estimates before the modern U.S. CPI, retrieved from 
+including estimates before the modern U.S. CPI, retrieved from
 the Federal Reserve Bank of Minneapolis.
 }
 \details{

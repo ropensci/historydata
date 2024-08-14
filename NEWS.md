@@ -1,10 +1,10 @@
 # historydata 0.2 (in development)
 
--   Fix geocoding Mackenzie-Fort Smith in `catholic-dioceses`
--   Fix incorrect date in `catholic-dioceses`
+-   Fix geocoding for Mackenzie-Fort Smith in `catholic-dioceses` (#2)
+-   Fix incorrect date in `catholic-dioceses` (#8)
 -   Add `us_military_strengths` (thanks @CB1789, #21)
 -   Fix typo in `catholic_dioceses` docs
--   Add `minneapolisfed_cpi`
+-   Add `minneapolisfed_cpi` (#3, #13)
 -   Add `.gitignore`
 -   Updated {pkgdown} GitHub site
 -   Updated `.Rbuildignore`
@@ -15,7 +15,7 @@
 -   Added `dijon_prices` and `dijon_prices_wide`
 -   Added `presbyterians`
 -   Fixed data formatting of `paulist_missions`
--   Added `methodists`
+-   Added `methodists` (#14)
 
 # historydata 0.1
 

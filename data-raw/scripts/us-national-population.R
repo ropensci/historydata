@@ -1,5 +1,5 @@
 library(dplyr)
-us_state_populations <- read.csv("data-raw/nhgis0011_ts_state.csv",
+us_state_populations <- read.csv(file.path("data-raw", "nhgis0011_ts_state.csv"),
                                  stringsAsFactors = FALSE)
 us_national_population <- us_state_populations %>%
   select(year = YEAR,

@@ -1,6 +1,6 @@
 library(dplyr)
 library(tidyr)
-sarna <- read.csv("data-raw/sarna.csv", stringsAsFactors = FALSE)
+sarna <- read.csv(file.path("data-raw", "sarna.csv"), stringsAsFactors = FALSE)
 sarna <- sarna %>%
   as_tibble() %>%
   select(year,

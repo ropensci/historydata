@@ -2,8 +2,8 @@ library(dplyr)
 library(lubridate)
 library(tidyr)
 
-catholic_dioceses <- read.csv("data-raw/catholic.dioceses.geocoded.csv",
-                              stringsAsFactors = FALSE)
+data_file <- file.path("data-raw", "catholic.dioceses.geocoded.csv")
+catholic_dioceses <- read.csv(data_file, stringsAsFactors = FALSE)
 catholic_dioceses <-
   catholic_dioceses %>%
   select(diocese,

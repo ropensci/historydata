@@ -4,8 +4,8 @@ library(dplyr)
 library(tibble)
 library(stringr)
 
-dijon_prices_wide <- read_csv("data-raw/dijon-prices-wide.csv")
-dijon_citations <- read_csv("data-raw/dijon-citations.csv") %>%
+dijon_prices_wide <- read_csv(file.path("data-raw", "dijon-prices-wide.csv"))
+dijon_citations <- read_csv(file.path("data-raw", "dijon-citations.csv")) %>%
   select(-1) %>%
   t() %>%
   as.data.frame() %>%

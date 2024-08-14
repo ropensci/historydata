@@ -1,7 +1,7 @@
 Package: historydata
 Type: Package
 Title: Datasets for Historians
-Version: 0.2.9001
+Version: 0.2.9002
 Authors@R: c(person("Lincoln", "Mullen",
     role = c("aut", "cre"),
     email = "lincoln@lincolnmullen.com",

@@ -13,7 +13,7 @@ to_weeks <- function(x) {
   x
 }
 
-paulist_missions <- read_csv("data-raw/paulist-missions.geocoded.csv") %>%
+paulist_missions <- read_csv(file.path("data-raw", "paulist-missions.geocoded.csv")) %>%
   mutate(start_date = mdy(start_date),
          end_date = mdy(end_date)) %>%
   mutate(year = year(start_date)) %>%

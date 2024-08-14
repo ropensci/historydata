@@ -2,12 +2,14 @@ library(readr)
 library(dplyr)
 library(tidyr)
 
-if (!file.exists("data-raw/cesta-cities.csv")) {
+
+data_file <- file.path("data-raw", "cesta-cities.csv")
+if (!file.exists(data_file)) {
   download.file("https://raw.githubusercontent.com/cestastanford/historical-us-city-populations/master/data/1790-2010_MASTER.csv",
-                destfile = "data-raw/cesta-cities.csv")
+                destfile = data_file)
 }
 
-cities <- read_csv("data-raw/cesta-cities.csv")
+cities <- read_csv(data_file)
 
 cities <- cities %>%
   gather(year, population, -ID, -ST, -City, -CityST, -STPLFIPS_2010, -Name_2010,

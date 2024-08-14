@@ -1,5 +1,6 @@
 ---
 format: gfm
+default-image-extension: ""
 ---
 
 <!-- README.md is rendered from README.qmd. Edit README.qmd and render to update README.md -->
@@ -17,7 +18,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/ropensci/historydata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ropensci/historydata/actions/workflows/R-CMD-check.yaml)
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/historydata)](https://cran.r-project.org/package=historydata)
+[![CRAN status](https://www.r-pkg.org/badges/version/historydata)](https://CRAN.R-project.org/package=historydata)
 <!-- badges: end -->
 
 ## Overview

@@ -1,7 +1,7 @@
-#' Consumer Price Index, 1800-
+#' Consumer Price Index, 1800-2024
 #'
 #' This dataset contains historic consumer price index (CPI) data
-#' including estimates before the modern U.S. CPI, retrieved from 
+#' including estimates before the modern U.S. CPI, retrieved from
 #' the Federal Reserve Bank of Minneapolis.
 #'
 #' @section Variables:
