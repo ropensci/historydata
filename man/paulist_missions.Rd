@@ -75,7 +75,7 @@ The Paulist missions are recorded in \emph{Chronicle of the
   Mullen.
 }
 \author{
-\href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
+\href{https://lincolnmullen.com}{Lincoln Mullen}, George Mason
   University
 }
 \keyword{datasets}

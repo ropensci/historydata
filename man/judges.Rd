@@ -33,6 +33,6 @@ data(judges_appointments)
 }
 \references{
 This data is taken from the
-  \href{http://www.uscourts.gov/JudgesAndJudgeships/BiographicalDirectoryOfJudges.aspx}{Biographical
+  \href{https://www.uscourts.gov/sites/default/files/allauth.pdf}{Biographical
    Directory of Federal Judges, 1789-present}.
 }

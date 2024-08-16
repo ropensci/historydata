@@ -20,7 +20,7 @@
 #'   \code{secular} if not founded by a denomination.
 #' }
 #' @format A data frame with 65 observations of 6 variables.
-#' @author \href{http://gmu.academia.edu/GeorgeOberle}{George Oberle}, George
+#' @author \href{https://library.gmu.edu/faculty/george-oberle}{George Oberle}, George
 #'   Mason University
 #'
 #'   Daniel Walker Howe

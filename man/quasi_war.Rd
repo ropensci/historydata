@@ -19,7 +19,7 @@ America
 head(quasi_war)
 }
 \references{
-This data was gathered by \href{http://abbymullen.org/}{Abby
+This data was gathered by \href{https://abbymullen.org/}{Abby
   Mullen}.
 }
 \keyword{datasets}

@@ -2,7 +2,7 @@
 #' America
 #'
 #' @format A data frame with 198 observations of 16 variables.
-#' @references This data was gathered by \href{http://abbymullen.org/}{Abby
+#' @references This data was gathered by \href{https://abbymullen.org/}{Abby
 #'   Mullen}.
 #' @examples
 #' head(quasi_war)

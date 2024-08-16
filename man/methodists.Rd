@@ -20,7 +20,7 @@ See the \code{url} field in each row for a link to the page in
   the Hathi Trust from which that row was transcribed.
 }
 \author{
-\href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
+\href{https://lincolnmullen.com}{Lincoln Mullen}, George Mason
   University
 }
 \keyword{datasets}

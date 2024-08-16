@@ -30,7 +30,7 @@
 #'   (1789-1964)} (New York: Joseph F. Wagner, 1964), 425-26.
 #'
 #'   For the United States since 1963, Canada, and Mexico:
-#'   \url{http://www.catholic-hierarchy.org/}
+#'   \url{https://www.catholic-hierarchy.org/}
 #'
 #' @examples
 #' head(catholic_dioceses)

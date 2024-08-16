@@ -1,5 +1,8 @@
-# historydata 0.2.0.9002 (in development)
+# historydata (in development)
 
+# historydata 0.3.0
+
+-   Update URLs in docs
 -   Add rOpenSci footer to `README`
 -   Add `LICENSE.md`
 -   Add patch increment to version number
