@@ -47,7 +47,7 @@ This data was transcribed by George Oberle from the table "Some
   1815-1848} (New York: Oxford University Press, 2007), 460-461.
 }
 \author{
-\href{http://gmu.academia.edu/GeorgeOberle}{George Oberle}, George
+\href{https://library.gmu.edu/faculty/george-oberle}{George Oberle}, George
   Mason University
 
   Daniel Walker Howe

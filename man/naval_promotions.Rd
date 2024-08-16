@@ -57,13 +57,13 @@ This data was compiled by Abby Mullen from Edward W. Callahan,
   \emph{Officers of the Continental and U.S. Navy and Marine Corps,
   1775-1900} (New York: L. R. Hamersly, 1901), made available via the Naval
   Historical Center,
-  \url{http://www.ibiblio.org/hyperwar/NHC/Callahan/index.htm}. See Mullen's
+  \url{https://www.ibiblio.org/hyperwar/NHC/Callahan/index.htm}. See Mullen's
   blog post about compiling the data,
-  "\href{http://abbymullen.org/database-of-officers-of-the-line/}{Database of
+  "\href{https://abbymullen.org/database-of-officers-of-the-line/}{Database of
   Officers of the Line}," abbymullen.org, January 5, 2013.
 }
 \author{
-\href{http://abbymullen.org/}{Abby Mullen}, Northeastern University
+\href{https://abbymullen.org/}{Abby Mullen}, Northeastern University
 
   Edward W. Callahan
 }

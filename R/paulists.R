@@ -51,7 +51,7 @@
 #'
 #'   }
 #'
-#' @author \href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
+#' @author \href{https://lincolnmullen.com}{Lincoln Mullen}, George Mason
 #'   University
 #' @format A data frame with 841 observations of 17 variables.
 #' @references The Paulist missions are recorded in \emph{Chronicle of the

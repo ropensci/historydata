@@ -34,10 +34,10 @@ same process.
 Weber, Herman C. \emph{Presbyterian Statistics Through One
   Hundred Year, 1826--1926: Tabulated, Visualized, and Interpreted}.
   Philadelphia: The General Council, Presbyterian Church in the U.S.A., 1927.
-  \url{http://catalog.hathitrust.org/Record/007109885}.
+  \url{https://catalog.hathitrust.org/Record/007109885}.
 }
 \author{
-\href{http://lincolnmullen.com}{Lincoln Mullen}, George Mason
+\href{https://lincolnmullen.com}{Lincoln Mullen}, George Mason
   University
 }
 \keyword{datasets}
