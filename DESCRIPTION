@@ -3,13 +3,14 @@ Type: Package
 Title: Datasets for Historians
 Version: 0.3.0
 Authors@R: c(person("Lincoln", "Mullen",
-    role = c("aut", "cre"),
+    role = "aut",
     email = "lincoln@lincolnmullen.com",
     comment = c(ORCID = "0000-0001-5103-6917")),
     person("Mack", "Holt", role = "ctb"),
     person("Erik", "Steiner", role = "ctb"),
     person("Jason", "Heppler", role = "ctb"),
-    person("Jordan", "Bradford", email = "jrdnbradford@gmail.com", role = "ctb"))
+    person("Jordan", "Bradford", email = "jrdnbradford@gmail.com", role = "ctb"),
+    person("Hien", "Le", email = "minhhien2872002@gmail.com", role = c("aut", "cre")))
 Description: These sample data sets are intended for historians
     learning R. They include population, institutional, religious,
     military, and prosopographical data suitable for mapping,
