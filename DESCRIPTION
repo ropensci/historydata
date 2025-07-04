@@ -16,7 +16,7 @@ Description: These sample data sets are intended for historians
     military, and prosopographical data suitable for mapping,
     quantitative analysis, and network analysis.
 Depends:
-    R (>= 3.0.2)
+    R (>= 3.5)
 Suggests:
     ggplot2 (>= 3.0.0)
 License: MIT + file LICENSE
