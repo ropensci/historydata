@@ -1,0 +1,288 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0001_ts_nominal_state'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Geographic Integration Methods
+    - Source Data
+    - Citation and Use
+ 
+Detailed notes on time series design and comparability are available at: 
+    https://www.nhgis.org/sites/www.nhgis.org/files/nhgis_time_series_tables.pdf 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Time series layout:     Time varies by column
+Geographic level:       State
+Geographic integration: Nominal
+Years:                  1790, 1800, 1810, 1820, 1830, 1840, 1850, 1860, 1870, 1880, 1890, 1900, 1910, 1920, 1930, 1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020
+Extent:                 All areas
+ 
+Tables:
+ 
+1. Total Population
+   Selected year(s): 1790, 1800, 1810, 1820, 1830, 1840, 1850, 1860, 1870, 1880, 1890, 1900, 1910, 1920, 1930, 1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020
+   Code: A00
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        STATE:       NHGIS Integrated State Name
+        STATEFP:     FIPS State Code
+        STATENH:     NHGIS Integrated State Code
+ 
+Table 1: (A00) Total Population
+    Time series AA: Persons: Total
+        A00AA1790:   1790: Persons: Total
+        A00AA1800:   1800: Persons: Total
+        A00AA1810:   1810: Persons: Total
+        A00AA1820:   1820: Persons: Total
+        A00AA1830:   1830: Persons: Total
+        A00AA1840:   1840: Persons: Total
+        A00AA1850:   1850: Persons: Total
+        A00AA1860:   1860: Persons: Total
+        A00AA1870:   1870: Persons: Total
+        A00AA1880:   1880: Persons: Total
+        A00AA1890:   1890: Persons: Total
+        A00AA1900:   1900: Persons: Total
+        A00AA1910:   1910: Persons: Total
+        A00AA1920:   1920: Persons: Total
+        A00AA1930:   1930: Persons: Total
+        A00AA1940:   1940: Persons: Total
+        A00AA1950:   1950: Persons: Total
+        A00AA1960:   1960: Persons: Total
+        A00AA1970:   1970: Persons: Total
+        A00AA1980:   1980: Persons: Total
+        A00AA1990:   1990: Persons: Total
+        A00AA2000:   2000: Persons: Total
+        A00AA2010:   2010: Persons: Total
+        A00AA2020:   2020: Persons: Total
+ 
+--------------------------------------------------------------------------------
+Geographic Integration Methods
+--------------------------------------------------------------------------------
+ 
+Nominal Integration:
+
+    Nominally integrated tables link geographic units across time according to
+    their names and codes, disregarding any changes in unit boundaries. The
+    identified geographic units match those from each census source, so the
+    spatial definitions and total number of units may vary from one time to
+    another (e.g., a city may annex land, a tract may be split in two, a new
+    county may be created, etc.). The tables include data for a particular
+    geographic unit only at times when the unit's name or code was in use,
+    resulting in truncated time series for some areas.
+    
+    Users should be cautious when interpreting changes in nominally integrated
+    time series because a single unit code may refer to distinctly different
+    areas at different times. If you are uncertain whether any boundaries
+    changed in your areas of interest, we recommend inspecting NHGIS GIS files
+    to confirm. (NHGIS supplies GIS boundary files for all units and years in
+    nominally integrated time series *except* 1970 places and county
+    subdivisions.)
+    
+    Alternatively, for some topics and time periods, NHGIS provides
+    "geographically standardized" time series, which provide data from multiple
+    times for a single census's geographic units (e.g., 2000 and 2010 data for
+    2010 census units). A disadvantage of standardized time series is that, in
+    areas where source units do not nest perfectly within a unit of the standard
+    year (e.g., where a source 2000 unit intersects multiple 2010 units), NHGIS
+    applies interpolation to standardize the data, a process which may
+    occasionally produce substantial errors.
+
+Complete documentation on time series integration methods is available at:
+    https://www.nhgis.org/documentation/time-series
+ 
+--------------------------------------------------------------------------------
+Source Data
+--------------------------------------------------------------------------------
+ 
+Additional documentation on NHGIS data sources is available at:
+    https://www.nhgis.org/documentation/tabular-data
+
+Table 1: (A00) Total Population
+ 
+    Time series AA: Persons: Total
+        Year: 1790
+            Source dataset: 1790 Census: Population Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [AAA001] Total
+        Year: 1800
+            Source dataset: 1800 Census: Population Data [US, States & Counties]
+                Source table: NT2. Total Population (from 1900 Census Report)
+                    Universe: Persons
+                        Variable: [AAU001] Total
+        Year: 1810
+            Source dataset: 1810 Census: Population Data [US, States & Counties]
+                Source table: NT2. Total Population (from 1900 Census Report)
+                    Universe: Persons
+                        Variable: [AA3001] Total
+        Year: 1820
+            Source dataset: 1820 Census: Population Data [US, States & Counties]
+                Source table: NT9. Total Population
+                    Universe: Persons
+                        Variable: [ABM001] Total
+        Year: 1830
+            Source dataset: 1830 Census: Population Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [ABN001] Total
+        Year: 1840
+            Source dataset: 1840 Census: Population & Other Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [ACD001] Total
+        Year: 1850
+            Source dataset: 1850 Census: Population, Agriculture & Other Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [ADQ001] Total
+        Year: 1860
+            Source dataset: 1860 Census: Population, Agriculture & Other Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [AG3001] Total
+        Year: 1870
+            Source dataset: 1870 Census: Population, Agriculture & Other Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [AJ3001] Total
+        Year: 1880
+            Source dataset: 1880 Census: Population, Agriculture & Other Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [AOT001] Total
+        Year: 1890
+            Source dataset: 1890 Census: Population, Housing, Agriculture & Manufacturing Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [AUM001] Total
+        Year: 1900
+            Source dataset: 1900 Census: Population, Housing, Agriculture & Manufacturing Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [AYM001] Total
+        Year: 1910
+            Source dataset: 1910 Census: Population, Housing & Agriculture Data [US, States & Counties]
+                Source table: NT1. Total Population by Year
+                    Universe: Persons
+                        Variable: [A3Y001] 1910
+        Year: 1920
+            Source dataset: 1920 Census: Population, Housing, Agriculture & Manufacturing Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [A7L001] Total
+        Year: 1930
+            Source dataset: 1930 Census: Population, Agriculture & Economic Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [BDP001] Total
+        Year: 1940
+            Source dataset: 1940 Census: Population, Housing, Agriculture & Economic Data [US, States & Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [BV7001] Total
+        Year: 1950
+            Source dataset: 1950 Census: Population, Housing & Agriculture Data [US, States & Counties]
+                Source table: NT1. Population
+                    Universe: Persons
+                        Variable: [B18001] Total
+        Year: 1960
+            Source dataset: 1960 Census: Population Data [US, States, Counties]
+                Source table: NT1. Total Population
+                    Universe: Persons
+                        Variable: [B5O001] Total
+        Year: 1970
+            Source dataset: 1970 Census: Count 2 - 100% Data [Tracts, Urban Areas, Metro Areas, etc.] 
+                Source table: NT4A. Household Relationship
+                    Universe: Persons
+                        Variable: [CHI001] Head of household
+                        Variable: [CHI002] Wife of head
+                        Variable: [CHI003] Child of head
+                        Variable: [CHI004] Other relative of head
+                        Variable: [CHI005] Nonrelative (includes roomer, boarder, or lodger) of head of household
+                        Variable: [CHI006] In group quarters: Male inmate of institution
+                        Variable: [CHI007] In group quarters: Female inmate of institution
+                        Variable: [CHI008] In group quarters: Male in other group quarters
+                        Variable: [CHI009] In group quarters: Female in other group quarters
+        Year: 1980
+            Source dataset: 1980 Census: STF 1 - 100% Data
+                Source table: NT1A. Persons
+                    Universe: Persons
+                        Variable: [C7L001] Total
+        Year: 1990
+            Source dataset: 1990 Census: STF 1 - 100% Data
+                Source table: NP1. Persons
+                    Universe: Persons
+                        Variable: [ET1001] Total
+        Year: 2000
+            Source dataset: 2000 Census: SF 1a - 100% Data [Areas Larger Than Block Groups]
+                Source table: NP001A. Total Population
+                    Universe: Persons
+                        Variable: [FL5001] Total
+        Year: 2010
+            Source dataset: 2010 Census: SF 1a - P & H Tables [Blocks & Larger Areas]
+                Source table: P1. Total Population
+                    Universe: Total population
+                        Variable: [H7V001] Total
+        Year: 2020
+            Source dataset: 2020 Census: P.L. 94-171 Redistricting Data Summary File
+                Source table: P1. Race
+                    Universe: Total population
+                        Variable: [U7B001] Total
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 19.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2024. 
+        http://doi.org/10.18128/D050.V19.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
