@@ -5,7 +5,7 @@
 \alias{us_state_populations}
 \title{Populations of US states and territories, 1790-2020}
 \format{
-A data frame with `nrow(us_state_populations)` observations of 4 variables.
+A data frame with 1034 observations of 4 variables.
 }
 \usage{
 us_state_populations
