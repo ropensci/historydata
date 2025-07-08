@@ -3,9 +3,9 @@
 \docType{data}
 \name{us_state_populations}
 \alias{us_state_populations}
-\title{Populations of US states and territories, 1790-2010}
+\title{Populations of US states and territories, 1790-2020}
 \format{
-A data frame with 983 observations of 4 variables.
+A data frame with 1034 observations of 4 variables.
 }
 \usage{
 us_state_populations
@@ -35,8 +35,10 @@ head(us_state_populations)
 }
 \references{
 This dataset has been gathered by the
-  \href{https://www.nhgis.org/}{NHGIS}. Minnesota Population Center,
-  \emph{National Historical Geographic Information System: Version 2.0}
-  (Minneapolis: University of Minnesota, 2011).
+  \href{https://www.nhgis.org/}{NHGIS}.
+  Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler,
+  Finn Roberts, and Steven Ruggles.
+  \emph{IPUMS National Historical Geographic Information System: Version 19.0}
+  [dataset]. Minneapolis, MN: IPUMS, 2024. http://doi.org/10.18128/D050.V19.0.
 }
 \keyword{datasets}

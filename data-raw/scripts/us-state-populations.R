@@ -2,12 +2,15 @@ library(dplyr)
 library(tidyr)
 us_state_populations <- read.csv(file.path("data-raw", "nhgis0001_ts_nominal_state.csv"),
                                  stringsAsFactors = FALSE)
+
+census_year_pattern <- "A00AA(\\d{4})"
+
 us_state_populations <- us_state_populations %>%
   pivot_longer(
-    cols = matches("A00AA\\d{4}$"),
+    cols = matches(sprintf("%s$", census_year_pattern)),
     names_to = "year",
     values_to = "population",
-    names_pattern = "A00AA(\\d{4})"
+    names_pattern = census_year_pattern
   ) %>%
   drop_na(population) %>%
   mutate(year = as.integer(year)) %>%

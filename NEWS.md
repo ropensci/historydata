@@ -22,6 +22,7 @@
 -   Added `presbyterians`
 -   Fixed data formatting of `paulist_missions`
 -   Added `methodists` (#14)
+-   Added data for the year 2020 in `us_state_populations` (#44)
 
 # historydata 0.1
 
