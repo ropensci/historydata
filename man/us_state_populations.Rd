@@ -5,7 +5,7 @@
 \alias{us_state_populations}
 \title{Populations of US states and territories, 1790-2020}
 \format{
-A data frame with 1034 observations of 4 variables.
+A data frame with `nrow(us_state_populations)` observations of 4 variables.
 }
 \usage{
 us_state_populations
@@ -39,6 +39,7 @@ This dataset has been gathered by the
   Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler,
   Finn Roberts, and Steven Ruggles.
   \emph{IPUMS National Historical Geographic Information System: Version 19.0}
-  [dataset]. Minneapolis, MN: IPUMS, 2024. http://doi.org/10.18128/D050.V19.0.
+  \[dataset\]. Minneapolis, MN: IPUMS, 2024.
+  \doi{10.18128/D050.V19.0}
 }
 \keyword{datasets}
