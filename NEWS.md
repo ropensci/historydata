@@ -23,6 +23,7 @@
 -   Fixed data formatting of `paulist_missions`
 -   Added `methodists` (#14)
 -   Added data for the year 2020 in `us_state_populations` (#44)
+-   Added the year 2020 in `us_national_population` (#45)
 
 # historydata 0.1
 

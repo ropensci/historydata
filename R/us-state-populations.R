@@ -22,7 +22,7 @@
 #'   Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler,
 #'   Finn Roberts, and Steven Ruggles.
 #'   \emph{IPUMS National Historical Geographic Information System: Version 19.0}
-#'   \[dataset\]. Minneapolis, MN: IPUMS, 2024.
+#'   [dataset]. Minneapolis, MN: IPUMS, 2024.
 #'   \doi{10.18128/D050.V19.0}
 #' @examples
 #' head(us_state_populations)

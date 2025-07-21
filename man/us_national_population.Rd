@@ -3,9 +3,9 @@
 \docType{data}
 \name{us_national_population}
 \alias{us_national_population}
-\title{Population of the United States, 1790-2010}
+\title{Population of the United States, 1790-2020}
 \format{
-A data frame with 23 observations of 2 variables.
+A data frame with 24 observations of 2 variables.
 }
 \usage{
 us_national_population
@@ -36,8 +36,11 @@ if(require(ggplot2)) {
 }
 \references{
 This dataset has been gathered by the
-  \href{https://www.nhgis.org/}{NHGIS}. Minnesota Population Center,
-  \emph{National Historical Geographic Information System: Version 2.0}
-  (Minneapolis: University of Minnesota, 2011).
+  \href{https://www.nhgis.org/}{NHGIS}.
+  Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler,
+  Finn Roberts, and Steven Ruggles.
+  \emph{IPUMS National Historical Geographic Information System: Version 19.0}
+  [dataset]. Minneapolis, MN: IPUMS, 2024.
+  \doi{10.18128/D050.V19.0}
 }
 \keyword{datasets}
